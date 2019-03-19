@@ -2,13 +2,13 @@
 import urllib.request
 import urllib.parse
 from lxml import etree
-import pymongo
+import time
 import re
 import json
 
 class CrimeSpider:
     def __init__(self):
-        self.all_data = list()
+        self.f = open('data22.json','a')
 
     def get_html(self, url):
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -19,15 +19,10 @@ class CrimeSpider:
         return html
 
 
-    #def url_parser(self, content):
-    #    selector = etree.HTML(content)
-    #    urls = ['http://www.anliguan.com' + i for i in  selector.xpath('//h2[@class="item-title"]/a/@href')]
-    #    return urls
-
-
     def spider_main(self):
-        for page in range(1, 100):
-            print(page)
+        start = time.time()
+        for page in range(2900, 3000):
+            print("page:{}, time:{}".format(page, time.time()-start))
             try:
                 basic_url = 'http://jib.xywy.com/il_sii/gaishu/%s.htm'%page
                 cause_url = 'http://jib.xywy.com/il_sii/cause/%s.htm'%page
@@ -47,13 +42,14 @@ class CrimeSpider:
                 data['treat_info'] = self.treat_spider(treat_url)
                 data['food_info'] = self.food_spider(food_url)
                 data['drug_info'] = self.drug_spider(drug_url)
-                self.all_data.append(data)
+
+                json.dump(data, self.f, ensure_ascii=False)
+                self.f.write('\n')
 
             except Exception as e:
                 print(e, page)
-        with open("data.json",'w') as f:
-            json.dump(self.all_data, f)
-        print("done!")
+       
+
 
         return
 
