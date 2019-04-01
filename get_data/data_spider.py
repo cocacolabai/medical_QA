@@ -140,18 +140,28 @@ class CrimeSpider:
         return '\n'.join(infobox)
 
     def inspect_crawl(self):
-        for page in range(1, 3685):
+        f_jc = open("jc.json",'w')
+        data = dict()
+        for page in range(1, 3700):
+            print(page)
             try:
                 url = 'http://jck.xywy.com/jc_%s.html'%page
                 html = self.get_html(url)
-                data = {}
-                data['url']= url
-                data['html'] = html
+
+                selector = etree.HTML(html)
+                name = selector.xpath('//title/text()')[0].split('结果分析')[0]
+                desc = selector.xpath('//meta[@name="description"]/@content')[0].replace('\r\n\t','')
+                temp = [name,desc]
+                data[url] = temp
                 #self.db['jc'].insert(data)
-                print(url)
+                #print(url)
+
+
             except Exception as e:
                 print(e)
 
+        json.dump(data, f_jc, ensure_ascii=False)
+
 
 handler = CrimeSpider()
-handler.spider_main()
+handler.inspect_crawl()
