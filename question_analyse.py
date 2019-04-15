@@ -16,6 +16,7 @@ class QuestionAnalyse:
         drug = [i.strip() for i in open('data/drug.txt','r').readlines()]
         food = [i.strip() for i in open('data/food.txt','r').readlines()]
         symptom = [i.strip() for i in open('data/symptoms.txt','r').readlines()]
+        self.deny_words = [i.strip() for i in open('data/deny.txt','r').readlines()]
         self.all_entity = list(set(check + department + disease + drug + food + symptom))
         self.entity_type={}
         for each in check:
@@ -49,13 +50,14 @@ class QuestionAnalyse:
         self.cureprobablity_key = ['多大概率能治好', '多大几率能治好', '治好希望大么', '几率', '几成', '比例', '可能性', '能治', '可治', '可以治', '可以医']
         self.easyget_key = ['易感人群', '容易感染', '易发人群', '什么人', '哪些人', '感染', '染上', '得上']
         self.check_key = ['检查', '检查项目', '查出', '检查', '测出', '试出']
-        self.department_key = ['属于什么科', '属于', '什么科', '科室']
+        self.department_key = ['属于什么科', '属于', '什么科', '科室', '挂']
         self.cure_key = ['治疗什么', '治啥', '治疗啥', '医治啥', '治愈啥', '主治啥', '主治什么', '有什么用', '有何用', '用处', '用途',
                           '有什么好处', '有什么益处', '有何益处', '用来', '用来做啥', '用来作甚', '需要', '要']
         self.money_key = ['钱','花费','费用']
         self.medicare_key = ['医保','报销','医疗保险']
         self.alias_key = ['别名','学名','专业名称','其他','其它']
         self.desc_key = ['描述','介绍','简介']
+        self.disease_key = ['什么病', '怎么回事', '什么情况']
 
     def get_type(self, question):
         entities = self.get_entity(question)
@@ -89,7 +91,44 @@ class QuestionAnalyse:
         if question_contain_key(self.cause_key, question) and 'disease' in entities_type:
             temp_type = 'cause'
             question_types.append(temp_type)
-        
+        if question_contain_key(self.symptom_key, question) and 'disease' in entities_type:
+            temp_type = 'disease_symptom'
+            question_types.append(temp_type)
+        if question_contain_key(self.check_key, question) and 'disease' in entities_type:
+            temp_type = 'disease_check'
+            question_types.append(temp_type)
+        if question_contain_key(self.department_key, question) and 'disease' in entities_type:
+            temp_type = 'disease_department'
+            question_types.append(temp_type)
+        if question_contain_key(self.drug_key, question) and 'disease' in entities_type:
+            temp_type = 'disease_drug'
+            question_types.append(temp_type)
+        if question_contain_key(self.food_key, question) and 'disease' in entities_type:
+            is_deny = question_contain_key(self.deny_words, question)
+            if is_deny:
+                temp_type = 'disease_not_food'
+            else:
+                temp_type = 'disease_good_food'
+            question_types.append(temp_type)
+        if question_contain_key(self.disease_key, question) and 'symptom' in entities_type:
+            temp_type = 'symptom_disease'
+            question_types.append(temp_type)
+        if question_contain_key(self.cure_key, question) and 'drug' in entities_type:
+            temp_type = 'drug_disease'
+            question_types.append(temp_type)
+        if question_contain_key(self.food_key, question) and 'food' in entities_type:
+            temp_type = 'food_disease'
+            question_types.append(temp_type)
+        if question_contain_key(self.acompany_key, question) and 'disease' in entities_type:
+            temp_type = 'disease_acompany'
+            question_types.append(temp_type)
+        if question_types==[] and 'disease' in entities_type:
+            temp_type = 'desc'
+            question_types.append(temp_type)
+        if question_types==[] and 'symptom' in entities_type:
+            temp_type = 'symptom_disease'
+            question_types.append(temp_type)
+
         return entities, entities_type, question_types
 
 

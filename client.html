@@ -2,7 +2,7 @@
 <html>
    <head>
    <meta charset="utf-8">
-   <title>html5 websocket特性</title>
+   <title>小旭医疗导诊</title>
    <style>
       body{
          overflow: hidden;
@@ -61,7 +61,7 @@
       if ("WebSocket" in window){
          console.log("您的浏览器支持 WebSocket!");
          //var ws = new WebSocket("ws://192.168.150.128:9001");
-        var ws = new WebSocket("ws://localhost:9001/");
+        var ws = new WebSocket("ws://192.168.177.130:9001/");
          ws.onopen = function(){
             console.log("websocket 已连接上");
          }
