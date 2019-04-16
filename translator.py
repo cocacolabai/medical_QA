@@ -42,6 +42,7 @@ def translator(entities, entities_type, question_types):
             cypher_list = ["MATCH (n:Disease)-[r:belongs_to]->(m:Department) where n.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
         elif each_question_type == 'disease_drug':
             cypher_list = ["MATCH (n:Disease)-[r:recommand_drug]->(m:Drug) where n.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
+            print(cypher_list)
         elif each_question_type == 'disease_not_food':
             cypher_list = ["MATCH (n:Disease)-[r:no_eat]->(m:Food) where n.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
         elif each_question_type == 'disease_good_food':
@@ -51,9 +52,9 @@ def translator(entities, entities_type, question_types):
         elif each_question_type == 'food_disease':
             cypher_list = ["MATCH (n:Disease)-[r:good_eat]->(m:Food) where m.name = '{}' return n.name, m.name".format(i) for i in entities_dict['food']]
         elif each_question_type == 'disease_acompany':
-            cypher_list1 = ["MATCH (n:Disease)-[r:acompany_with]->(m:Disease) where n.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
-            cypher_list2 = ["MATCH (n:Disease)-[r:acompany_with]->(m:Disease) where m.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
-            cypher_list = cypher_list1+cypher_list2
+            cypher_list = ["MATCH (n:Disease)-[r:acompany_with]->(m:Disease) where n.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
+            #cypher_list2 = ["MATCH (n:Disease)-[r:acompany_with]->(m:Disease) where m.name = '{}' return n.name, m.name".format(i) for i in entities_dict['disease']]
+            #cypher_list = cypher_list1+cypher_list2
             print(cypher_list)
         elif each_question_type == 'symptom_disease':
             cypher_ = "MATCH (n:Disease)-[r0:has_symptom]->(m0:Symptom){} where m0.name = '"+entities_dict['symptom'][0]+"' {} return n.name"

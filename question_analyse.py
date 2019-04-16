@@ -32,9 +32,7 @@ class QuestionAnalyse:
         for each in disease:
             self.entity_type[each]='disease'
 
-        
-
-
+    
         self.symptom_key = ['症状', '表征', '现象', '症候', '表现']
         self.cause_key = ['原因','成因', '为什么', '怎么会', '怎样才', '咋样才', '怎样会', '如何会', '为啥', '为何', '如何才会', '怎么才会', '会导致', '会造成']
         self.acompany_key = ['并发症', '并发', '一起发生', '一并发生', '一起出现', '一并出现', '一同发生', '一同出现', '伴随发生', '伴随', '共现']

@@ -1,5 +1,19 @@
 from websocket_server import WebsocketServer
 from find_anwser import FindAnwser
+import json
+import requests
+
+def auto_reply(text):
+    url = "http://www.tuling123.com/openapi/api"
+    api_key = "58a614b618684bc8b4967221b70c867d"
+    payload = {
+        "key": api_key,
+        "info": text,
+        "userid": "225240"
+    }
+    r = requests.post(url, data=json.dumps(payload))
+    result = json.loads(r.content)
+    return result["text"]
 
 anwser_finder = FindAnwser()
 # Called for every client connecting (after handshake)
@@ -22,6 +36,8 @@ def message_received(client, server, message):
     print("Client(%d)_address%s said: %s" % (client['id'],client['address'], message))
     server.send_message(client,'用户编号'+str(client['id'])+':'+message)
     anwser = str(anwser_finder.anwser(message))
+    if anwser == "":
+        anwser = auto_reply(message)
     server.send_message(client,"小旭："+anwser)
 
 PORT=9001
