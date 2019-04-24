@@ -8,7 +8,7 @@ import json
 
 class CrimeSpider:
     def __init__(self):
-        self.f = open('data22.json','a')
+        self.f = open('symptom_detail.txt','a')
 
     def get_html(self, url):
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -21,30 +21,36 @@ class CrimeSpider:
 
     def spider_main(self):
         start = time.time()
-        for page in range(2900, 3000):
+        for page in range(0, 11000):
             print("page:{}, time:{}".format(page, time.time()-start))
             try:
-                basic_url = 'http://jib.xywy.com/il_sii/gaishu/%s.htm'%page
-                cause_url = 'http://jib.xywy.com/il_sii/cause/%s.htm'%page
-                prevent_url = 'http://jib.xywy.com/il_sii/prevent/%s.htm'%page
+                #basic_url = 'http://jib.xywy.com/il_sii/gaishu/%s.htm'%page
+                #cause_url = 'http://jib.xywy.com/il_sii/cause/%s.htm'%page
+                #prevent_url = 'http://jib.xywy.com/il_sii/prevent/%s.htm'%page
                 symptom_url = 'http://jib.xywy.com/il_sii/symptom/%s.htm'%page
-                inspect_url = 'http://jib.xywy.com/il_sii/inspect/%s.htm'%page
-                treat_url = 'http://jib.xywy.com/il_sii/treat/%s.htm'%page
-                food_url = 'http://jib.xywy.com/il_sii/food/%s.htm'%page
-                drug_url = 'http://jib.xywy.com/il_sii/drug/%s.htm'%page
+                #inspect_url = 'http://jib.xywy.com/il_sii/inspect/%s.htm'%page
+                #treat_url = 'http://jib.xywy.com/il_sii/treat/%s.htm'%page
+                #food_url = 'http://jib.xywy.com/il_sii/food/%s.htm'%page
+                #drug_url = 'http://jib.xywy.com/il_sii/drug/%s.htm'%page
                 data = {}
-                data['url'] = basic_url
-                data['basic_info'] = self.basicinfo_spider(basic_url)
-                data['cause_info'] =  self.common_spider(cause_url)
-                data['prevent_info'] =  self.common_spider(prevent_url)
-                data['symptom_info'] = self.symptom_spider(symptom_url)
-                data['inspect_info'] = self.inspect_spider(inspect_url)
-                data['treat_info'] = self.treat_spider(treat_url)
-                data['food_info'] = self.food_spider(food_url)
-                data['drug_info'] = self.drug_spider(drug_url)
+                #data['url'] = basic_url
+                #data['basic_info'] = self.basicinfo_spider(basic_url)
+                #data['cause_info'] =  self.common_spider(cause_url)
+                #data['prevent_info'] =  self.common_spider(prevent_url)
+                symptom, detail = self.symptom_spider(symptom_url)
+                #data['inspect_info'] = self.inspect_spider(inspect_url)
+                #data['treat_info'] = self.treat_spider(treat_url)
+                #data['food_info'] = self.food_spider(food_url)
+                #data['drug_info'] = self.drug_spider(drug_url)
 
-                json.dump(data, self.f, ensure_ascii=False)
-                self.f.write('\n')
+                #json.dump(data, self.f, ensure_ascii=False)
+                #self.f.write('\n')
+            
+                detail_str = ""
+                for each in detail:
+                    detail_str+=each
+                if detail_str!="":
+                    self.f.write(detail_str+"\n")
 
             except Exception as e:
                 print(e, page)
@@ -118,6 +124,7 @@ class CrimeSpider:
         symptoms_data = {}
         symptoms_data['symptoms'] = symptoms
         symptoms_data['symptoms_detail'] = detail
+        #print(detail)
         return symptoms, detail
 
 
@@ -164,4 +171,4 @@ class CrimeSpider:
 
 
 handler = CrimeSpider()
-handler.inspect_crawl()
+handler.spider_main()

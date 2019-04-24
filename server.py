@@ -34,7 +34,7 @@ def message_received(client, server, message):
     if len(message) > 200:
             message = message[:200]+'..'
     print("Client(%d)_address%s said: %s" % (client['id'],client['address'], message))
-    server.send_message(client,'用户编号'+str(client['id'])+':'+message)
+    #server.send_message(client,'用户编号'+str(client['id'])+':'+message)
     anwser = str(anwser_finder.anwser(message))
     if anwser == "":
         anwser = auto_reply(message)
