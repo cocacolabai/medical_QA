@@ -26,6 +26,8 @@ class FindAnwser:
         question_types = type_result[2]
         for i in range(0,len(question_types)):
             anwser = result[i]
+            if len(anwser)==0:
+                continue
             question_type = question_types[i]
             if question_type=='alias':
                 alias = anwser[0]['n.alias']

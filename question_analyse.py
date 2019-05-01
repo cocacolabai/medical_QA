@@ -1,4 +1,4 @@
-
+import json
 
 def question_contain_key(keys, question):    
         for key in keys:
@@ -12,10 +12,12 @@ class QuestionAnalyse:
 
         check = [i.strip() for i in open('data/check.txt','r').readlines()]
         department = [i.strip() for i in open('data/department.txt','r').readlines()]
-        disease = [i.strip() for i in open('data/disease.txt','r').readlines()]
+        disease = [i.strip() for i in open('data/new_new_disease.txt','r').readlines()]
         drug = [i.strip() for i in open('data/drug.txt','r').readlines()]
         food = [i.strip() for i in open('data/food.txt','r').readlines()]
         symptom = [i.strip() for i in open('data/symptoms.txt','r').readlines()]
+        alias = open('data/alias_dict.json','r')
+        self.alias_dict = json.load(alias)
         self.deny_words = [i.strip() for i in open('data/deny.txt','r').readlines()]
         self.all_entity = list(set(check + department + disease + drug + food + symptom))
         self.entity_type={}
@@ -126,6 +128,10 @@ class QuestionAnalyse:
         if question_types==[] and 'symptom' in entities_type:
             temp_type = 'symptom_disease'
             question_types.append(temp_type)
+        
+        for i in range(0, len(entities_type)):
+            if entities_type[i]=='disease':
+                entities[i] = self.alias_dict[entities[i]]
 
         return entities, entities_type, question_types
 

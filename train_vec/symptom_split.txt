@@ -1,0 +1,5971 @@
+手 冻伤 n v
+听阈 上升 v v
+产褥期 幻觉 妄想 状态 n n v n
+动脉 盗血 n v
+眼神 异常 n a
+谵妄 nh
+巨胃 窦症 n n
+异食癖 nh
+足踝部 光滑 圆形 的 包块 n a n u n
+局部 静脉 压痛 n n v
+胃肠 动力 差 n n a
+流黄鼻涕 nh
+心慌 气 短 a n a
+前臂旋 后 功能 受限 v nd n v
+输尿管 向 心偏移 v p n
+毒品 依赖 n v
+颌骨 膨隆 n nh
+颌骨 关节 痛 n n a
+肖勤 nh
+筛窦 泪囊瘘 v n
+同 向 偏盲 p nh v
+肠闭锁 nh
+前列腺 分泌物 含 ... n v v wp
+肾火旺 nh
+反复 发烧 d v
+前庭神经 受损 n v
+嗜酸 细胞 增加 n n v
+神志 恍惚 n a
+手 指甲 有 白色 斑点 n n v n n
+腹内 压 升高 nl v v
+付暘 nh
+过敏性 血管 水肿 n n n
+产后 抑郁 nt a
+夜间 磨牙 nt n
+撞击征 nh
+胸膜 摩擦音 n n
+足 外 翻 a nd v
+先天性 弓形体 b n
+耳朵 长痘 n v
+痣细胞 n
+髓样 癌变 n n
+冬雪峰 nh
+前胸压 迫性 疼痛 v n a
+脊柱 后 突 n nd v
+气压 伤 n v
+大便 频繁 n a
+脉络膜 凹陷 n v
+卧床不起 i
+眼睑 松弛 和 上 唇 增 厚 n a c v n v a
+癫痫性 头痛 n a
+输卵管 肿块 n n
+咽喉部 干燥 刺痒 n a a
+肝病 面容 n n
+脉搏 快 而 弱 n a c a
+代偿性 腰椎 前 凸 n n nd a
+眼睑 肥厚 n a
+龟头 溃疡 n n
+继发性 失眠 n v
+攻击 行为 v n
+机械 地 重复 周围 ... n u v nd wp
+沮丧 a
+食欲 减退 n v
+慢性 腹痛 b v
+爆发性 水泻 n n
+耳后 疼痛 nt a
+小 书写症 a n
+下腹 局部 疼痛 v n a
+药物性 肥胖 n a
+鼻臭症 n
+面肌 抽搐 n v
+发热 伴 尿频 、 尿... v v n wp n
+乳头肌 断裂 n v
+变应性 鼻炎 n n
+中指 半 月 甲 呈 粉红色 n m n m v n
+丘脑 出血 n v
+股骨 近 侧端 变 宽 n a n v a
+搓手顿足 nh
+静脉 内 持续性 血流 n nd n n
+乳腺 外 上 象限 腺体 增 厚 n nd nd v n v a
+来鑫 nh
+突发性 疼痛 n a
+网球肘 n
+脂肪 代谢 障碍 n v n
+肝 郁气滞 n v
+囊样 斑块 n n
+内分泌 功能 亢进 n n v
+耳道 流血 n v
+肺泡炎症 n
+浅棕 色 斑点 b n n
+急性 非化脓性 一 ... b b m wp
+两 眼下 视 不能 m nt v v
+老年 妇女 乳房 增大 nt n n v
+胃镜 下 表现 出 广... n nd v v wp
+假性 延髓性 麻痹 n n a
+足 和 足趾 不 能 背屈 n c n d v v
+肘关节 疼痛 n a
+数目 较 多 的 咖啡 牛奶 斑 n d a u n n n
+虹膜 根部 离断 n n v
+里 急 后 重 nd a nd v
+吞咽 时 发生 晕厥 v n v v
+乳糜尿 nh
+胃肠道 排空 表现 n v v
+意识 短暂 中断 n a v
+颧红 盗汗 nh v
+粘膜 萎缩 n v
+多 梦 a n
+氮质血症 n
+腓肠肌 撕裂 n v
+胸腰 椎 损伤 n n v
+灰白 大便 z n
+手指 或 手臂部 刺 ... n c n v wp
+烧心 nh
+脓胸 nh
+呼吸音 减弱 n v
+心脏 畸形 n n
+烧伤 后 口渴 v nd v
+乳腺 退化 不 全 n v d a
+恶 臭 便 a a d
+晕轮 效应 n n
+主动 脉钙化 a v
+胸片 示肺 内 孤立 结节 n n nd v n
+出血性 梗死 n v
+运动性 疲劳 n a
+乳房 或 乳头 未 发育 n c n d v
+脉率 增快 n v
+口唇 和 甲床 略带 青紫 n c n v n
+黏液 分泌 亢进 n v v
+小 支气管 粘膜 水肿 a n n n
+新生儿 皮肤 褶皱 n n n
+小腿 以下 缺血 n nd v
+结肠性 便秘 n v
+生长 激素 分泌 过 少 v n v d a
+鼻毛 变 白 n v a
+手术 创伤 v n
+输尿管 狭窄 v a
+泌尿道 阻塞 n v
+掌跖角化 过度 v v
+汗出如油 n
+舌 乳头 消失 v n v
+出现 毒性 颗粒 v n n
+术后 腹胀 nt v
+盆腔 坠痛 n v
+无名指 半月甲 呈 粉红色 n n v n
+厌奶 n
+致死性 上 呼吸道 出血 n nd n v
+肛门 反射 减弱 或 消失 n v v c v
+侧脑室 增 宽 n v a
+慢性 湿疹 样变 b n v
+煤尘 或 胆固醇 结... n c n wp
+肋 间 肩胛带 疼痛 n nd n a
+子宫 压痛 n v
+截瘫 nh
+鼻梁 低 n a
+耳痛 nh
+腺体 结节 n n
+桶 状胸 n n
+幽门肌 肥大 n a
+行为 及 情绪 异常 n c n a
+尿钠 排 出 量 极 低 n v v n d a
+模仿性 自动症 n n
+膝盖 撞 伤 n v v
+气管 移位 n v
+不 能 伸展 拇指 d v v n
+露出 骨头 的 骨折 v n u v
+持续性 下腹 疼痛 n v a
+头部 震颤 n v
+儿童 精神 运动 发育 异常 n n v v a
+胃嵌顿 nh
+内脏性 肥胖 n a
+特发性 水肿 n n
+耳后 红斑 nt n
+泪膜 消失 n v
+四肢肌 张力 增强 n n v
+脾栓 塞 n j
+吞咽 发呛 v v
+十二指肠 狭窄 i a
+压力 和 体位性 多 汗 n c n a n
+瘀血性 痛经 n n
+肺 积水 n n
+晚上 睡觉 出 冷汗 nt v v n
+组织 坏死 v v
+豆瑞克 nh
+血清 铜氧化酶 吸 ... n n v wp
+腿脚 抽筋 n v
+心瓣膜 穿孔 n n
+额叶 癫痫 的 “ 击... n n u wp wp
+鼻粘膜 苍白 水肿 n a n
+听觉 疲劳 n a
+乳汁 分泌 减少 n v v
+呼吸 急促 v a
+肋间 神经痛 n n
+纵隔 浊音界 扩大 v n v
+瞳孔 出现 黄白色 反光 n v n n
+胆心 综合征 n n
+脓包型 痘痘 b n
+付秀菊 nh
+心悸 伴心率 异常 v n a
+心肌 耗氧量 增加 n n v
+右腿 酸痛 n a
+小血管 纤维性 坏死 n n v
+思维 不连贯 n a
+眼球 突出 n a
+腰酸 n
+心脏 刺痛 n n
+脉数 n
+情绪性 头痛 n a
+缓脉 nh
+回声 阴影 n n
+胎儿心 动 过 缓 n v u a
+隋静 nh
+主动 脉硬化 a v
+纵沟 短 n a
+角膜 知觉 减少 n n v
+肺部 啰音 n n
+肌肉 疼痛 n a
+头 跳 痛 n v a
+前囟 张力 增高 n n v
+耳痒 nh
+思维 破裂 n v
+颧 面部 塌陷 v n v
+鼻前庭 囊肿 n v
+血管 畸形 n n
+佟玉涛 nh
+囊肿样 改变 n v
+发作性 咳嗽 n v
+下垂 乳房 v n
+结核 中毒 n v
+痰 中 或 可 找到 蛔... n nd c v v n
+小腿 或 前 臂 间隙 综合征 n c nd n n n
+叹气 后 舒服 v nd a
+节段性 分离性 感觉 障碍 n n v n
+中上 腹持续性 疼痛 nd n a
+拇 、 食 、 中 三 指 ... n wp v wp nd m v wp
+收缩 期 杂音 v n n
+生长 缓慢 v a
+精神 过敏 n v
+血崩 nh
+生理性 黄疸 n nh
+付相 前 nh nd
+舞蹈样 手足 徐动 n n nh
+心前区 隐痛 n n
+口腔 黏膜 脱落 n n v
+面色 潮红 n nh
+围产期 心肌 病变 n n v
+交替脉 n
+下肢 肿胀 和 乏力 n v c a
+头晕目眩 i
+缄默症 n
+无 痛性 口腔 溃疡 v n n n
+颅内 压 增高 nl v v
+喉结 下方 有 肿块 n nd v n
+股 三角区 压痛 n n v
+寒冷 刺激 下 皮损 ... a v v n wp
+新生儿 发绀 n v
+肝火 n
+鼻黏膜 可 呈 颗粒 ... n v v n wp
+大腿 毛细血管 明显 n n a
+共济 失调 v v
+尿液 混浊 n a
+剧烈 头痛 a a
+骶椎腰化 v
+尿流 缓慢 n a
+血尿 n
+指甲 营养 障碍 n n n
+面部 一侧 出 汗 另 ... n nd v n r wp
+小 支气管 痉挛 a n v
+下肢 浅 静脉曲张 n a i
+联合 瓣膜 脱垂 v n v
+血道 播散 n v
+逐渐 加重 的 右侧 ... d v u nd wp
+男性 不 育 n d v
+脸上 黑斑 nl n
+腋部 肿块 n n
+淋巴结 充血 n v
+少尿 nh
+情绪性 疲劳 n a
+免疫性 肾炎 n n
+搏动性 耳鸣 n v
+歪鼻 nh
+对 听 、 视 、 触觉 ... p v wp v wp n wp
+快感 缺乏 n v
+肢骨 纹状 肥大 n n a
+牙齿 萌 出 疼痛 n v v a
+Y- 现象 和 菱形 现象 wp n c n n
+遗尿 n
+脸部 疼痛 n a
+反复 肺 不 张 d n d nh
+尿锰 粪锰 n n
+呻吟 v
+大 阴唇 或 肛门 大 ... a n c n a wp
+乳头 内陷 n n
+蛋氨酸 吸收 不良 综合征 n v a n
+上 肺 纤维化 明显 v n v a
+情感 倒错 n v
+精子 质量 差 n n a
+舌 运动 受 限 n v v v
+睾丸 一 大 一 小 n m a m a
+颤抖 v
+蚊虫 刺 咬 炎症 n v v n
+中暑 nh
+眼 白 蓝 灰色 或 黑色 斑点 n a a n c n n
+指节 增 粗 n v a
+牢脉 nh
+难免 流产 或 不可 ... v v c v wp
+指甲 干瘪 n a
+虹膜 表面 形成 灰... n n v wp
+髓鞘化 延迟 v v
+手腕 部 米粒 大小 ... n n n n wp
+趾短 小 v a
+膝关节 间隙 弹响 和 疼痛 n n v c a
+脑软化 v
+商建磊 nh
+赫丽杰 nh
+蛔虫性 肠梗阻 n n
+吐酸 nh
+排气 障碍 v n
+睡觉 后 全身大汗淋漓 v nd i
+尿中 磷酸盐 排 出 增多 nl n v v v
+颈部 潮红 n nh
+贪食 i
+进食 异常 v a
+情绪 起伏 大 n v a
+喉咙 痒 n a
+睾丸 增大 和 变 硬 n v c v a
+极速型 心率 b n
+鼻尖 或 鼻翼 出现 ... n c n v wp
+绿色 弱 n a
+婴儿 睡觉 前 哭闹 n v nd v
+意志 丧失 性格 n v n
+淀粉样 变性 n v
+指甲 失去 光泽 和 ... n v n c wp
+膈肌 缺 损 n v v
+瞳孔 变形 n v
+小 脑 - 视网膜 综合征 a n wp n n
+牙齿 遇冷 热痛 n v a
+流涎 nh
+小便 不易 排空 v a v
+肛裂 三 联征 v m v
+慢性 盆腔痛 b n
+髋关节 脱位 n v
+呼吸 暂停 样 现象 v v n n
+乳房 肿块 n n
+纤维 结构 不良 n n a
+骨软化症 骨盆 n n
+声带 肥厚 n a
+尿道 结石 n n
+椎体 结核 n n
+小 指 感觉 消失 a v n v
+大 块 肝细胞 坏死 a q n v
+儿童 抽动症 n n
+Q-T 间期 延长 ws n v
+肝功 检查 胆红素 ... n v n wp
+不 宁 腿 综合征 d v n n
+耳孔处 肿物 n n
+镜子 征 n v
+肝 肾阳虚 n n
+足踝 捩伤 n n
+甲胎 蛋白 增高 n n v
+口齿不清 i
+曲梦 nh
+酪氨酸血症 n
+巨大 膀胱 a n
+肢体 的 非凹性 水肿 n u b n
+腰 痛 卧床 加重 n a v v
+血管壁 及 周围 有 ... n c nd v wp
+疣状 增殖 n v
+Irl ws
+上肢 突然 出现 肿胀 酸痛 n a v v a
+测试 v
+超雄 nh
+坐骨神经 痛 i a
+气管 受 压 n v v
+便 鲜红 血 呈 点滴 ... d z n v n wp
+组织 细胞 增生 v n v
+鸡眼 n
+外 斜 A 征 nd v ws v
+脉压 增 宽 n v a
+角膜炎 nh
+肾 阴阳 两 虚 n b m q
+中毒 严重 v a
+昏睡 v
+上睑 下垂 v v
+咳 出 黄色 痰液 v v n n
+咳嗽 伴杵 状指 v v n
+前列腺 增生 n v
+无力 v
+氰化物 烧伤 及 合并 中毒 n v c v v
+吸气 时 出现 连 枷胸 v n v u n
+进食 呕吐 v v
+乳腺 隐痛 n n
+阵发性 痴笑 n v
+构音 不良 - 手笨 ... n a wp n wp
+两 下 肺纹理 增 粗 m q n v a
+革脉 nh
+精液 量 多 n n a
+小腿 乏力 n a
+下 腹胀痛 v n
+耳廓痛 nh
+吐弄舌 nh
+运动性 失语 n v
+颌骨 内 似 牙 的 硬 组织 n nd v n u a n
+化学性 皮肤 灼伤 n n v
+孕妇 耻骨痛 n a
+多 形红 斑样 皮疹 a n n nh
+嗳气 时 有 腐败 鸡... v n v a wp
+指甲 异常 n a
+内 毒素 血症 nd n n
+痉挛性 偏瘫 步态 n v n
+两 肺 弥漫 或 散 在 ... m n v c v p wp
+内 出血 nd v
+回肠 重复 畸形 v v n
+肝 弥漫性 病变 n n v
+食管瘘 nh
+肌肉 紧张性 疼痛 n n a
+鼻部 结核 n n
+鼻粘膜 出血 n v
+现实 解体 n v
+心脏 复苏 n v
+肖媛媛 nh
+面神经 瘫痪 n v
+没有 肛门 v n
+腹腔 积 血 n v n
+肾阳虚 nh
+不 偏 向 一侧 ， 无 ... d d p nd wp v wp
+持续性 头晕 n v
+筋膜 疼痛 n a
+指纹 皱瘪 n n
+中度 或 轻度 头痛 b c d a
+耳垂粘连 nh
+脓疱 nh
+去质 状态 n n
+代谢性 低钾 n n
+吸烟 胸痛 v n
+脑缺血 n
+曲丽江 nh
+肠痉挛 nh
+发育性 畸形 n n
+膝内 翻 膝外 翻 或 髋 内 翻 nl v n v c n nd v
+下 鼻甲 或 中 鼻甲 肥大 v n c nd n a
+肺间质 纤维化 n v
+同向性 偏盲 n v
+肠麻痹 nh
+身体 摇晃征 n v
+饮酒性 面红 n nh
+三叉神经 一二 支 ... n m q wp
+鼻内痛 n
+腰大肌 阴影 消失 n n v
+进行 性颈部 肿块 v n n
+细菌性 心内 膜炎 n nl n
+痴呆 面容 z n
+付 鹏鹏 v nh
+心悸 nh
+肾 外 梗阻 n nd n
+颈部 缺血性 跳痛 n n v
+肖聪 nh
+低位 腰 痛 n n a
+眼前 冒金花 nt v
+耳骨 外 翻 n nd v
+倒 地 笑 d u v
+眼睛 红肿 n v
+喂 食 困难 v v a
+阵发性 或 强直性 惊厥 n c n a
+卵巢 囊肿 n v
+持续性 弛 张热 n v nh
+手掌 软硬度 异常 n n a
+癌性 发热 n v
+深痱 nh
+器质性 弱视 n v
+眼睑 松弛 n a
+帆状 胎盘 n n
+断毛癖 nh
+岳嗣凤 nh
+突发 的 右侧 心衰 v u nd i
+心瓣膜 病变 n v
+手 酸 n a
+骨缝 分开 n v
+眼 干涩 酸胀 ， 易 疲劳 n a a wp a a
+躁狂 nh
+月经 周期 改变 n n v
+远视 屈光度数 增加 v n v
+乳糜胸 n
+脑脊液 鼻漏 n n
+脐带 过 短 或 相对 过 短 n d a c d d a
+背部 出现 小 水泡 n v a n
+尾骨 压痛 及 异常 活动 n v c a v
+肝气 犯 脾 n v n
+膨胀性 萎缩纹 n n
+痰 饮 n v
+主动 脉环 扩张 a v v
+骨骼 肿块 n n
+晕 车 v n
+食欲 缺乏 n v
+面部 脂肪粒 n n
+鼻子 红血丝 n n
+腹肌 紧张 n a
+腹部 中线 处 肿块 n n n n
+血清 降 钙素 水平 增高 n v n n v
+唾液 分泌 增多 n v v
+腓骨肌 对称 萎缩 ... n a v wp
+鼻 干燥 n a
+胸腰 段 及 腰椎 前 凸 消失 n n c n nd a v
+持 物 不 稳 v n d a
+耳源性 眩晕 n v
+髋关节 积液 n n
+腓肠肌 强直 收缩 ... n a v wp
+静脉 萎陷 n v
+腘动脉 搏动 减弱 或 消失 n v v c v
+息肉 nh
+搏动性 头痛 n a
+狭窄 骨盆 a n
+血液 粘度 增高 n n v
+受 凉头 疼 v n a
+尿道口 出现 结节 ... n v n wp
+食指 半月甲 呈 粉红色 n n v n
+烧伤 后 恶心 与 呕吐 v nd a c v
+口腔 粘膜 色素 沉着 n n n a
+牙龈 痛 n a
+基底节 出血 n v
+第三 心 音奔马律 m n n
+腰 痛 伴 肾区 叩击痛 n a v n v
+胆道 运动 功能 障碍 n v n n
+出血性 丘疹 n n
+感觉性 共 济 失调 n d v v
+上 消化道 出血 v n v
+面部 多 毛 n a n
+持续性 尿蛋白 n n
+风湿性 多发性 肌痛症 n n n
+消化道 激惹 n v
+犬吠样 咳嗽 n v
+多 血质 a n
+限局性 巩膜 膨隆 肿物 n n v n
+珍珠 丘疹 n n
+卵巢 萎缩 n v
+手 握物 无力 n v v
+甲亢 危象 n n
+脊髓 内 胶质增生 n nd n
+上 呼吸道 和 口腔 ... v n c n wp
+髓性 纤维化 n v
+食指 不明 原因 疼痛 n v n a
+腕关节 向 尺侧 偏 ... n p n d wp
+脾胃 虚弱 n a
+儿童 行为 孤僻 n n a
+假 临产 a v
+口鼻生疮 nh
+乳糜泻 nh
+不 能 向 尺侧 屈腕 ... d v p n v wp
+肺中叶 纤维 灶 n n n
+角膜 中央 后部 典... n n nd n
+牙齿 较 小 呈半 透明 状 n d a u a n
+胃纳 减退 nh v
+舌位 于 口腔 底 不 能 外 伸 n p n nd d v nd v
+小儿 流 口水 n v n
+眶静脉 回流 障碍 n v n
+贪食 行为 v n
+头皮 平直 裂口 n a n
+过早 衰老 d a
+慢性 腰痛 伴 下肢 麻痛 b n v n a
+气滞 湿阻 v n
+胃 粘膜 脱垂 n n v
+骨软化 v
+胃食管 反流 症状 n v n
+小儿 遗尿 n n
+HIV 感染 ws v
+丧偶 后 适应性 障碍 v nd n n
+意识 朦胧 状态 n a n
+耳廓腹 侧面 局限性 囊肿 n nd n v
+萎缩性 痤疮 n n
+额叶 癫痫 的 眶额区 发作 n n u n v
+自发性 球内 出血 n n v
+失用 步态 v n
+指 ( 趾 ) 甲缺失 v wp n wp n
+肩部 运动 受 限 n v v v
+间歇性 鼻阻 塞 n n j
+颌骨 错位 n v
+枕大神经痛 n
+便 血 且 血 与 粪便 混合 d n c n c n v
+抑郁 nh
+迁徙性 浅 静脉 血栓 形成 n a n n v
+心前区 隆起 n v
+阻塞性 黄疸 n nh
+色素 沉着 与 色素 减退 n a p n v
+前囟 饱满 n a
+膀胱 阴道瘘 n n
+脑干 损害 体征 n v n
+绝汗 nh
+骨端 增大 n v
+肢体 增长 、 增粗 过度 n v wp v v
+肺内 空洞 nl n
+拔牙 后 伤口 经久不愈 v nd n i
+手指 歪斜 n v
+下肢 久 立时 出现 ... n a d v wp
+腕征 nh
+血清 睾酮 浓度 低下 n n n a
+颈内 动脉 创伤性 血栓 nl n n n
+炎性 肉芽肿 n n
+阑尾 周围 脓肿 n nd v
+湿疹 nh
+视觉 识别 障碍性 眩晕 n v n v
+瞳孔 异常 n a
+尿道瘘 nh
+厌食 v
+尿酸化 异常 v a
+烧伤 创面 甜 腥气 ... v n a n wp
+大腿 内侧 瘙痒 n nd a
+食管 溃疡 n n
+局部 静脉 硬索状 n n n
+色觉 丧失 n v
+微血管 心绞痛 n n
+心脑 供 血 不足 n v n v
+胸腺 高度 萎缩 n d v
+脚 脱皮 n v
+指端 及 指 ( 趾 ) ... n c v wp n wp wp
+齿龈 增生 n v
+呼吸浅慢 nh
+室性 早 搏 n a v
+假声 现象 n n
+球蛋白 异常 n a
+青少年 脊柱 侧凸 n n n
+口唇 泛 黑 n v a
+面部 肌肉 痉挛 n n v
+失音 nh
+长头 畸形 n n
+溶血性 黄疸 n nh
+职业 神经症 n n
+产后 出血 nt v
+良性 反应性 改变 b n v
+维生素 D 缺乏 n ws v
+孕妇 胸闷气短 n i
+足 跟 后凸 d v n
+头颈部 活动 受限 n v v
+豆菊 香 n a
+顽固性 口腔 溃疡 n n n
+心理 伤害 n v
+耻骨 联合 分离 n v v
+桡骨头 发育 不良 n v a
+不 能 屈膝 d v v
+走动性 自动症 n n
+小 脑体征 a n
+诉讼狂 nh
+胸痛 伴 胸闷 、 心悸 n v v wp i
+视野 缺损 n v
+眼痛 n
+尿色 酱红 或 呈 酱油色 n nh c v n
+额叶 癫痫 的 前额 ... n n u n wp
+多汗症 n
+面部 斑点 n n
+垂体 危象 n n
+胼胝体 发育 不良 n v a
+肠梗死 nh
+肩 关节 痛 n n a
+酒精性 胃 黏膜 损伤 n n n v
+嗜酒性 幻觉性 精神 错乱 n n n a
+血小板 增多 n v
+牙齿 萌 出 异常 n v v a
+舌苔 厚腻 n n
+呛咳 nh
+乳头 溢液 n n
+大便 粘腻 n v
+血管 过敏性 炎症 n n n
+内脏 出血 n v
+直肠 脱垂 n v
+创伤性 宫腔 粘连 n n v
+三凹征 nh
+气血 虚弱 n a
+角膜 糜烂 n v
+产褥期 恶露 n n
+脚趾 皮肤 黄泡 后 紫 黑 n n n nd a a
+右边 脸颊 长痘 nd n v
+舌苔 薄白 n nh
+鼻塞 及 反射性 头痛 n c n a
+耳轮 发育 不 全 n v d a
+痢疾 nh
+下唇 微痒 增大 如 ... v n v v wp
+冠状动脉 窃血 现象 i v n
+心绞痛 n
+肖蔷 nh
+男性 乳房 大 n n a
+侧卧 时 位于 下侧 ... v n v nd wp
+非对称性 紧张 性颈 反射 b a n v
+肩膀 酸疼 n a
+神经性 尿频 n n
+产后 小便 频数 或 ... nt v n c wp
+膝后 疼痛 n a
+中心 静脉 压 偏 低 n n v d a
+垂体 功能 紊乱 n n a
+眼睑 痉挛 n v
+猿手 畸形 n n
+骨盆痛 n
+脑 实质 的 浸润 n n u v
+肺气压 伤 n v
+耻骨 直肠 肌痉挛性 肥大 n n n a
+头昏 nh
+膀胱 残余 尿量 增多 n n n v
+身体 变形 障碍 n v n
+肝 静脉 回流 障碍 n n v n
+眼睑 肿胀 且 呈 淡 绿色 n v c v a n
+身体 下部 短 于 上部 n nd a p n
+眼眶 内 持续性 、 ... n nd n wp wp
+过度 换气 综合征 d v n
+臀产式 n
+儿茶酚胺 分泌 过量 n v v
+下腹剧 痛并渐 向 ... n d p wp
+神经性 头痛 n a
+会阴 瘘管 或 窦道 形成 v n c n v
+新月状 溶骨性 缺损 n n v
+肛腺 分泌 减少 n v v
+肥达 反应 阳性 n v n
+臀肌 挛缩 n v
+产褥期 躁狂 状态 n a n
+鼻脓涕 有 臭味 n v n
+额叶 癫痫岛 盖 发作 n n v v
+腰酸背痛 n
+付毅 nh
+肌纤维 大小 不等 n n v
+铺路 石样 变性 v n v
+黑头 粉刺 n n
+脚趾 发麻 n v
+排尿 障碍 v n
+血压 高 n a
+一 过 性意识 蒙眬 d v n nh
+舞蹈 病样 动作 n n n
+背部 痉挛 n v
+肌肉 神经痛 n n
+出生 后 “ 四凹征 ” v nd wp j wp
+觉醒 状态 丧失 v n v
+尿 无力 n v
+小腿 溃疡 n n
+青春 前期 闭经 n nd v
+反向 搏动 v v
+人格 改变 n v
+胎儿 肾盂 分离 n n v
+大便 失禁 n v
+结肠 血管 发育 不良 n n v a
+脑白质 稀疏 n a
+幻觉 nh
+晚 发月经 nt v
+心尖 搏动 弥散 n v v
+胆囊壁 变 薄 n v a
+睾丸 疼痛 n a
+望诊 无 明显 心前区 搏动 v v a n v
+尿道 流血 n v
+囊性 坏死 n v
+声门短 而 窄 i c a
+后腹膜 纤维化 n v
+口腔 痛 n a
+尿钙 增多 n v
+TOM ws
+肩 关节 活动 受限 n n v v
+阑尾 感染 n v
+足 背动 脉搏 动 消失 d v n v v
+产后 便 秘 nt d v
+吮乳 困难 v a
+男性 性早熟 n n
+小 腿 内侧 感觉 丧失 a n nd v v
+椎前 旁 软组织 肿... nt nd n wp
+颈性 眩晕 n v
+新生儿期 癫痫 持续 状态 n n v n
+头皮 屑 多 n n a
+胆管 断裂 n v
+颌下腺 疼痛 、 压 痛 n a wp v a
+脉缓 nh
+肝 内 管 梗阻 n nd v n
+老年性 白斑 n n
+腭 异常 v a
+唇圆 或 椭圆形 红斑 i c n n
+跖部 纤维 痛 n n a
+尿道口 有 红斑 和 水肿 n v n c n
+紫绀 和 血 缺氧 n c n v
+肛门 或 肛管 窄小 n c v a
+月经量 少 n a
+腕关节 结节 样 的 突起 n v n u v
+无 活动性 结核 病灶 v n n n
+血栓 后 综合征 n nd n
+闪电 样痛 n n
+阵发性 鼻塞 n n
+剧痛 n
+脉速 而 无力 a c v
+血管 痉挛 n v
+隋海燕 nh
+思虑 伤 脾 v v n
+肝脏 轻度 脂肪 变性 n b n v
+食管腔 狭窄 n a
+输精管 变 粗 n v a
+股沟 及 大腿 内侧 ... n c n nd wp
+立 卧心率 差数 v n n
+四肢 瘫痪 n v
+扁桃体 上 有 灰色 膜 n nd v n n
+打喷嚏 时 胸口 疼 v n n a
+气道 和 食管 之间 的 瘘管 n c n nd u n
+运动 不足 综合征 v v n
+儿童期 过度 生长 n d v
+硬脊膜 膨出 n v
+手足 脱皮 n v
+器质性 早泄 n v
+目赤 nh
+角膜 灼伤 刮 伤 n v v v
+肖俊平 nh
+横结肠 移位 i v
+粪便 排 出 过程 异常 n v v n a
+颈后 及 肩部 皮肤 发 硬 nl c n n v a
+梁明涛 nh
+尿 比重 增高 n n v
+术后 疼痛 nt a
+放射性 疼痛 n a
+鼻腔 干燥 及 结痂 n a c n
+骨内 损害 nl v
+肢端 硬化 n v
+等 渗尿 v n
+咽喉 干燥 充血 n a v
+肾 上 腺 增生 n nd n v
+寒战 nh
+闭经 - 乳溢 - 不 ... v wp i wp d wp
+WUJ ws
+醉 汉 步态 v j n
+囊肿 nh
+心脏 杂音 n n
+女性型 肥胖 n a
+膀胱 痉挛 n v
+食道 粘膜 水肿 充血 n n n v
+特禀 体质 n n
+角膜 表面 三角形 胬肉 n n n n
+低 钾血症 a n
+硬下疳 nh
+血液 粘 滞度 增高 n v n v
+匐行疹 nh
+心包 缩 窄 n v a
+胸腔 积液 n n
+进行性 消瘦 n a
+急性 尿潴 留 b n v
+院博 nh
+胸段 或 腰 段 脊髓伤 n c n n n
+排尿 困难 及 尿潴 留 v a c n v
+胎儿宫 内 窒息 n nd v
+梁秋霞 nh
+奔马律 心音 v n
+颈部 肿瘤 nl n
+子宫 内膜 脱落 n n v
+苦笑 面容 v n
+面 下部 头痛 n nd a
+胯骨痛 nh
+妊娠 时 皮肤 皱褶 ... v n n n wp
+冬春季 的 慢性 咳... nt u b wp
+声带 老化 n v
+碱烧伤 n
+臀部 闪电 疼痛 n n a
+器质性 木僵 n n
+乳头 脱皮 n v
+乳头状 肿物 n n
+胰石 阻塞 n v
+四肢 屈侧 出现 橘... n nd v n
+X 型 腿 ws k n
+横结 肠息肉 v n
+上半身 肥胖型 v n
+胃 移位 n v
+小肠 内 的 低 pH n nd u a n
+黏液尿 nh
+凝视征 nh
+重压感 、 紧箍感 ... n wp n wp
+足趾 屈曲 挛缩 n v v
+肝区 血管 杂音 n n n
+背心 冷 n a
+蔷薇 疹样 皮疹 nh nh nh
+闭症 n
+烧伤 创 面焦 痂提 ... v v n n wp
+肾病性 浮肿 面容 n v n
+疼痛性 股 白肿 n n n
+额区 感觉 减退 n v v
+血沉 增 快 n v a
+儿童 恐怖症 n n
+腹肌 严重 发育 不良 n a v a
+鼻端 出 火 n v n
+尿路 结石 n v
+新生儿 脐部 出血 n n v
+脑痉挛 nh
+风寒 湿痹 n n
+黏液 便 n d
+不规则 热 d a
+嗜酸性 粒细胞 增多 n n v
+间歇性 寒颤 n n
+女性 腰 痛 n n a
+β - 氨基 酸尿 nh wp nh n
+蹼状 瘢痕 n n
+纤维 膜 包裹 n n n
+排卵期 腹痛 n v
+骨刺 形成 n v
+髌骨 劳损 n v
+体循环 淤血 n n
+气郁 体质 n n
+指 ( 趾 ) 骨梗死 v wp n wp n
+尿道 的 条索状 肿块 n u n n
+局部 压 痛 n v a
+重度 肥胖 b a
+外伤性 低位 截瘫 n n n
+下垂肩 nh
+孕中期 腹痛 nt v
+胃 内压 增加 n n v
+头皮 结痂 n v
+反复 上 呼吸道 感染 d v n v
+肝 内 钙化 n nd v
+输尿管 痉挛 v v
+胃肠道 胀气 n n
+身体 的 低垂 部位 水肿 n u v n n
+耳道 异物 n n
+眼皮 跳 n v
+指鼻 不准 v v
+睾丸 萎缩 n v
+病理性 REM 睡眠 n ws v
+乳房 疼痛 n a
+烧灼性 疼痛 n a
+鼻粘膜 肿胀 n v
+低 镁血症 a n
+尿常规 异常 n a
+先天性 铜 代谢 障碍 b n v n
+眶周 水肿 nh n
+妊娠 时 伴 有 腹痛 ... v n v v v wp
+儿童 行动 迟缓 n v a
+近迫性 心肌梗塞 n n
+血肿 形成 n v
+龟 头发 黑 n n a
+眼睑 异物 n n
+热结节 nh
+持续 高烧 v n
+闭经 v
+上 唇疖肿 v n
+失眠 头痛 v a
+寒气 重 n a
+腰 背 刺 痛 n n v a
+瘤体 坚硬 n a
+鼻端 肥大 n a
+付锐 nh
+小儿 脸上 有 白斑 n nl v n
+腰大肌脓肿 nh
+食管体 平滑肌部 ... n n wp
+慢性 咳嗽 b v
+扑翼样 震颤 o v
+脓性 分泌物 n n
+视 空间 功能 受损 v n n v
+尿频 伴 尿急 和 尿痛 n v n c n
+尿偏碱 n
+心脏 重量 增加 n n v
+胀坠感 n
+近视 a
+虚火 n
+咳 巧克力 色 痰 o n n n
+点状 痤疮 n n
+腰骶 疼痛 n a
+心 内 分流 为 右 向 左 n nd v p nd p nd
+尿滤 过分 数 明显 下降 v a n a v
+子宫 直肠窝 积液 n n n
+上 半身 消瘦 ， 下 ... nd n a wp nd wp
+舌体 肥大 n a
+月经 稀少 n a
+胸壁 疼痛 n a
+嗓音 粗 n a
+吸气 时 胸口 痛 v n n a
+勃起 时间 短 v n a
+肘外侧 夜间 痛 n nt a
+排 便 时间 过 长 v n n d a
+吐血痰 nh
+胸腰 驼背 n n
+无菌性 赘 生物 b n n
+颅面 骨畸形 n n
+菱形 - 现象 n wp n
+寂静腹 nh
+肺动 脉瓣 狭窄 杂音 v n a n
+脾 肾 阳虚 n n nh
+恐风 nh
+细菌 感染 n v
+腕关节 圆形 的 软包块 n n u n
+腹腔 出血 n v
+牙 的 咀嚼 磨损 n u v v
+指甲 呈 筒形 n v n
+蹲踞 现象 v n
+部位 不 定 的 疼痛 n d v u a
+烂 眼边 a n
+口唇 常 无力 而 不 能 鼓气 n d v c d v v
+串 珠肋 v n
+性施 虐癖 n v
+褪黑色素 增多 n v
+子宫 有 局限性 轻压痛 n v n a
+中心 暗点 或 弓形 暗点 n n c n n
+耳前 淋巴结 肿大 nt n v
+蜂窝肺 nh
+病理性 听觉 适应 n n v
+行走 时 发生 腓肠肌 麻木 v n v n a
+新生儿 呕血 和 便血 n n c n
+胃酸 缺乏 n v
+胳膊 疼痛 n a
+指甲 倒刺 n v
+胎 膜 破裂 n n v
+记忆力 消失 n v
+外 阴痛 nd n
+交感神经代偿性 亢进 n v
+两 肺 满 布粟 粒状 阴影 m n a n n n
+短暂性 眩晕 n v
+血糖值 升高 n v
+癫痫 的 失神 发作 n u n v
+肌肉 挛缩 n v
+尿 中 有 特殊 鼠 臭味 n nd v a n n
+肺 内 病变 n nd v
+两 眼 干涩 m q a
+手指 和 足趾 无 痛... n c n v wp
+蹲 下 起来 后 眼前 发 黑 v v v nd nt v a
+原 发灶 不明 的 转移 灶 d v v u v n
+阵发性 夜间 呼吸 困难 n nt v a
+脊柱 病变性 骨盆 畸形 n n n n
+被动 体位 a n
+肺门 阴影 增多 n n v
+小儿 长牙 发烧 n n v
+腓肠肌拉伤 nh
+眼前 冒火花 或 眼前 闪光 nt v c nt n
+先天性骨 发育 不良 i v a
+气管 和 纵隔 移位 n c v v
+呼吸气 为 腐 臭味 n v v n
+过分 地 惊跳 反应 a u v v
+腰臀部 广泛 性疼 ... n a n wp
+心源性 晕厥 n v
+剧烈 运动 后 腰 痛 a v nd n a
+肘关节 不 能 屈曲 n d v v
+舌 咬 伤 n v v
+颈椎 肥大 n a
+排便感 n
+面部 半球形 蓝黑色 结节 n n n n
+酒悖 nh
+下巴 长痘 n v
+鼻翼 边缘 缺损 n n v
+肩 胛骨 突出 n n a
+伤口 愈合 发痒 n v v
+骨髓水肿 nh
+紧脉 nh
+肛门 剧痛 n n
+酒精性 幻觉症 n n
+囟门 闭合晚 n i
+亓红菲 nh
+小腹 刺痛 n v
+持续性 发热 n v
+假孕 nh
+食管 黏膜 呈 管型 剥脱 n n v n v
+夹层 血肿 n n
+精神 创伤 n n
+手脚 冰凉 n z
+小肠 扩张 充气 n v v
+掌跖 发红 v v
+颈部 扭伤 n v
+钙离子 内流 n n
+头晕 nh
+震颤性 肌强直 ， ... n a wp wp
+Q 角 异常 ws n a
+粘液 腺体 肥大 n n a
+血性 耳分泌物 n n
+手 肌肉 萎缩 n n v
+无 目的 咀嚼 舐唇 v n v n
+折刀 现象 v n
+视网膜 Roth 斑 n ws n
+潮式 呼吸 b v
+幻味 n
+日常 生活 能力 减 ... b v n v wp
+剥夺性 弱视 n v
+耳郭 突出 n a
+唾液腺 肿大 n v
+猩 红热 面容 n n n
+虚汗 nh
+特征性 趾端 大片 状 脱皮 n n n n v
+腹部 逐渐 胀大 n d v
+耳内 闭塞感 nl n
+眼底 出血 和 渗出 n v c v
+肛 周 皮肤 有 湿疹 n n n v n
+类风湿 结节 n n
+眼外肌 运动 无力 n v v
+反复 鼻出血 d v
+兰甜甜 nh
+腰骶部 或 下 腰部 疼痛 n c v n a
+嗜红 细胞 综合征 b n n
+反复 呕血 d v
+病理性 发笑 和 哭喊 n v c v
+蜕膜 残留 n v
+呈 开口 状态 而 不 能 闭合 v v n c d v v
+黑尿 nh
+肝 阴 虚 n a a
+盲点 n
+儿童 不 敢 平卧 睡觉 n d v v v
+选择性 缄默症 n n
+尿黑酸 n
+下 腹部 反 跳痛 nd n v v
+输尿管 间 脊肥大 n nd a
+消耗性 体重 下降 n n v
+踝阵挛 nh
+上睑 黄 白色 小 点 v a n a n
+尿液 臭味 n n
+泡样 水肿 n n
+胎盘大 nh
+轻度 烧伤 d v
+肾上腺 危象 n n
+病理性 Q 波 n ws n
+神经性 胃痛 n n
+指甲 夹伤 n v
+晶状体 皱缩 n v
+小儿 湿疹 n n
+新生儿 贫血 n v
+晨 起 时颈 背部 弥... nt v n n wp
+八字 脚步 态 n n n
+反复 发作 的 带状 疱疹 d v u n n
+判断力 和 定向力 障碍 n c n n
+上 颚疼 nd v
+图形 定向 障碍 n b n
+肺弥散 功能 障碍 n n n
+心脏 骤停 n v
+乳腺 随月 经 出现 胀痛 n d p v v
+癌细胞 逆行 播散 n v v
+下肢 外展 n n
+口唇 周围 麻木感 刺痛 n nd n v
+巨大 颅骨 缺损 a n v
+肩 背部 沉重感 n n n
+无动性 缄默 n v
+喉部 有 痰 n v n
+思维 贫乏 n a
+楚春岭 nh
+口涩 nh
+唇厚舌大 nh
+外眼源性 眩晕 n v
+腋区 疼痛 n a
+儿童 尿床 n n
+肩 胛骨 酸痛 n n a
+排尿 不 畅 v d a
+癫痫 的 植物 神经性 发作 n u n n v
+咽异感症 n
+表演型 人格 障碍 n n n
+鼻子 发 黑 n v a
+肝 腹水 n n
+真皮 侵袭性 生长 n n v
+牙齿 颜色 异常 n n a
+长头巨脑 n
+小孩 频繁 眨眼 n a v
+脐窝 内 有 肉芽 组织 增生 n nd v n n v
+腰 背 酸痛 n n a
+肌肉 出血 n v
+脸部 肌肉 酸痛 n n a
+斜视性 弱视 n v
+类 戒断 反应 n v v
+头发 枯黄 稀疏 n z a
+眼 张 不 开 n v d v
+鼻孔 干疼 n v
+胆碱 能 危象 n v n
+男型 骨盆 b n
+脓毒性 血症 或 多... n n c m
+髋 、 膝 、 肘部 呈 ... n wp n wp n v wp
+舌炎 nh
+频繁性 惊醒 n v
+旅行者 水肿 n n
+维生素 缺乏 n v
+间歇性 血尿 n n
+总胆 红素 高 n n a
+粉碎性 骨折 n v
+唇角 脱屑 n v
+体温 调节 紊乱 n v a
+排尿 前后 膀胱区 痛 v nd n a
+排钾 过 多 v d a
+三角肌 疼痛 n a
+良性 假肥 大型 肌... b n b n
+鼻头 长 痘 n v n
+铅管样 强直 n a
+恶食酸物 n
+微炎 症状态 n n
+情绪性 感冒 n v
+肾小球 旁器 增生 n n v
+角形 甲 弧影 n m n
+食管 左壁 形成 压 足跡 n n v v n
+胆红素 升高 n v
+发音 障碍 n n
+角膜 树枝状 改变 n n v
+组织 液 渗出 v n v
+咳嗽 伴哮 鸣音 v v n
+面部 闪电 疼痛 n n a
+多 指 （ 趾 ） 畸形 a v wp n wp n
+血清 甲胎 蛋白 升高 n n n v
+扁桃体 发炎 n v
+悬雍垂松 弛细长 nh n
+指 （ 趾 ） 麻木 v wp n wp a
+肾内 动脉 变细 或 阻塞 j n v c v
+无脉症 nh
+实火 n
+恶 食 凉物 a v n
+不 真实感 d a
+先天性 虹膜 缺乏 b n v
+喉头 增大 n v
+尿液 呈 黑色 n v n
+喉部 痉挛 n v
+口唇 周围 有 炎性 ... n nd v n wp
+睫状 充血 n v
+视野 向心性 缩小 n n v
+功能性 震颤 n v
+扁平型 骨盆 b n
+毒蕈 碱样 症状 n n n
+声音 异常 n a
+产妇 颈背 酸痛 n n a
+舌淡体胖 nh
+腹膜 后 纤维化 n nd v
+胃肠 功能 不良 n n a
+闭孔神经 损害 i v
+睑结 膜 硬 而 扁平 的 乳头 v n a c v u n
+口腔 溃疡 n n
+腹膜炎 nh
+不 自主 运动 d v v
+挑剔嘴 v
+小 头 a n
+纵行 骨折 v v
+脑室 受 压 移位 n v v v
+食指 指甲 凹陷 n n v
+动脉 导管 未 闭 n n d v
+玫瑰疹 n
+低 钠血症 a n
+女性 腰骶 生理性 ... n n n wp
+神经 疼痛 n a
+剧烈 疼痛 a a
+肢体 或 躯干 姿势 异常 n c n n a
+额部 白斑 n n
+肛管 狭窄 n a
+持续 的 肌肉 收缩 v u n v
+外伤性 出血 n v
+腹部 压 痛 n v a
+偏身 麻木 v a
+下肢 振动觉 和 位 ... n nh c n wp
+溃疡 分泌物 恶臭 n n n
+眼 白发红 n nh
+血尿伴 排尿 不 畅 n v d a
+动作 样壁 n n
+HGX ws
+Todd 瘫痪 （ ... ws v wp wp
+结痂 nh
+男性化 v
+绿色 尿 n n
+乏力 a
+鼻腔 前部 出血 n nd v
+胰岛 细胞 破坏 n n v
+胸部 长痘 n v
+肌束 震颤 n v
+骨产道 异常 n a
+小腿 和 踝关节 周... n c n nh
+尿液 有 白色 沉淀 物 n v n v n
+鼻尖 上 翘呈 马鞍状 n nd v n
+记忆 受损 n v
+“ 淡漠型 ” 甲亢 wp b wp n
+眼球 不同轴 n a
+趾 ( 指 ) 环状 缩窄带 n wp v wp n n
+胎儿宫 内 发育 迟缓 n nd v a
+产后 极度 虚弱 nt d a
+浮脉 n
+神经根 刺激 n v
+细胞 感染 增大 n v v
+悬垂型 心脏 b n
+下肢 或 周身 软瘫 n c n n
+足掌痛 nh
+结肠息肉 n
+腹股沟 淋巴结 肿大 n n v
+乳房 肥大 n a
+子宫 硬 如 板状 n a v n
+化脓 结痂 n v
+韧带 骨化 n v
+甲状腺扪 及 光滑 ... n c a wp
+反复 发作性 头痛 d v a
+上 腹部 肿块 及 腹胀 nd n n c v
+睡眠 中 周期性 腿动 v nd n v
+肺 外 症状 n nd n
+精子 大头 畸形 n n n
+黑色 鼻涕 n n
+异常 粗大 的 舞蹈样 动作 d a u n n
+痤疮 样皮疹 v n
+指甲 易碎 n a
+期外 收缩 nl v
+毓卓 nh
+先兆 流产 n v
+指趾端干性 坏死 n v
+打喷嚏 v
+蜘蛛痣 nh
+疱疹 nh
+深 感觉 障碍 d v n
+剧痒 的 疣状 结节 n u n n
+胀感 n
+真性 菌尿 n n
+心脏 增大 n v
+烧伤 后 脉搏 增速 v nd n n
+排 便 困难 v d a
+定位 神经 体征 v n n
+骶骨处 持续性 疼痛 n n a
+枕横 位 入 盆 m q v n
+酒糟 鼻 n n
+肾脏 缩小 n v
+生长 激素 分泌 过 多 v n v d a
+浅 感觉 减退 或 缺失 a n v c n
+上 眼睑 增 厚 松弛 nd n v a a
+体内 湿 热 nl a a
+肝肿大 nh
+肺部 小结节 n n
+付庆东 nh
+小儿 双 下肢 蜷曲 n m n v
+骶部 可 有 皮赘 ， ... n v v n wp wp
+早 搏 a v
+斜形 骨折 n v
+腰椎骶化 v
+痛经 n
+感染 诱发 昏迷 v v v
+射 精疼 v a
+尿中 持续性 排钠 nl n v
+无 腋毛 v n
+慢性 盆腔 疼痛 b n a
+情绪性 腹痛 n v
+面部 皮肤 油腻 n n a
+髓质 海绵肾 n n
+结肠 黑 变 n a v
+精索 静脉曲张 n i
+风寒 咳嗽 n v
+啤酒 肚 n n
+腹壁 切口处 有 肿物 突出 n n v n a
+晋波 nh
+青春期 功血 nt n
+励 银智 v n
+遗传性 出血性 毛... n n wp
+子痫 nh
+外耳道癣 n
+捻 发音 v n
+面部 白斑 n n
+心包 内 出血 n nd v
+胆结石 nh
+肝功能 异常 n a
+尿道 内 虫 咬感 或 ... n nd n v c wp
+保密 v
+牙 列 稀疏 n v a
+胎 心音 消失 （ 无... n n v wp wp
+咽部 慢性 充血 n b v
+眼前 异常 闪光 ， ... nt d v wp wp
+恶 露 a v
+脓痰 nh
+阑尾壁 缺血 坏死 n v v
+下唇 肿胀 外 翻 n v nd v
+认知 神经 功能 丧失 v n n v
+食欲 下降 n v
+候亚益 nh
+颌骨 囊肿 n v
+肺血 增多 n v
+月经 推迟 n v
+足 不 能 跖屈 和 内翻 d d v v c n
+老年性 眩晕 n v
+小腿肚 抽筋 n v
+“ 5P ” 征 wp ws wp v
+身痛 n
+无 胆汁 粪便 v n n
+心脏 震颤 n v
+讲话 频率 小 ， 不 ... n n a wp d wp
+锥体 外系 损害 n n v
+扳机 指 的 弹响 n v u n
+髋 外侧 酸胀 n nd a
+假性 前房 积脓 n n n
+乳白 色尿 b n
+肾 损害 n v
+视盘 倾斜 n v
+急性 病容 b n
+肥胖纹 n
+夜间 咳嗽 nt v
+脱症 n
+心包炎 n
+核 分裂 象 增多 n v n v
+胆总管 结石 n n
+浅 静脉 有 一 发 红... a n v m q wp
+隐性 产后 出血 b nt v
+面部 浮肿 n v
+巨指 ( 趾 ) n wp nh wp
+血睾酮 降低 n v
+难 治 性 贫血 a v n v
+妊娠期 胸痛 n n
+鼻衂 nh
+精液 发 黄 n v a
+脊突 叩痛 n v
+足趾 伸屈 时足部 疼痛 n v n a
+乳腺癌 的 远处 转移 n u nl v
+耳 屎 多 n n a
+尿液 氨 水味 n n n
+药疹 nh
+牙 移位 n v
+下肢 短缩 n v
+骨溶解 n
+音 调韵律 的 异常 n v u a
+脚趾 痛风 n n
+产后 极端 行为 nt n n
+瘀斑性 环 n v
+吞气 i
+乳头 破碎 n v
+纵隔 淋巴 结 增生 v n v v
+局部 灼热 n z
+排便 频率 异常 v n a
+说话 时 字 词 不 能 连续 v n n n d v a
+婴儿 脊柱 侧凸 n n n
+指 （ 趾 ） 甲 颜色 改变 v wp n wp m n v
+硬斑 nh
+急性 房颤 b n
+神经性 耳聋 n v
+咽部 有 散 在 灰白 ... n v v p z wp
+肌肉 拉伤 n v
+埋藏 齿 v n
+结肠 膨胀 n v
+血管壁 变 薄 n v a
+大腿 内 侧痛 n nd v
+肌腱 断裂 n v
+脂肪 过 多 n d a
+先天性 腹壁 发育 不 全 b n v d a
+腕关节 囊状 的 突起 n n u v
+浅眠 nh
+溃疡 外观 呈菜 花样 n n v n
+胸大 肌外 侧 缘处 ... j n nd n wp
+心境 不良 n a
+滴状 角膜 n n
+凹陷 瘢痕 v n
+婴儿 枕秃 n nh
+曲辉 nh
+乳腺 内 无 痛单 发 ... n nd v n v wp
+头皮 坏死 n v
+角膜 晶状体 粘连 n n v
+输尿管 梗阻 v n
+肌红 蛋白 偏 高 b n d a
+胆囊 积脓 n n
+齿龈 出血 n v
+骨质 疏松 n v
+腓肠 肌痉挛性 疼痛 n n a
+乳头 样 增生 变化 n n v v
+性 兴趣 减 退感 n n v n
+血清 中高 水平 的 ... n j n u wp
+面部 皮肤 有 结节 状 增生 n n v n n v
+喉咙 痛 n a
+手指 小 关节 痛肿 n a n v
+拇趾 与 二 趾 趾间 距 大 n p m n nd v a
+男子性 功能 障碍 n n n
+脚 臭 n a
+眼结膜 上 出现 瘀点 n nd v n
+血丝痰 n
+下 腹部 压 痛 nd n v a
+一侧 颜面 肥大 nd n a
+右心 功能 不 全 n n d a
+下肢 皮肤 营养性 改变 n n n v
+愚型 样睑裂 歪曲 b n v
+小儿 腿 抽筋 n n v
+泪腺 不 发达 n d a
+肾上腺 中毒 n v
+肢体 或 躯干 麻木 n c n a
+产后 大便 失禁 nt n v
+眼 充血 n v
+口 粘腻 n v
+自主 神经 反射 v n v
+乙肝 表面 抗原 （ ... n n v wp wp
+子宫 内膜 增 生性 病变 n n v n v
+运动 耐力 降低 v n v
+鼓膜 发红 ， 耳 后 红肿 n v wp n nd v
+以 头昏 为主 的 眩晕 p v v u n
+灌肠癖 nh
+感觉 过度 v v
+维生素 K 缺乏 n ws v
+PAS 染色 阳性 ws v n
+手 热 n a
+肋骨 融合 n v
+运动 时 膝前 疼痛 加剧 v n nd a v
+直肠 狭窄 n a
+痔出血 nh
+喉 头发 紧 n n a
+肚脐 疼 n a
+口鼻 周围 发绀 n nd v
+口唇 严重 充血 呈 红色 n a v v n
+恶心 a
+心包 填塞 n v
+血管 迷走性 晕厥 n n v
+性交 疼痛 v a
+咽反射 nh
+瘀斑 nh
+眼部 胀痛 n v
+情感 依赖 n v
+鼻痒 nh
+脑干 病变 n v
+脑细胞 脱水 n v
+手麻 n
+牙 釉质 腐蚀 n n v
+肝脏 病变 弥漫 n v v
+角膜 瘘 n n
+婴儿 过 胖 n u a
+四 边 孔处 的 局限 压痛 m q n u v v
+生理性 萎缩 n v
+阔韧带 内 形成 血肿 n nd v n
+看 东西 变 远 v n v a
+咽鼓管 堵塞 n v
+星迹 步态 n n
+分泌性 腹泻 n v
+颞部 疼痛 n a
+胰腺 功能 不足 n n a
+血精 n
+肛门 疼痛 n a
+胆囊 体积 缩小 n n v
+脸红 nh
+绝经 后 子宫 内膜 增 厚 v nd n n v a
+脾虚 nh
+状 颅皮 n n
+肺动脉 瓣区 可 听 ... n n v v wp
+输精管 疼痛 v a
+脸裂 nh
+气道 高反应性 n n
+下背部 僵硬 和 疼痛 n a c a
+四肢 长骨 和 肌肉 ... n n c n wp
+老人 髋部 疼痛 n n a
+耳垂 里 有 硬疙瘩 n nd v n
+普秃 nh
+股 前 外侧 麻木 、 蚁行感 n nd nd a wp n
+岳晗 nh
+小脑 畸形 n n
+结脉 n
+难 入睡 或 易 惊醒 a v c a v
+指 ( 趾 ) 和 小腿 ... v wp n wp c n wp
+呼吸 反射 调节 受损 v v v v
+静止性 震颤 n v
+放射 后 的 臂丛 神 ... v nd u n n wp
+注射 针眼 和 手术 ... v n c v wp
+口干舌燥 i
+大便 黑绿色 n n
+粪样 呕吐物 n n
+咯血伴 胸痛 v n
+腱反射 异常 v a
+黑 便 a n
+坏疽 脓皮 n n
+展峰 nh
+感觉 倒错 v v
+四肢 麻木 n a
+膀胱 纤维化 n v
+慢性 贫血 b v
+尿流 中断 n v
+情绪性 进食 n v
+胃火口臭 nh
+突然 出现 剧烈 的 腰痛 a v a u n
+低 分子 蛋白尿 a n n
+胸锁乳突肌 肿大 n v
+面 长 耳大 n a n
+大便 酸臭 n a
+小儿 鼻塞 n n
+晚 霞样 或 夕照 样 眼底 nt n c n n n
+耳溢液 n
+耳垂长痘 nh
+下肢 拖曳 步态 n v n
+咳痰 nh
+口咸 nh
+咳 铁锈色痰 v n
+疤痕 奇痒 n n
+体位性 眩晕 n v
+唇干舌燥 i
+非 依赖性 物质 所 ... h n n u wp
+面部 畸形 n n
+膝盖 砸 伤 肿痛 n v v n
+持续性 剧烈 的 肩痛 n a u n
+三 尖瓣 下 移 m n nd v
+肝结节 n
+脂肪瘤 n
+手 抽筋 n v
+先天性 心脏 传导 b n v
+口 及 咽部 烧灼感 n c n n
+腋窝 多 汗 n a n
+低 颅压 综合征 a n n
+鼻甲 肥大 n a
+骨皮质 变 薄 n v a
+口鼻血性 分泌物 n n
+表情 迟钝 n a
+口角 和 鼻周 出现 ... n c n v wp
+泌乳 障碍 v n
+指间 关节 不 能 屈曲 n n d v v
+外阴 干涩 n a
+脑 实质 深部 出血 n n n v
+三联征 nh
+覃初丹 nh
+舌苔 黄 n nh
+消化道 内 毛石 或 ... n nd n c wp
+椎管 大小 变化 n n v
+心脏 左室 舒张 功能 减退 n n a n v
+血性 渗液 n n
+伸舌样 痴呆 n z
+小肠 损伤 n v
+右上 腹持续 性剧 ... nd v n wp
+涩脉 nh
+虎 眼征 n n
+偏侧 不 注意 nd d v
+鼻外部 膨胀 隆起 n v v
+脐突 nh
+心力 贮备 减少 n v v
+有 排卵性 功血 v n n
+摸索 反射 v v
+晶状体 囊壁 破裂 n n v
+XA- 现象 wp n
+手腕 在 大拇指 侧 的 疼痛 n p n nd u a
+脚痒 nh
+小腿 下部 色素 沉... n nd n wp
+脖子 扭痛 n v
+要 利琴 v n
+胎 痣 n n
+黑斑 nh
+颅骨 增生 n v
+“ 三 偏 ” 症 wp m a wp n
+肢体 震颤 n v
+脑疝 危象 n n
+局部 软组织 浸润 n n v
+耳下区 的 韧实 肿块 n u a n
+龟头 异味 n n
+新生儿 打嗝 n v
+局部 可 摸 到 肌腹 ... n v v v n wp
+心肌顿抑 nh
+先天性 无 阴道 n v n
+跌倒 发作 v v
+多 根 肋骨 骨折 m q n v
+足跟 的 后 上方 疼 ... n u nd nd a wp
+眼睛 发红 n v
+恋 毛巾 被 癖 v n p n
+子宫 高度 低于 妊娠 周数 n d v v n
+臂丛神 经受 累 n v a
+骨骺 提前 闭合 n v v
+肖新洋 nh
+扁桃体 变 小 而 坚韧 n v a c a
+久 病 亏损 a v v
+眼 屎 多 n n a
+间歇性 跛行 n v
+子宫 增大 明显 （ ... n v a wp wp
+癌症 晚期 胃肠道 症状 n nt n n
+伤口 结疤 n n
+腰 背 痛 n n a
+汗腺 分泌 体味 n v v
+颈部 不 稳感 n d a
+肝窦 扩张 nh v
+眼球 震颤 n v
+肺受累 nh
+垂体 切除术 后 昏迷 n n nd v
+精液 稀 n a
+无羞惭感 nh
+耳内 疼痛 nl a
+局部 淋巴结 肿大 n n v
+口腔 血泡 n n
+上肢 周围性 瘫痪 v n v
+眼睑 脓肿 n v
+梁华 nh
+血 缺氧 n v
+盲袋 阴道 n n
+出生 时 小 头 v n a n
+抽动 障碍 v n
+孕妇 肚子 痒 n n a
+血管性 痴呆 n z
+脐带 绕 颈 n v n
+视力 视野 改变 n n v
+梁永丽 nh
+直肠 危象 n n
+大腿 内侧 红斑 n nd n
+出生 后 即 有 持续 青紫 v nd c v v a
+球 后 视神经炎 n nd n
+男性 小便 刺痛 n v v
+浅表 淋巴结 肿大 b n v
+额头 皱纹 突然 增加 n n a v
+耳道 划伤 n v
+磷烧 伤 合并 中毒 v v v v
+非 感染性 发热 h n v
+胸膜 转移 n v
+语言 发育 迟缓 n v a
+牙根 外露 n v
+手 部 功能 完全 丧失 n n n a v
+乳腺 刺痛 n v
+孤立 肾 v n
+惊厥 i
+牙齿 黑斑 n n
+食欲 异常 n a
+颈髓 硬膜外 病变 n d v
+心音 及 脉搏 消失 n c n v
+极 重度 精神 发育 迟滞 d b n v v
+男性 小腹 坠痛 n n v
+废用性 弱视 n v
+记忆力 障碍 n n
+听 不 懂 别人 及 自 ... v d v r c r wp
+胆汁 潴留 n v
+触觉 失调 n v
+吡咯烷 及 呱啶 尿 n c v n
+发热伴 眼睛 充血 v n v
+镇静 药 中毒 a n v
+疲乏 nh
+脉压 差 低 n a a
+肾 包膜 过度 膨胀 n v d v
+髋内翻 nh
+大腿 以下 或 膝以 ... n nd c n wp
+韧带 扭伤 n v
+血管炎 n
+食管 蠕动 差 扩张 ... n v a v wp
+带 血性 分泌物 v n n
+血清钠 增高 n v
+颅压 增高 v v
+腹部 肿块 n n
+肠壅积 nh
+病理性 赘述 n v
+脑灰质 异常 n a
+木僵 nh
+特别 容易 饿 d a v
+胆道梗阻 nh
+咳嗽性 晕厥 n v
+肝 细胞 索支 架 塌陷 n n n v v
+精神 运动性 兴奋 n n v
+食管 腔梗阻 n n
+尿血 nh
+低 血糖 惊厥 a n v
+动眼 危象 n n
+咳声 嘶哑 n a
+拥抱 反射 消失 v v v
+足 内 翻 n nd v
+痰检 或 可 找到 丝状蚴 j c v v n
+足 畸形 a n
+两侧 颊部 及 颞部 凹入 nd n c n v
+酒精 成 瘾 n v n
+面容 失认 n v
+排卵期 头晕 n v
+膝 后 肿胀 疼痛 ， ... n nd v a wp wp
+畏光 及 流泪 n c v
+浮肿 v
+颅缝 过早 闭合 n d v
+言语 自动症 v n
+休克性 神经 受累 n n v
+前期 妊娠 反应 nd v v
+失血 过 多 v d a
+鼻内 似 有 擤 不 出 的 鼻涕 nl d v n d v u n
+肾 盂 积水 n v n
+下颌角 外 翻 n nd v
+龟头 红 点 n a n
+病态 欣快感 n n
+腹部 伤口 流出 粪便 样物 n n v n n
+气息 异常 n a
+椎节 后 缘 有 骨刺 形成 n nd n v n v
+孕产妇 腰 痛 j n a
+胫 骨干 骨 不 连 v n n d v
+非 凹陷 黏液 水肿 d v n n
+青红丘疹 nh
+创伤 n
+肾 间质 受损 n n v
+胃部 隐痛 n n
+考试 焦虑 v a
+腰长 骨刺 n n
+胸 背 痛 n v a
+肝 被 膜 血肿 破裂 n p n n v
+椎节 分裂 n v
+网眼样 痴呆 n z
+腿痛 n
+外寒 内 热 n nd a
+拇外 翻 nl v
+儿童 胸廓 变形 n n v
+坏死性 筋膜炎 n n
+肝 豆状 核变性 n n n
+伴皮 膜 粘膜 出血 v n n v
+啰音 nh
+胫骨 粗隆 肿胀 n nh v
+肠道 功能 紊乱 n n a
+寰枢 脱位 n v
+色素斑 n
+回 经 v n
+眼 疲劳 n a
+腹部 有 局部 或 广... n v n c wp
+新生儿 皮肤薄 n n
+颈髓 完全性 损伤 n n v
+失用性 综合征 n n
+小儿 咳嗽 n v
+呼吸窘迫 综合症 v n
+脐周 明显 红肿 变 硬 n a v v a
+生理性 震颤 n v
+信息 成 瘾 n v n
+胆汁性 肝硬化 n n
+丘脑 下部 损害 n nd v
+三角头 畸形 n n
+代林彦 nh
+第一 心音 亢进 m n v
+膝内 翻 nl v
+腕关节 内 积血 及 ... n nd v c wp
+胸骨裂 nh
+膈膨 升 v v
+肺实 变 n v
+不 排卵 d v
+腰部 僵直感 n n
+幽门 狭窄 n a
+手 凉 n a
+少儿 脊柱 侧凸 n n n
+手足 皲裂 n v
+产道 扁平型 狭窄 n n a
+去 大脑 强直 v n a
+缺智齿 nh
+一 过 性肉 眼 血 尿 d v n n n n
+前臂 及 手部 肌群 ... n c n n wp
+收缩期 震颤 n v
+工作 倦怠 v a
+痰 多 n a
+频繁 吐 黏液 a v n
+急性 贫血 b v
+月经 量 多 n n a
+迟脉 nh
+面具 脸 n n
+老人 剧烈 咳嗽 n a v
+色汗 nh
+胸部 有 过度 回响 n v d v
+突眼症 n
+肩周 酸痛 不适 n a a
+失盐 v
+曲文静 nh
+免疫 损害 v v
+大腿 疼痛 n a
+考试 综合症 v n
+月经 骤停 n v
+猝倒 nh
+梁桢荣 nh
+婴儿 睡眠 少 n v a
+发热 伴寒战 v n
+异常 鱼鳞癣 d n
+酒精 过敏 n v
+牙齿 异常 n a
+尿道 弥漫性 浸润 n n v
+产后 全身 酸痛 nt n a
+眼球 上 翻 并 固定 n nd v c a
+恋尸型性 变态 n n
+耸肩 喘息 n v
+硬腭 呈 半圆形 隆起 n v n v
+婴幼儿 脐部 有 肿物 突出 n n v n a
+脉搏 脱漏 n v
+绿牙 或 棕褐 色牙 n c n n
+脐周 肿胀 n v
+息子龙 nh
+腱反射 亢进 v v
+子宫颈 有 举痛 n v n
+骨髓 抑制 n v
+覃迅云 nh
+位置 觉 、 震动 觉 减退 n v wp v n v
+下肢 无力 n v
+晕眩 nh
+腹部 皮肤梅 干样 皱纹 n n v n
+迟 强强 a nh
+抗 精子 抗体 阳性 v n n n
+女性 膀胱 颈梗阻 n n n
+半乳糖血症 n
+颈背 疼痛 n a
+眼底 黄斑部 的 樱... n n u n
+会 阴部 牵引 痛 v n v a
+颈部 有 擦伤 痕迹 或 肿胀 n v v n c v
+恶性胸水 nh
+深部性 头痛 n a
+口中 有 金属 甜味 nl v n n
+舌痛 nh
+粥 样泻 n n
+肾 间 质 水肿 n nd n n
+钙化 v
+自恋 v
+血清 HDL-C ... n ws wp
+自发性 流产 n v
+脐 周围 褪色 n nd v
+儿童 恐怖 障碍 n a n
+胸廓 塌陷 畸形 n v n
+眼白 过 白 v u a
+收缩 压 下降 v v v
+结膜 变 浅 或 变 苍白 n v a c v a
+疼痛 弧征 a v
+肛管 反射 消失 v v v
+运动 损伤 v v
+前臂 外 伤 后 疼痛 n nd v nd a
+早孕 反应 重 v v a
+嘴唇 肿 n v
+前臂 外侧 和 手指 ... n nd c n wp
+心力衰竭 n
+睡觉 时 心跳 加快 v n v v
+遗精 n
+膝盖 扭伤 n v
+小腿 外侧 及 足 背 ... n nd c d v wp
+颈心 综合症 n n
+性腺 发育 不良 n v a
+耳廓 擦伤 n v
+额头 长痘 n v
+咯 血伴 发热 o n v
+正 弦胎心率 d n
+眼底点状 或 火焰状 出血 n c n v
+子宫性 闭经 n v
+腭舌咽 呼吸肌 呈 ... v n v wp
+怪 异步态 a n
+胎 膜 早 破 n n a v
+直肠 肛门 内 胀痛 不适 n n nd a a
+呼吸气 为 尿 臭味 n v n n
+蓖麻子 便 中 常见 ... n d nd a wp
+反射 弧 中断 v n v
+器质性 神经 损害 n n v
+髌骨 缺 失 或 发育 不良 n v v c v a
+驻 站医 v n
+大便 干燥 n a
+颅内 高压 nl n
+膀胱 结核 n n
+无痛性 阴囊 内 肿块 n n nd n
+持续性 咳嗽 n v
+脐湿 nh
+小儿 的 异嗜 症状 n u n n
+口唇 潮红 n nh
+舌苔 发 黑 n v a
+尿胆 原 增加 n d v
+微脉 n
+猜疑 v
+牙齿 发 黑 n v a
+股 前 内侧 及 小腿 ... n nd nd c n wp
+肌肉 压痛 n v
+卵泡 刺激素 ( F ... n n wp ws wp
+复聪 现象 v n
+骨膜 反应 n v
+胃肠 淋巴 回流 受阻 n n v v
+肾结石 n
+抗 Jo-1 抗体 阳性 v ws n n
+晶状体 铁质 沉着 n n a
+一 过 性心 尖部 收 ... d v n n v wp
+流清涕 nh
+尿道 下裂 n v
+男性 小腹痛 n n
+一 过性 的 流感 样 症状 m n u n n n
+动 眼神经 麻痹 v n a
+眉弓 凹陷 n v
+仪平 nh
+肉芽肿 nh
+血疱 n
+咽部 和 喉部 危象 n c n n
+软腭 疼痛 n a
+牙齿 上 白垩色 到 ... n nd n v wp
+偏执 状态 a n
+深 昏迷 d v
+腹痛 伴 黄疸 v v nh
+口角 肌肉 的 抽搐 n n u v
+虚寒 体质 a n
+眼结膜 黑变 n n
+背部 有 隐约 麻痛 不适 n v z a a
+巨阴症 n
+骨代谢 减低 v v
+热痉挛 nh
+心包 转移 n v
+一 过性 全面性 遗忘 m n n v
+淋巴结 肿大 n v
+颈动脉 搏动 减弱 或 消失 n v v c v
+心脏 排血 受阻 n v v
+生殖器 外伤 n n
+儿童 骨缺损 n n
+缺乏性 的 兴趣 和 ... n u n c wp
+耳廓红肿 nh
+肺部 转移 n v
+耐热力 降低 nh v
+血管 神经性 水肿 n n n
+肌肉 坏死 n v
+横结肠 下垂 i v
+骨囊肿 n
+两 肺 毛 玻璃 样粟 ... m n n n n wp
+棘突 压痛 nh v
+肋 间隙 可 有 压痛 n n v v n
+口角 向 外 的 放射性 皱纹 n p nd u n n
+粉红色 泡沫痰 n n
+类风湿 关节炎 n n
+初 生 婴儿 即 出现 ... d v n d v wp
+下 背部 酸痛 nd n a
+油腻性 鳞屑 n n
+前额 针 刺 样痛 或 烧灼感 n n v n c n
+肌肉 假 肥大 n a a
+“ 鸭步 ” 步态 wp n wp n
+脊肋角 膨隆 n nh
+气道 变 窄 n v a
+脐带 血 循环 障碍 n n v n
+窒息 v
+睡眠 呼吸 暂停 v v v
+太阳穴 痛 n a
+脊髓 半切 综合征 n a n
+“ 老练 ” 外貌 wp a wp n
+喃喃 重复 自语 o v v
+假 菊形 团结构 a n n
+新生儿 少 吃 n d v
+进食 后 出现 弥漫 ... v nd v v wp
+骨无菌性 坏死 n v
+耳鼓膜 穿孔 n n
+液气胸 n
+豹纹状 眼底 n n
+眶底 爆折 nh v
+绝经 后 白 带 增多 v nd d v v
+胁部 肿胀 n v
+肝 内 胆管 结石 n nd n n
+会阴 溃疡 v n
+肥胖 并 痛性 结节 ... a c n n wp
+囊肿壁薄 且 内 含 ... a c nd v wp
+兰红霞 nh
+精神 依赖性 n n
+病理性 赌博 n v
+菜花 耳 n n
+腕 下垂 n v
+继发 感染 v v
+前 斜角肌 肥厚 痉挛 nd n a v
+纳差 nh
+肝 细胞 内 脂肪 堆积 过 多 n n nd n v d a
+尿胆 红素 阴性 n n n
+偏盲 偏身 感觉 障碍 v n v n
+慢性 溃疡 b n
+小儿 发热 n v
+炎性 细胞 浸润 n n v
+湿性 坏疽 n n
+髂骨角 增大 n v
+胃纳差 症状 n n
+呼正江 nh
+甲状腺 肿大 n v
+心脏 结构 异常 n n a
+妊娠 时 持续性 腹... v n n wp
+开放性 损伤 n v
+右下 腹可 触及 柔... nd v v wp
+血液 改变 n v
+手术 时 伤口 不再 出血 v n n d v
+腹壁 广泛性 钙质 沉着 n n n a
+手指 僵硬 n a
+静脉逗 nh
+脐带 感染 n v
+肾气虚 nh
+腓肠肌 压 痛 n v a
+夜间 盗汗 nt n
+牙龈 肿胀 n v
+三角 韧带 损伤 n n v
+盆腔 肿块 n n
+声调 似 小孩 n v n
+青春期 身体 发育 缓慢 nt n v a
+下唇 麻木 v a
+中骨盆 狭窄 n a
+晶状体 蛋白逸 出 n n v
+拳状手 畸形 n n
+胎儿 单臂 先 露 n n d v
+瞳孔 放大 n v
+胎儿 酒精 影响 n n v
+指甲 类似 云母 n v n
+阑尾 穿孔 n n
+小腿 水肿 n n
+结节性 硬化 n v
+蔗糖 - 异麦芽糖 ... n wp n wp
+卵巢 功能 障碍 n n n
+肛门区 红肿 及 痛性 硬块 n v c n n
+牙龈 上 发生 黑线 n nd v n
+假结 核结节 v n
+脊髓 梗死 n v
+“ 多音律 ” 心音 wp n wp n
+指骨节 肥大 n a
+眼底 发现 黄斑 呈 ... n v n v wp
+溃疡 疼痛 n a
+心内膜 弹力 纤维 增生 n n n v
+反复 发作 右肺 感染 d v n v
+咳 出 带 臭味 的 干痂 v v v n u n
+腹部 皮肤 出现 白... n n v n
+小 眼球 a n
+反复 感冒 d v
+无名指 指甲 凹陷 n n v
+听骨 畸形 v n
+心包 破 损伤 n v v
+脊柱 侧弯 n v
+耳内 流脓 nl n
+思维 紊乱 n a
+侧肋 骨痛 v n
+无 痛性 尿血 v n v
+轴性 遗忘症 n n
+痴笑 v
+脑缺血灶 n
+迷走神经 张力 增高 n n v
+发作 后 精神 障碍 v nd n n
+先天性 乳糖 不耐受 b n v
+骨质 破坏 n v
+脊髓 横贯 损害 n v v
+面容 憔悴 早老 n a a
+乳痛症 n
+夜 尿 增多 nt n v
+鳞屑样 痂皮 n n
+呼吸性 碱 中毒 n n v
+血虚 nh
+脊柱 生理 弯曲 消失 n n a v
+四肢 无力 n v
+感染性 肉 芽肿 n n n
+产后 垂体 坏死 nt n v
+眼面 痛 n a
+耳廓癣 n
+虹膜 节段性 萎缩 n n v
+排 出 结石 v v n
+手指 淤血 n n
+脊椎 僵直 n z
+股部 内侧 靠近 阴... n nd v wp
+遗传性 果糖 不 耐受 n n d v
+喜凉 怕 热 v v a
+足痛 nh
+尿道 内 口 呈 漏斗样 改变 n nd n v n v
+牙龈 长 脓包 n a n
+“ 鸡盲 ” 或 “ 雀盲 ” wp n wp c wp n wp
+间歇性 头痛 n a
+肾上腺 转移 n v
+脑白质 脱髓鞘 n v
+食管 气管 瘘 n n n
+尿酸 结晶 n n
+腹壁 静脉 怒张 n n v
+胸腔 疼痛 n a
+手臂 肌肉 萎缩 n n v
+腰部 钝痛 n a
+睾丸 受 浸润 n v v
+淋巴结 退化 n v
+商艳红 nh
+口唇青紫 nh
+胆道 蛔虫症 n n
+透明 隔腔 增 宽 a n v a
+泪腺 汗腺 及 涎腺 ... n n c n wp
+骨蒸潮热 n
+鼻黏膜 和 鼻甲 萎缩 n c n v
+系统性 血管炎 n n
+情绪性 胃痛 n n
+肺门 增 宽 n v a
+角栓 n
+脓苔 nh
+胫骨假 关节 形成 v n v
+恋兽型性 变态 n n
+小儿面部 皮疹 n nh
+胸骨 后 疼痛 n nd a
+鼻煽 nh
+血管 痣 n n
+手表 皮 深处 的 水疱 n n nl u n
+湿疣 n
+喉部 淋巴滤 泡 增生 n v n v
+胸部 挫伤 n v
+尿中 有 较 多 尿卟啉 nl v d a n
+痛风结节 nh
+咽部 异物感 n n
+术后 发热 nt v
+却 学云 d n
+胃 容纳性 减弱 n n v
+血离 脉络 n n
+情感 麻痹 n a
+手腕 肿痛 及 掌屈 ... n n c v wp
+收缩 期 反流性 杂音 v n n n
+肖雯婷 nh
+心血管 造影 见 双 球征 n v v m n
+腹腔 感染 n v
+肌腱 端炎 n n
+固定 于 一侧眼 及 ... a p n c wp
+间歇性 耳痛 n n
+发育性 骨盆 异常 n n a
+恐水症 n
+右心室 流出道 n n
+胆囊 运动 障碍 n v n
+口辣 nh
+心血管 堵塞 n v
+二 尖瓣 脱 垂 m n v v
+尿道口 痒 n a
+骨痛 n
+鼻根部 水肿 n n
+烦躁 不安 a a
+类偏狂 nh
+脑脓肿 nh
+突发 、 无 痛 的 局部 水肿 v wp v a u n n
+发热 伴 咳嗽 、 咯... v v v wp wp
+心脏 僵硬 n a
+食管梗阻 nh
+神经 根激 惹 症状 n v v n
+视物 变 小 n v a
+肌肉 撕裂 n v
+思维 中断 n v
+瞳孔 固定 n v
+半侧 面部 发育 不良 nl n v a
+髌骨 骨裂 n v
+眼球 压痛 n v
+新生儿 震颤 n v
+发作性 睡眠 n v
+老化 松弛性 眼袋 v n n
+子痫 症状 n n
+婴儿 步行 晚 n v nt
+臀沟 内 似 夹 着 异... n nd d v u n
+忘性 大 n a
+泌尿道 狭窄 n a
+蹒跚 步态 v n
+躯体性 疾病 所 致 ... n n u v wp
+右心 衰竭 n v
+骨髓象 改变 n v
+退 离休 综合症 v v n
+出 脚 汗 v n n
+胰酶 分泌 或 排出量 降低 n v c n v
+大动脉 供 血 障碍 n v n n
+瘙痒 nh
+中度 痛 b a
+耳道 流脓 n n
+病毒性 腹泻 n v
+异位 妊娠 n v
+糖激素 依赖 n v
+老来瘦 nh
+出 汗 减少 v n v
+近事 遗忘 现象 n v n
+技术 狂躁症 n n
+转氨酶 增高 v v
+角膜 大小 不等 的 ... n n v u wp
+新生儿 青紫 n n
+膝关节 积液 n n
+增生性 瘢痕 n n
+阵发性 肠绞痛 n n
+口唇 干燥 n a
+指 ( 趾 ) 甲 点状 凹陷 v wp n wp m n v
+多 克隆型 冷球蛋 白血症 a n n n
+创伤性 湿 肺 n a n
+食管 反流 症状 n v n
+失血 过 多 后 贫血 v d a nd v
+产后 腰 痛 nt n a
+磨牙 后 垫 红肿 v nd v v
+酒精性 肝硬化 n n
+尿道 流出 分泌物 n v n
+眼胀 nh
+类 彦超 n nh
+乙肝 e 抗体 （ 抗... n ws n wp wp
+黑色素 沉淀 n v
+肢体 不 自主 震颤 n d v v
+痛性 阴茎 勃起 n n v
+颈部 僵硬 n a
+精神 障碍 n n
+潜在 中毒 b v
+醛固酮 分泌 增多 n v v
+导水管 周围 受损 n nd v
+足底 脱皮 d v
+肌腱 囊肿 n v
+先天性少 白头 i n
+痉挛性 截瘫期 n n
+胎儿 生长 发育 迟缓 n v v a
+颅骨 连续性 中断 n n v
+镇静 、 麻醉剂 所 致 昏迷 a wp n u v v
+倒睫 nh
+妊娠 反应 v v
+韧带 断裂 n v
+起点 n
+继发性 不孕 n v
+角质 层 过度 增 厚 n n d v a
+瞳孔 缘色素 外 翻 n n nd v
+小肠 危象 n n
+锁合 畸形 v n
+维生素 B12 吸收 不良 n ws v a
+翻身 困难 v a
+先兆 早产 n v
+精子 质量 下降 n n v
+无 痛性 硬实 结节 v n a n
+精子 活力 低 n n a
+运动性 闭经 n v
+口腔 粘膜 有形 似 ... n n b v wp
+粘液 便 n d
+流 鼻血 v n
+指甲 脱落 n v
+髌骨 软化 n v
+刷牙 出血 v v
+传导性 耳鸣 n v
+情绪性 高血压 n n
+腓肠肌 痉挛 nh v
+腰 痛 伴 尿频 、 尿... n a v n wp n
+眼眶 疼痛 n a
+胸式 呼吸 n v
+中指不明 原因 痛 n n a
+牙齿 颈部 黄斑 n n nh
+隐睾 nh
+嗅觉 倒错 n v
+前臂 和 腕部 的 疼痛 n c n u a
+急性 肾 衰竭 b n v
+T 波低平 或 倒置 ws nh c v
+死胎 nh
+垂直性 忽略症 n n
+性交 困难 v a
+女性 第二 性征 消失 n m n v
+肩节 后 脱位 n nd v
+手指 撞 伤 n v v
+手掌 呈 黄色 n v n
+腰椎膨 出 n v
+偏执性 妄想 n v
+四肢 血压 脉搏 不 对称 n n n d a
+XV- 现象 wp n
+胸部 沉重感 n n
+骨 转移 n v
+月经 前 水肿 n nd n
+小儿 疳积 n v
+耳流脓 nh
+大小便 失禁 n v
+枕部 疼痛 n a
+蛋白尿 n
+胸壁 血管 充盈 n n v
+寰枢 关节 不 稳定 v n d a
+纸 样胎儿 n n
+菌尿 nh
+乳房 胀痛 n v
+妊娠期 血糖 高 n n a
+胎盘 早 剥 n a v
+手臂 发麻 n v
+咀嚼 肌肥大 v j
+腮腺 无 痛性肿块 n v n
+月经 不 调 n d v
+鼻甲 肿胀 n v
+下腹 坠痛 n v
+胃肠道 症状 n n
+肠管 出血 n v
+瘀血 nh
+肺动脉 狭窄 n a
+风盛 血燥 i n
+腰部 酸胀 及 无力 n a c v
+口唇 渗液 n n
+上颌窦 囊肿 v n
+愉快感 缺乏 n v
+食管 蠕动 功能 减弱 n v n v
+下体 异味 n n
+打呼噜 nh
+阳虚 体质 nh n
+中暑 高热 v n
+盆腔 沉重 感 n a n
+腹肌 肌肉 抽搐 n n v
+爪甲 和 甲床 表现 ... nh c n v wp
+尿 比重 下降 n n v
+骨核 出现 迟 ， 发育 小 n v a wp v a
+新生儿 反应 低下 n v a
+胎 位 异常 n n a
+颈部 呈 僵直状 n v n
+痛性 红舌 n n
+胚胎 发育 慢 n v a
+颈肩痛 nh
+甲状 软骨下 可 触... n nd v wp
+上 腹壁 的 中央线 缺损 v n u n v
+头目 晕沉 n v
+后发性 遗忘 n v
+违拗症 n
+虚火 牙痛 n n
+肾 痛 n a
+扭转 动作 v n
+发热 伴 出血 v v v
+认识 能力 缺失 v n v
+帅 海林 nh nh
+吞咽 时 胸痛 v n n
+胸腰 段 背部 或 臀... n n n c n
+舌背 中后部 黑色 丛毛 n nd n n
+碰撞 后 皮肤 容易 青紫 v nd n a a
+扁平足 nh
+外阴 幼稚 n a
+假性 近视 n a
+脾 湿 n a
+颈椎 骨折 脱位 n v v
+指甲 有 红色 或 黑色 斑点 n v n c n n
+交感神经 高度 紧张 i d a
+奇脉 n
+指甲 、 耳软骨 出 ... n wp n v wp
+睑 内 翻 n nd v
+溢乳 nh
+肺性 肥大 n a
+肛区 为 皮肤 覆盖 n p n v
+气喘 n
+倾倒 综合征 v n
+紫癜 nh
+健康线 异常 n a
+慢性 房颤 b n
+一侧 阴囊 内 逐渐 ... nd n nd d wp
+心跳 很 乱 n d a
+发音 改变 n v
+臀肌 萎缩 n v
+无法 引出 moro 反应 v v ws v
+付炯 nh
+中枢神经 抑制 药... i v n
+肌肉 痉挛性 疼痛 n n a
+对 生活 丧失 兴趣 p v v n
+牙齿 咬合 无力 n v v
+血运 障碍 n n
+右室 肥厚 n a
+溶骨性 损害 n v
+癫痫性 人格 改变 n n v
+斑秃 nh
+思考 困难感 v n
+妊娠 晚期 或 临产 ... v nt c v wp
+胸部 紧迫 或 束带感 n a c n
+营养性 皮肤 改变 n n v
+鼻翼 长痘 n v
+耻骨 上 痛 n nd a
+腹部 可 触及 巨大 ... n v v a wp
+泪道 阻塞 n v
+尿失禁 nh
+食管 恶性 病变 n b v
+进行性 肉芽性 溃疡 坏死 n n n v
+角膜 溃疡 n n
+软骨 发育 不良 与 ... n v a c wp
+心理性性 功能 障碍 n n n
+面部 皮肤 皱纹 增多 n n n v
+脸颊 潮红 n nh
+头 大 畸形 n a n
+四肢 湿 冷 n a a
+吐黄水 nh
+手 脱皮 n v
+神经 纤维 过度 生长 n n d v
+胃肠 气胀 n n
+复杂性 尿路 感染 n n v
+吸气 时 鼻腔 阻塞 v n n v
+结膜 充血 n v
+唾液 及 汗液 减少 n c n v
+假日 心脏 综合征 n n n
+纤维性 钙化 结节 n v n
+血管 内 凝血 n nd v
+回 盲瓣 功能 不 全 v n n d a
+拇指 内 收 畸形 n nd v n
+小指 半月甲 呈 粉红色 n n v n
+血性 恶露 n n
+子宫 痉挛性 狭窄环 n n a
+鼻出血 nh
+肝区 摩擦音 n n
+腰肌痉挛 nh
+网状 色素 沉着 斑 n n a n
+撕脱 骨折 v v
+长骨 粗大 n a
+声带 发炎 n v
+眉弓 疼痛 n a
+汞 毒性 震颤 n n v
+呼吸道 阻塞 n v
+胃 粘膜 损伤 n n v
+梁淑梅 nh
+肝 积水 n n
+肘外 侧 肿痛 及 功能 障碍 nl nd v c n n
+幻想 失去 时间 和 ... n v n c wp
+大便 成 颗粒 n v n
+感觉 过敏 v v
+手臂 肌肉 拉伤 n n v
+儿童 髋部 疼痛 n n a
+副耳 nh
+性早熟 n
+紫绀 nh
+类 人 猿型 骨盆 n n b n
+婴儿 湿疹 结痂 n n v
+眼球 内 积脓 而 失明 n nd v c v
+行走 呈 大步态 v v n
+认知 功能 损害 v n v
+朴玉顺 nh
+头皮 血肿 n n
+巨口 n
+新生儿 少 哭 n d v
+头 盆 不 称 m q d v
+嗳气 n
+结膜 异物 n n
+眼睑部 有 明显 的 ... n v a u wp
+孕 早期 腹痛 v nt v
+黑蒙 nh
+踝 及 足 麻木 和 有灼 痛感 n c a a c v n
+粒细胞 减少 n v
+腕部 疼痛 n a
+耳廓 耳道 撕裂 伤 n n v v
+足趾痛 nh
+脑炎样 改变 n v
+胀痛 nh
+眉弓 囊肿 n v
+非 玻璃体 的 病变 ... h n u v wp
+肌肉 挫伤 n v
+弥漫性 系膜 硬化 n n v
+生化 妊娠 j v
+青红肤色 n
+淋巴滤 泡 增生 v n v
+气管 纵隔 和 心脏 ... n v c n wp
+喉管 阻塞 n v
+肾区 压痛 和 叩痛 n v c n
+急性 阴道 感染 b n v
+抗 卵巢 抗体 阳性 v n n n
+岔气 n
+脑细胞 出现 营养 ... n v n wp
+自我 定向 障碍 r b n
+牙齿 松动 和 脱落 n v c v
+精子 不 液化 n d v
+舌根部 脓肿 n v
+口炎 nh
+脊髓 受压 n v
+产后 乳房 萎缩 nt n v
+上肢 呈 迟缓性 麻痹 n v n a
+痰 呈 粘液 脓性 n v n n
+角质 增 厚 n v a
+付伯鹏 nh
+中枢性 耳聋 n v
+神经束 损伤 断裂 n v v
+新陈代谢 旺盛 i a
+心搏漏 跳 n v
+隔膜 孔道 狭小 n nh a
+静脉 血氧 饱和 度... n n v wp
+过劳 nh
+鼻翼 上方 缺损 n nd v
+股 二头肌 损伤 n n v
+收缩 早期 喀喇音 v nt n
+鼻端 缺损 n v
+延髓 出血 n v
+浑身 酸痛 n a
+阵发性 腹痛 n v
+指 、 拇 、 脘 的 伸... v wp n wp i u n
+肠绒毛 萎缩 n v
+前庭性 共 济 失调 n d v v
+穿透性 皮肤 变性 n n v
+意识 改变 状态 n v n
+过度 换气 引起 晕厥 d v v n
+腕部 肿胀 压痛 n v v
+吞酸 nh
+喉咙 溃疡 n n
+舌骨区 有 肿胀 压痛 n v v v
+外耳道 疼痛 n a
+痰 有 恶 臭味 n v a n
+脾胃 虚寒 n a
+心理 年龄 小于 生理 年龄 n n v n n
+铁锈色痰 nh
+血尿伴 蛋白尿 n n
+小儿 便 秘 n d v
+顽固性 高血压 n n
+打 软 腿 v a n
+鲜红色 乳头 状赘 ... n n n wp
+湿 啰音 a n
+肺 淤血 n n
+头 摇 n v
+角膜 色 膜环 n n n
+胆囊壁 毛糙 n nh
+畏寒 nh
+静脉曲 张性 溃疡 ns n n
+血红蛋 白尿 n n
+落枕 v
+头皮 下 血肿 n nd n
+眼前 冒紫 烟 nl v n
+颌下 淋巴结 肿大 压痛 v n v v
+肋骨痛 nh
+视网膜 水肿 n n
+丹毒样 外观 n n
+右侧 束支 传导 阻滞 nd v v v
+面纹 消失 n v
+昼盲 nh
+碘伏 过敏 v v
+心脏 破裂 n v
+胃 黏膜 充血 水肿 n n v n
+意识 模糊 n a
+尿赤 nh
+视力 下降 n v
+手腕 长 骨刺 n a n
+上 腹部 疼痛 nd n a
+视力 障碍 n n
+外阴 损伤 n v
+牙齿 小 且 无 光泽 n a c v n
+鼻 中 隔 或 鼻腔 内 ... n nd v c n nd wp
+巨脚 n
+足 的 放射性 疼痛 a u n a
+脂肪痢 nh
+肝脏 肿大 n v
+骨气臌 n
+胫前指 压性 水肿 j n n
+大 三阳 a ns
+Moro 反应 迟钝 ws v a
+粪便 黑色 并 带有 血液 n n c v n
+冻疮 nh
+尿道口 粘连 n v
+口苦 nh
+视物 变形 n v
+无名指 不明 原因 疼痛 n v n a
+外阴 肿胀 n v
+性 发育 慢 n v a
+中心 暗点 扩大 n n v
+闭眼 站立 不 能 v v d v
+手 部 急性化 脓性 感染 n n v n v
+肖岚 nh
+绝经 后 出血 v nd v
+肝气 犯 肺 n v n
+新生儿 嗜睡 n v
+手势性 自动症 n n
+胃 扭转 梗阻 症状 n v v n
+不 能 持续 睁 眼 d v v v n
+性受 虐癖 v n
+静脉曲 张性 外痔 ns n n
+肺泡 出血 n v
+人格 解体 n v
+精子 异常 n a
+迷走 神经 兴奋 v n v
+低 氧血症 a n
+月经 发 黑 n v a
+脐带 血流 n n
+脓肿 破 入 胸腔 d v v n
+足底 烧灼感 nl n
+偏头痛 n
+肾区 钝痛 n a
+舌头 震颤 n v
+指甲 宽 而 短 ( 宽... n a c a wp wp
+鼻孔 外露 n v
+心音 低钝 n a
+斑疹 nh
+肠淤滞 nh
+乳腺 囊性 增生 n n v
+肖建波 nh
+耳前庭 功能 受损 n n v
+肖勇 nh
+肝病容 nh
+肌腱 粘连 n v
+电脑 失写症 n n
+肺动脉 杂音 n n
+新生儿 全身 水肿 n n n
+视网膜 脱离 n v
+直肠 重复 畸形 n v n
+咳嗽 痰 多 v n a
+急性 宫颈炎 b n
+胸腔 出口 综合征 n v n
+眼肌 瘫痪 n v
+前列腺 肥大 n a
+肖志华 nh
+腿 外侧 质 软 、 半... n nd n a wp m
+颈椎痛 nh
+脐带 脱 落后 伤口 ... n v a n wp
+低 蛋白血症 a n
+进食 过硬 的 食物 ... v a u n wp
+自动 Babin ... d ws wp
+子宫 粘连 n v
+与 脉搏 相 一致 的 ... p n d a u wp
+呼吸音 粗糙 n a
+烂 桃样 血痰 a n n
+脓包 nh
+前臂 细小 n a
+意向性 震颤 n v
+前列腺素 合成 减少 n v v
+结膜 出血 n v
+胃气虚 nh
+弹 钢琴指 ( 趾 ) 征 v n wp n wp v
+肘部 的 肿胀 压痛 n u v v
+电击样 剧痛 n n
+血液 呈现 浓缩 n v v
+虚热 口臭 n n
+右腿 麻木 n a
+头晕 耳鸣 v v
+代谢性 酸中毒 n n
+裂腭 nh
+仝 超 nh v
+弥漫性 血管 角化 n n v
+牙 脱位 n v
+卵圆 孔闭 合 不 全 n nh v d a
+髌骨 疼痛 n a
+代 开明 v a
+龟头 潮红 n nh
+结缔组织性 外痔 n n
+大便 变 细形 似 铅笔 n v n v n
+巨痣症 n
+腋毛 和 阴毛 脱落 n c n v
+肝气 郁节 n nh
+痱疹样 皮疹 n nh
+头颅 增大 n v
+胃 内 有 异物 n nd v n
+鼻孔 流脓 n n
+尿中 组织 胺 排泄 增加 nl v n v v
+儿童 偏头痛 n n
+尿磷 n
+腹部型 肥胖 n a
+胸膜 钙化 n v
+低血 容量 休克 n n v
+抽搐 v
+面部 长癣 n n
+外阴 皮肤 肿胀 n n v
+先兆 子宫 破裂 n n v
+扭伤 v
+辗转 体位 v n
+浅 昏迷 a v
+静脉 回流 障碍 n v n
+面肌 萎缩 n v
+骨痹 nh
+鼻前庭 皮肤 红肿 疼痛 n n v a
+腹痛 伴 休克 v v v
+胎势 异常 n a
+鼻塞 nh
+梁爱婷 nh
+面肌 及 颈肌 紧张 n c n a
+心肌 营养 障碍 n n n
+溃疡 龛影 n n
+手掌 硬性 水肿 n b n
+痉挛性 的 肌张力 增高 n u n v
+痉挛性 斜颈 n n
+淋巴管 破裂 n v
+脚 冻伤 n v
+一 过 性昏厥 d v n
+手足 肿胀 n v
+咯血 nh
+手 背 长斑 n v n
+呛奶 nh
+肤色 赤红 n z
+大便色 浅 n a
+胃灼热 n
+五志化 火 v n
+黏液性 水肿 n n
+脾 大 n a
+眼肌 麻痹 n a
+海藻 糖酶 缺乏 n n v
+妊高征 nh
+臀部 疼痛 n a
+光 感性 皮肤 损害 n n n v
+心尖部 第1心音 亢进 n n v
+肝 脂肪 变 n n v
+食物 过敏 n v
+肝 功能 受损 n n v
+鼻子 长痘 n v
+骨赘 大量 增生 n m v
+维生素 D 中毒 n ws v
+斜头 畸形 n n
+脚 上 血泡 n nd n
+饱食 后 胸痛 v nd n
+牙齿 拥挤 错位 排列 不 齐 n a v v d a
+胎位 不 正 n d a
+刷牙 时 恶心 v n a
+室 间隔 缺损 n n v
+肠狭窄 nh
+脑 转移 n v
+传导性 腹痛 n v
+青紫舌 nh
+指尖 边缘 指甲 有 凹陷 n b n v n
+婴儿 体重 增长 过 快 n n v d a
+腹壁 外侧 包块 ... n nd n wp
+延髓性 麻痹 n a
+脓疱性 痤疮 n n
+口唇 皲裂 n v
+重度 痛 b a
+肢体 内 翻 n nd v
+月经 期间 腰 疼 n nd n a
+心 动 过 缓 n v u a
+发热 伴 有 腹痛 、 ... v v v v wp wp
+心悸 伴 高血压 v v n
+目光 呆滞 n a
+枕部 和 颈后 疼痛 n c nt a
+写字 或 拿 小 物品 困难 v c v a n a
+视力 常 呈 雾状 模糊感 n d v n n
+猝死 v
+色素性 胆结石 n n
+眼 - 头 反射 消失 n wp n v v
+脉压 缩小 n v
+孕妇 非妊娠 原因 的 腹痛 n b n u n
+舌头 出血 n v
+骨髓 损害 n v
+大便 黑色 粘稠 n n a
+胸部 大片 斑块 n n n
+楚艳龙 nh
+细 网状 到 斑片状 ... a n v n wp
+脊髓 前角 病变 n n v
+泛恶欲 吐 n v
+静脉 栓塞 n v
+神经官 能 症状 n v n
+泌尿 生殖窦 v v
+腹鸣 nh
+小管 间质性 肾炎 n n n
+肝臭 nh
+大肠黑 变 ns v
+胸膜 增 厚 n v a
+膀胱 刺激 征 n v v
+喉头 痉挛 n v
+阑尾 组织 纤维化 n v v
+肾脓肿 nh
+股动脉枪 击音 n n
+腕关节 扭挫伤 n v
+唇部 发绀 n v
+色情 行为 n n
+伸 膝 障碍 v n n
+齿痕舌 nh
+醉 酒 v n
+咽部 粘膜 弥漫 充血 n n v v
+撤退性 出血 n v
+长 时间 或 剧烈 运... a n c a wp
+鼻唇 沟 发 红 皲裂 n n v a n
+髌后 疼痛 nt a
+眼部 感染 n v
+漆裂 样纹 v n
+颈部 粗 n a
+气管 处 可 听到 异... n n v v n
+食物 下 咽 时 颈部 ... n nd v n n wp
+精神 活性 物质 所 ... n b n u wp
+脾阳 虚 n a
+保持 睡眠 障碍性 失眠 v v n v
+轩存旺 nh
+循环 衰竭 v v
+胃酸 减少 n v
+输精管 堵塞 v v
+肾寒 nh
+新生儿 低血磷 n n
+代 超 v v
+肾动脉 阻塞 n v
+侧支 循环 发育 不 充 v v v d v
+膝关节 内侧 肿胀 ... n nd v wp
+出血利 坏死 v v
+腱索 断裂 n v
+肠鸣音 消失 n v
+岳加峰 nh
+髌下 疼痛 v a
+脑白质 萎缩 n v
+踝关节 疼痛 n a
+弱视眼 的 拥挤 现象 n u v n
+囊性肿块 nh
+中度 精神 发育 迟滞 b n v v
+眼花 nh
+脓痱 nh
+下 腹部 包块 nd n n
+胸部 隐痛 n n
+唇外 翻 nl v
+肢体 短缩 畸形 n v n
+反酸 n
+尾部 疼痛 而 拒坐 n a c v
+摇摆步态 n
+粪便 中 发现 白色 节片 n nd v n n
+腰椎 不 稳 n d a
+低 血压 a n
+溶酶体 酶 缺陷 n n n
+下肢 中枢性 瘫痪 n n v
+压迫 瘘口 试验 v n v
+哭笑失常 nh
+肺 过度 充气 n d v
+虚脉 n
+脐血 nh
+颈部 怕 前 屈 ， 怕 仰 伸 n v nd v wp v v v
+妊娠期 的 生理 变化 n u n v
+面色 苍白 n a
+局限性 肾 坏死 n n v
+下肢 动作 沉重 ， ... n n a wp wp
+耳硬化症 n
+完全 流产 a v
+孕晚期 腹痛 nt v
+反胃 v
+脚 外侧 疼 n nd a
+鼻粘膜 溃疡 n n
+生理性 闭经 n v
+以 偷窥 为 快 感源 ... p v v d v wp
+耳聋 nh
+肩痛 nh
+健忘性 失语 n v
+肌 无力 危象 n v n
+偏 斜 骨盆 d a n
+膈麻痹 nh
+发作性 不 自主 运动 n d v v
+种植性 结节 n n
+上 列 牙痛 nd v n
+肖艳丽 nh
+神经 失用 n v
+耳冻伤 nh
+打嗝 v
+幻肢 痛 n a
+付军 花 v n
+均 小型 狭窄 d b a
+咬合 关系 错乱 v n a
+上肢 外展 上 举 困难 v n nd v a
+脾紫癜 nh
+睡觉 时 突然 抽搐 一下 v n a v m
+郅书芬 nh
+先天性 无子宫 b n
+口咽 异物 v n
+眼结膜 水肿 及 角膜 溃疡 n n c n n
+鼻 和 喉部 灼热感 n c n n
+四肢 畸形 n n
+足 跟 痛 d v a
+停止 排气 v v
+粘膜疹 nh
+下肢 负重 障碍 n v n
+声门 运动 障碍 n v n
+四肢 远 端 麻木 、 ... n a n a wp wp
+气 血 失和 n n v
+岳俊卿 nh
+一侧性 下腹 剧烈 疼痛 n v a a
+颌突 畸形 v n
+脸 冻伤 n v
+衣玉品 n
+动脉 血氧 饱和度 降低 n n n v
+角膜 有 菌苔 或 溃疡 n v n c n
+晶状体 移位 n v
+缺 铁 性 贫血 v n k v
+胆管 梗阻 n n
+盘状 红斑 n n
+小脑性 共 济 失调 n d v v
+咳血 nh
+进 食样 自动症 v n n
+饭后 心跳 加快 nt v v
+角膜 脱落 n v
+断续 的 肌收缩 v u n
+阳虚 胃 痛 ns n a
+静脉石 nh
+胃 内 翻腾 或 搅拌感 n nd v c n
+产后 血晕 nt n
+幽门 前 区 溃疡 n nd n n
+颌下腺 导管口 有 ... n n v wp
+血小板 聚集 增强 n v v
+血压 下降 n v
+手指 尖痛 或 触痛 n n c n
+胎盘母 体面 上 有 ... n a nd v wp
+肝质 地 硬 n u a
+手指 香肠型 n n
+头皮 瘙痒 剧烈 并 有 血痂 n a a c v n
+猥亵 行为 v n
+餐 后 血糖 过 低 v nd n d a
+婴儿 热痱 n n
+胆囊 的 超敏 反应 n u b v
+肝 静脉 病变 n n v
+大 咯血 a n
+手足 发抖 n v
+下半身 无 汗 或 少 汗 n v n c a n
+神经性 厌食 n v
+免疫力 下降 n v
+口腔 黏膜 溃疡 n n n
+下颌 前 突 n nd v
+异位 钙化 n v
+鼓腮 和 吹 口哨 漏气 n c v n v
+早晨 上下 眼睑 粘连 nt nd n v
+尿瘘 nh
+新陈代谢 低下 i a
+肢体 栓塞 n n
+新生儿 喉喘鸣 n n
+情景性 晕厥 n v
+剥脱性 皮炎 n n
+肺部 出血 n v
+肌肉 砸 伤 n v v
+搭 肩 试验 阳性 v n v n
+癫痫 和 癫痫样 发作 n c n v
+多发性 结节 n n
+便 稀 时 经 阴道 排 出 d a n p n v v
+产育 过 多 后 腰 痛 v d a nd n a
+黏膜 稍 苍白 n d a
+外阴 烧灼 刺激感 n v n
+乳酸 蓄积 过 多 n v d a
+附睾 肿大发硬 v a
+继发性 高血压 n n
+眼 发 胀 、 发干 n v a wp v
+舌轻度 外吐 n n
+婴儿 肋骨 外翻 n n n
+括约 肌 功能 障碍 v n n n
+肾 浓缩 功能 障碍 n v n n
+内容 难以 听 清 的 ... n d v v u wp
+摇头 转 颈 v v n
+钝痛 nh
+讷 吃 nh v
+眼球 穿孔 n n
+吟 诗样 语言 v n n
+反复 抽搐 d v
+视 近 困难 v a a
+局部 肢体 抽动 n n v
+稽留 流产 v v
+骨质 磨损 有 骨赘 增生 n v v n v
+睫毛 掉落 n v
+口渴 nh
+腹部 “ 气串样 ” 肿块 n wp n wp n
+低位 小肠梗阻 n n
+持续性 疼痛 n a
+胃肠道 功能 不好 n n a
+睾丸 微小 n a
+定向力 障碍 n n
+喉头 水肿 n n
+尿 妊娠 试验 阳性 n v v n
+钩 回 发作 v v v
+回 盲部 结核 v n n
+心房 对 心室 收缩 ... n p n v wp
+产力 异常 n a
+肢体 远 端 出现 腕 垂踝垂 n a n v n v
+丹毒 nh
+小儿 痒疹 n n
+肩胛 带 肌肉 萎缩 n v n v
+晕机 nh
+过度 通气 d v
+血管 增生 n v
+甲状腺 过氧化物 ... n n wp
+色觉 异常 n a
+控制 不 住 的 联想 v d v u v
+绳攀 nh
+化学性 支气管炎 n n
+岳国斌 nh
+酒精 中毒性 幻觉症 n n n
+鼻唇沟 加深 n v
+一氧化碳 中毒 n v
+呈 肾上腺素 能 依赖性 v n v n
+肺部 可 闻 及 干湿 ... n v v c n wp
+胃区 包块 n n
+鼻翼 发红 n v
+腕 枪 刺状 畸形 n n n n
+手 皮肤 发紫 n n v
+乳溢 一高泌 乳素血症 v m n
+脚趾 甲 内 长 n n nd a
+糖尿病 足部 病变 n n v
+原发性 痛经 n n
+起搏 频率 增高 v n v
+眼睑 畸形 n n
+免疫 缺陷 v n
+肺 通气 一 血 流 比例 失调 n v m n v n v
+肾性 尿崩 n v
+鼓膜 充血 n v
+精虚 血弱 a n
+掌纹 atd 角 大... n v n m
+足穿孔 nh
+无 运动 或 感觉 障 ... v v c v n wp
+鼓膜 瘢痕化 n v
+胃 粘膜 增 粗 n n v a
+面部 水肿 n n
+十二指肠 扩张 i v
+指甲 上 有 直线 n nd v n
+多 汗 且 臭味 较 浓 a n c n d a
+肛门 直肠 畸形 n n n
+视神经 乳头 苍白 n n a
+恶性 贫血 b v
+婴儿 痉挛症 n n
+唾液 粘稠 n a
+胆汁 排泄 受阻 n v v
+心脏 淤积 淀粉样 物质 n v n n
+肛 内分泌 物 多 v n n a
+念珠菌 感染 n v
+头痛 头晕 a v
+卵巢 增大 n v
+胚胎 发育 障碍 n v n
+脑白质 变性 n v
+胃脘 饱胀 n v
+酮尿 nh
+无月经来潮 nh
+津亏 血燥 v n
+病理性 神经 损伤 n n v
+腋下 淋巴 肿大 nl n v
+抗利 尿激素 ( A ... v n wp ws wp
+虹视 nh
+抗 -HCVAg 阳性 v wp n
+斜眼 抑制 n v
+骨盆 损伤 n v
+弥漫性 脂肪 变性 n n v
+小儿 尿色 发 蓝 n n v a
+神志不清 i
+虚胖 nh
+手指 麻痛 n n
+脐轮 红肿 n v
+肾脏 破裂 n v
+肠蠕动 减慢 v v
+XYW ws
+血管 杂音 n n
+烫伤 nh
+气虚 体质 n n
+口 有 溴味 及 咸味 n v n c n
+喝酒 后 胃 疼 v nd n a
+右 腹痛 nd v
+齿龈 肥厚 n a
+弦脉 nh
+口臭 n
+肾源性 水肿 n n
+非 怀孕 的 下腹 增大 d v u n v
+肩带肌 、 上肢 和 ... n wp n c wp
+指根部 疼 n a
+脱水 v
+意识 丧失 n v
+睡觉 流 口水 v v n
+努嘴 伸舌 nh v
+流泪 v
+睡眠 猝死 v v
+钙化灶 nh
+慢性 头痛 b a
+竹节 脊柱 n n
+肾 缺血 n v
+反复 感染 d v
+舌 无力 且 不 能 随... n v c d v wp
+失读 v
+磨牙 nh
+面色 青紫 n n
+脑衰弱 综合征 n n
+胸廓 狭窄 而 扁 n a c a
+骨髓巨 核细胞 成熟 障碍 n n a n
+胸痛 n
+第3 腰椎横突 的 ... m n u wp
+肝功能 衰竭 n v
+鼻屎 多 n a
+喉痒 咳嗽 n v
+植物 神经 功能 障碍 n n n n
+湿性 体质 n n
+肌肉 肥大 n a
+肺动脉 闭锁 n n
+老人 行动 迟缓 n v a
+员如玲 nh
+舌头 上 有 长 时间 ... n nd v a n wp
+球 后 溃疡 n nd n
+反复 生殖器 溃疡 d n v
+肢 端 凉 n v a
+尾部 中线 有 细小 ... n n v a wp
+血浆 白蛋白 降低 n nh v
+腕 背侧 或 掌侧 的 ... n nd c v u wp
+面颊 及 上 胸部 充血 n c nd n v
+锁骨 上 及 前 斜角 ... n nd c nd n wp
+骨髓 造血 细胞 再生 障碍 n v n v n
+食物 返流 至 鼻腔 n v v n
+恋爱 挫折 综合征 v n n
+口唇 泛 红 n v a
+碘 甲亢 n n
+弥漫性 骨膜 增 厚 n n v a
+痴呆 z
+重听 nh
+脑动脉 痉挛 n v
+老年人 腿 抽筋 n n v
+脾 功能 亢进 n n v
+末梢神经炎 nh
+颈根部 斜方肌 及 ... n n c wp
+眼嘴 的 细小 皱纹 n u a n
+蝶鞍 变形 n v
+胃糜烂 nh
+前列腺 缩小 变 硬 n v v a
+躯体化 障碍 v n
+盆腔 瘀血 n n
+脊柱 弯曲 n a
+骨裂 nh
+眼底 异常 n a
+胆囊壁 纤维化 n v
+出冷汗 nh
+心室 纤颤 n v
+鼻翼 扇动 n v
+晕动症 n
+老年人 非 病变性 ... n v n wp
+手 背 部 皮肤 发红 肿胀 n v n n v v
+咬肌 肥大 v a
+疥疮 恐惧 n a
+泪腺 发炎 n v
+营养师 n
+坏疽 nh
+流产 v
+慢性 静脉 功能 不 全 b n n d a
+鼻窦 压痛 n v
+泛发性 红色 斑块 n n n
+肌肉 的 失用性 萎缩 n u n v
+脉压 小 n a
+鼻孔 朝天 或 鼻孔 前 倾 n i c n nd v
+产后 无 乳汁 分泌 nt v n v
+掌心 凹 消失 或 稍隆 起 n a v c d v
+脊髓 休克 n v
+掌骨 和 跖骨短 n c i
+喉鸣声 n
+不稳定性 心绞痛 n n
+腰部 包块 n n
+突发性 绞痛 b n
+脊柱裂 nh
+迫害 妄想 v v
+颈部 强硬 n a
+震水音 n
+前房 中 肿胀 的 晶... n nd v u n
+眩晕 nh
+抬举性 搏动 n v
+肺 不 张 n d nh
+脑积水 n
+手指 末端 持续 对 ... n n v v wp
+子宫 收缩 不良 n v a
+胫骨 压痛 n v
+眼球 调节 功能 减... n v n v
+耳鼓膜 破裂 n v
+头 胀 n a
+骨髓浆 细胞 增多 n n v
+阳盛 体质 nh n
+晶状体 脱位 或 半 脱位 n v c m n
+幽门 瘢痕性 狭窄 n n a
+眼前 发 黑 nt v a
+咳嗽 反射 v v
+局部 皮肤 变 紧 n n v a
+酒精性 震颤 n v
+块状 痰 n n
+站立 久 后 的 浮肿 v a nd u v
+牙齿 形态 异常 n n a
+感染 性赘 生物 v n n
+无嗅脑 i
+尿意 窘迫 n a
+肢端 接连 出现 苍... n d v n
+髌前 空虚感 nt n
+惧 站立 ， 喜 依托 v v wp v v
+瘀血斑 nh
+痉笑 面容 v n
+骨密度 增加 n v
+肾盂 扩张 n v
+心肌坏死 广泛 v a
+腰部 缓慢 增大 的 软 肿块 n a v u a n
+脐周 阵发性 绞痛 n n n
+拇指 仅 存软 组织 ... n d v n wp
+乳腺 组织 肥厚 n v a
+烫伤 水 泡 破 了 v n v v u
+绿视 nh
+持续性 腰 痛伴 有 晨僵 n n n v n
+肠套叠 nh
+腰膝酸软 nh
+咽喉 疼痛 n a
+胸腹 呈 矛盾 运动 n v a v
+瘤块 压迫 n v
+胸骨 隆凸 n a
+体型 异常 n a
+胎儿 窘迫 n a
+糖耐量 降低 n v
+口腔 黏膜 黄豆 大 ... n n n a wp
+带 状疱 疹样 外观 v n n n
+妊娠 后期 水肿 v nt n
+肺 下 叶 周围 呈 节... n v n nd v n
+瞳孔 不 对称 n d a
+偏执型 人格 障碍 b n n
+突发性 右上 腹绞痛 n nd n
+肠壁 水肿 增 厚 n n v a
+迷恋 足部 或 鞋袜 v n c n
+脂质 沉积症 n n
+背胀 nh
+颈性 头痛 n a
+耳 、 鼻 、 软骨 变成 蓝色 n wp n wp n v n
+婴儿 厌食 n v
+慌张 步态 a n
+腹股 沟痒 n n
+咳嗽 伴 体重 减轻 v v n v
+心口灼 热痛 n a
+发作 时 精神 障碍 v n n n
+手脚 发热 n v
+悬雍 垂 下垂 n v v
+岳亚庆 nh
+两 手 颤抖 m n v
+妊娠纹 nh
+牙齿 发黄 n v
+无助感 n
+内向性 思维 n n
+结膜 乳头 增生 n n v
+髂窝部 疼痛 n a
+会 阴痒 v i
+电 生理 异常 n n a
+血虚 脱发 n v
+泪 溢 n v
+肾 小管 萎陷 n nh v
+难治性 腹水 n n
+异性 装扮癖 n v
+头 胀 痛 n a a
+牙齿 缝隙 大 n n a
+发热 伴 关节 肿痛 v v n v
+盐类 皮质 激素 分泌 过 多 n n n v d a
+嗜 酒 v n
+结肠 粪性 穿孔 n n n
+婴儿 喂养 困难 n v a
+精子 凝集 n v
+呈 红色 条索 ， 游... v n n wp wp
+直立性 低 血压 晕厥 n a n v
+氮 负 平衡 n v a
+阑尾 缺血 充血 n v v
+脊柱 和 四肢 畸形 n c n n
+腮腺 肿胀 n v
+口 吐 白沫 n v n
+感觉 障碍 v n
+跖纹 中 拇趾球区 ... n nd n wp
+反应 迟钝 v a
+舌震颤 nh
+呼吸 减慢 而 不 规则 v v c d a
+毫无 情感 反应 v n v
+面部 麻木 n a
+眼球 内 斜 n nd a
+眼距 宽阔 n a
+鳞 状 细胞 癌 n n n n
+手 指甲 没有 白色 月牙 n n v n n
+入 球 小动脉 玻璃 样变 v n n n n
+感染性 鼻炎 n n
+“ 蝴蝶状 ” 阴影 wp n wp n
+气管 阻塞 n v
+推 髌抗 阻痛 v v v
+酒精 依赖 n v
+咖啡斑 n
+深黄色 或 带 绿色 ... n c v n wp
+阳德成 nh
+青枝 骨折 n v
+舌型 骨折 n v
+腰大肌 痉挛 n v
+重度 黄疸 b n
+湿 脚气 a n
+毒物 致 肝 损害 n v n v
+肠粘连 nh
+子宫 内膜 梗阻 n n n
+肠胀气 n
+类癌 面红 n nh
+重力 休克 n v
+低 血钾 a n
+震颤 v
+肘部 扭伤 n v
+眼压 升高 n v
+胎动 频繁 n a
+鼻咽 异物 n n
+嗅觉 丧失 n v
+细胞 色素 C 氧化 ... n n ws v wp
+神经衰弱 综合症 i n
+心源性 水肿 n n
+聚合性 痤疮 n n
+鼻端 形态 不 佳 n n d a
+反复 不 愈 的 感染 d d v u v
+乳房 早 发育 n a v
+腕骨 发育 不 全 变 ... n v d d v wp
+口 、 眼 、 生殖器 损害 n wp n wp n v
+模仿 言语 v n
+头昏脑胀 四肢 无力 i n v
+传导性 耳聋 n v
+肌肉 跳动 n v
+肌肉 纤维 震颤 n n v
+孕妇 上火 n v
+端坐 呼吸 v v
+虚火 上炎 n v
+耳鸣 nh
+慢性 肾 衰竭 b n v
+肠易激 综合征 n n
+豆瑞 nh
+肛门 出血 n v
+脑膜 增 厚 n v a
+招风耳 nh
+尿 渗透 压 下降 n v v v
+痘疤 nh
+兔唇 n
+糖尿病 酮症 酸中毒 n n n
+角膜 后 胚胎 环 n nd n n
+背 脊痛 v n
+足趾 皮肤 发 黑 n n v a
+肩 背 痛 n n a
+病理性 脱发 n v
+舌裂 nh
+用药 过程 中 出现 ... n n nd v wp
+涎瘘 nh
+近视 散光 a v
+酮症 酸中毒 n n
+小 腿 肿胀 疼痛 a n v a
+腹胀 nh
+痰 呈 白色 黏稠胶 冻状 n v n n n
+耳根部 疼痛 n a
+控制 能力 丧失 v n v
+静脉 侧支 循环 建立 n v v v
+紧张性 手抖 n n
+触诊 无 肺动脉 关闭 感 v v n v n
+心率 不 齐 n d a
+四肢 发冷 n v
+消化性 溃疡 n n
+臀部 酸痛 n a
+小腹 冷痛 n a
+生命 体征 改变 n n v
+视近 不 能 持久 v d v a
+急性 胃 扩张 b n v
+冠状动脉 栓塞 i v
+颈椎增生 nh
+骨髓 的 发育 异常 n u v a
+瓣膜 增 厚 n v a
+角膜 混浊 n a
+梁思琴 nh
+产后 发热 nt v
+异型 网织 细胞 b n n
+咯 血伴 呛咳 o n v
+卵巢 缺 如 或 发育 不 全 n v v c v d a
+新生儿 低 体温 n a n
+儿童 反复 骨折 n d v
+上肢 水肿 v n
+无尿 nh
+心包 积 液 n v n
+胃 丢失 蛋白 n v n
+心脏 扩大 n v
+胸 腹部 畸形 n n n
+十二指肠 有 切迹 或 狭窄 i v n c a
+注意力 不 集中 n d a
+血 流动力学 障碍 n n n
+间歇热 nh
+痛觉 与 温度 觉 减 ... n p n v v wp
+黏液脓性 痰 n n
+食欲 较 差 n d a
+无 胡须 v n
+肢体 麻痛 n a
+鼻中 隔 向 一侧 或 ... nl v p nd c wp
+黏膜 干燥 n a
+面部 蝶形 红斑 n n n
+拇指征 nh
+阑尾腔 闭塞 n a
+脚底 干裂 n v
+肌腱拉伤 n
+咽痛 nh
+冻结 肩 v n
+无法 数清 每 分钟 ... v v r q wp
+婴儿 含吮 时 乳头 ... n v n n wp
+付玉敏 nh
+酒后 四肢 酸痛 nt n a
+低血糖症 n
+绝经 年龄 过早 v n d
+大便 呈 褐色 n v n
+便血 v
+鳞 状 细胞 化生 n n n n
+脐窝 内 有 樱红色 ... n nd v n wp
+腋窝痛 nh
+栗东 nh
+受伤 后 易 产生 瘢痕 v nd a v n
+残株型 骨折 n v
+癫痫 的 全身 强直 ... n u n a wp
+肝 下垂 n v
+神经束 内 神经 纤维 损伤 n nd n n v
+进食 流泪 v v
+睾丸 发育 不 全 n v d a
+胎 粪 污染 n n v
+逼尿肌 无 反射 v v v
+睑黄瘤 nh
+脑干梗塞 nh
+脑 功能 不 全 n n d a
+气管 隆突 以上 的 损伤 n o nd u v
+乳汁 淤积 n v
+持续性 肠绞痛 n n
+脑 发育 缓慢 n v a
+甲 营养 不良 m n a
+耳垂 过 大 v d a
+心包膜 发炎 n v
+精血 不足 n a
+冠状动脉 痉挛 i v
+人工流产术 后 出血 n nd v
+佟新竹 nh
+眼眶 缩小 n v
+骶骨裂 nh
+牙 周袋 形成 n nh v
+血清 酶 学 改变 n n v v
+一 侧 乳头 萎缩 ， ... m q n v wp wp
+岳亮 nh
+巨乳 n
+癫痫 伴发 的 神经症 n v u n
+指甲 呈现 青紫色 n v n
+手上 有 小 水泡 nl v a n
+吐 白沫痰 v n
+烧伤 创面 淡 黄色 ... v n a n wp
+情感 暴发 n v
+紧张性 疲劳 n a
+产后 手指 痛 nt n a
+网状 青斑 n n
+椎间盘 退行性 变 n n v
+梁顺顺 nh
+胸膜 增 厚 粘连 n v a v
+凝视 麻痹 v a
+运动 腹痛 v v
+小儿 干咳 n v
+梁明光 nh
+鼻甲 萎缩 n v
+心脏 穿透性 损伤 n n v
+分裂型 人格 障碍 b n n
+热衰竭 nh
+踝部 凹陷性 水肿 n n n
+场所 恐惧 n a
+慢性 肾 损害 b n v
+面部 血管 纤维瘤 n n n
+脑灰质 移位 n v
+玻璃体 有 血迹 n v n
+交叉 注视 d v
+佟靓 nh
+异源性 ACTH n ws
+味觉 减退 n v
+憩室 出血 n v
+鼻泪管 阻塞 n v
+尿蛋白 n
+踝关节 屈曲 挛缩 畸形 n v v n
+神经干 断裂 n v
+新生儿 两 眼 上 翻 凝视 n m n nd v v
+桥 脑梗塞 n n
+鸟嘴样 尖鼻 n n
+锑性 皮炎 n n
+会 阴部 撕裂感 v n n
+手腕 骨折 n v
+肛 周 皮肤 潮红 n nh n a
+胃慢性 出血 n v
+神经 根 损伤 n n v
+发热 伴 淋巴 结肿 ... v v n v wp
+精子 稀少 n a
+鼻唇沟变浅 nh
+肾上腺 皮质 功能 亢进 n n n v
+腰部 僵硬 及 腰前 凸 消失 n a c nt a v
+依赖 公式化 v v
+膀胱 功能 障碍 n n n
+瞳孔 大小 不等 n n v
+不 典型 增生 d a v
+大 角膜 a n
+赤白 带 下 z v v
+鼠尾征 nh
+声音 嘶哑 n a
+下 腹绞痛 v n
+指甲 嵌 入 肉 n v v n
+脉氧合 不足 v a
+气机 不 畅 n d a
+精囊 缩小 n v
+甲 下 出血 n nd v
+手套 或 短 袜子式 ... n c a n wp
+骨脆 nh
+半 年 或 1 岁 以后 ... m q c m q nd wp
+类似 荨麻疹 的 皮... v n u n
+坐骨 大小 孔区 出现 压痛 n n n v v
+思维 奔逸 n v
+脊柱 前 突变 直 局部 叩痛 n nd v d n n
+指甲 呈 扇形 n v n
+体位性 震颤 n v
+中心 暗点 以及 屈... n n c nh
+手指 发绀 或 坏死 n v c v
+睑 外 翻 n nd v
+感染性 发热 n v
+肾皮质 坏死 n v
+岳淑芹 nh
+剧烈 运动 后 头晕 a v nd v
+畏光 nh
+末指 短小 向 内 弯... n z p nd v
+输尿管 扩张 v v
+尿滴白 nh
+外 周围 血 淋巴 细... nd nd n n wp
+扁脸 nh
+表皮 全层 坏死 及 ... n n v c wp
+斑丘疹 nh
+胸口 痛 n a
+耳闷 nh
+骨膜炎 n
+尿酸盐 在 关节 内 ... n p n nd wp
+紧张性 木僵 n n
+痔核 nh
+神经质 性格 n n
+指甲 厚脆 且 多 裂纹 n a c a n
+虹膜 发炎 n v
+蠕动感 n
+婴儿 脸色 发 黄 n n v a
+喉结痛 n
+构音 不 清 v d a
+感觉性 共 济 失调 步态 n d v v n
+小儿 臀部 瘙痒 n n a
+排尿 疼痛 v a
+移动性 浊音 n n
+异常 体位 所 致 的 窒息 d n u v u n
+血性 胸水 n n
+排 便 障碍 v n n
+肠麻痹 软瘫 n n
+蜕膜 反应 n v
+梁森 nh
+对 侧肢 体 偏瘫 p n n v
+新生儿 心力衰竭 n n
+精液 少 n a
+大写症 n
+收缩期 和 舒张期 杂音 n c nh n
+肺火 n
+肝 内 HDAg 仅 ... n nd ws d wp
+心脏 主动 脉瓣 返流 n a n v
+膝关节 肿大 n v
+下巴 关节 疼 n n a
+胃阳虚 nh
+眼球 内陷 n n
+交替 使用 双 眼 d v m n
+运动 功能 障碍 v n n
+溶血 nh
+指甲 床 发绀 n n v
+硬化 v
+小腿 瘙痒 干燥 n a a
+肾 小 球 体积 增大 n a n n v
+下 腹痛 nd v
+兰瑞 nh
+浑身 发冷 n v
+手脚 发麻 n v
+肛内 轻微 隐痛 坠... nl a n wp
+骶尾椎 融合 n v
+心音 遥远 n a
+睾丸 触痛 n n
+手指 不 能 屈伸 n d v v
+假笑 nh
+骶髂 关节 疼痛 v n a
+发热 伴 有 皮疹 v v v n
+指甲 出现 条纹 或 斑点 n v n c n
+脑穿通 畸形 n n
+颈部 淋巴结 肿大 n v v
+消化 管 蠕动 不 协调 v v v d a
+入睡 困难 v a
+闭目难立征 nh
+甲状腺 激素 偏 高 n n d a
+帕里诺眼 - 腺 综合征 nh wp n n
+心脏性 猝死 n v
+多 尿 a n
+跖反射 伸性 v n
+中度 昏迷 d v
+尿 等待 n v
+继发性 痛经 n n
+痰湿 体质 v n
+扁桃体 充血 n v
+大便 习惯 改变 n n v
+肋痛 nh
+耳孔 处长 出 的 肿物 n n v u n
+短头 畸形 n n
+腹痛 伴 血尿 v v n
+眼底 改变 n v
+无汗腺 导管 角质 ... b n n wp
+下肢 湿性 坏疽 n n n
+胆囊 触痛征 n v
+疖肿 nh
+氧分 压低 n v
+鼻旁窦 发育 不良 n v a
+动脉 出血 n v
+腭部 穿孔 n n
+挛缩性 疤痕 n n
+深侧 鼻塞 v n
+三叉神经 分布区 麻木感 n n n
+软产道 裂伤 n n
+妊娠斑 nh
+进食 困难 v a
+脑电波 的 改变 n u v
+肝部 疼痛 n a
+盆腔 内 有 较 广泛 浸润 n nd v d a v
+一侧 胸廓 塌陷 nd n v
+眼 内 有 异物感 n nd v n
+人 中 圆凸 n nd a
+喉部 堵塞 感 n v n
+手指 发僵 疼痛 n v a
+胎 心 不 规则 n n d a
+腰背部 窦道 n n
+尿道 结节 n n
+阿司匹林 过敏 nz v
+女性 不 孕 n d v
+非对称 性关节 痛 b n a
+无瘙痒 ， 无 肝胆 ... i wp v n wp
+肠出血 nh
+肝细胞 坏死 n v
+镜面舌 nh
+紧张性 头痛 n a
+口角 歪斜 ， 无法 说话 n v wp v v
+扁桃体 上 有 白点 n nd v n
+上肢 及 肩 向 下 牵... n c n p nd v
+日 轻夜 重 的 瘙痒 j d a u n
+足 跟 步行 d v v
+锥体束 病损 n v
+打鼾 v
+呼气音 延长 n v
+对 多脂 饮食 不能 耐受 p b n v v
+梁欣如 nh
+胚胎 发育 供 血 不足 n v v n v
+肝糖 异生 增加 n n v
+头部 偏 向 一侧 做 ... n d p nd v wp
+数脉 i
+女阴 会 阴 出现 红... n v a v n
+口唇 发 黄 n v a
+晒 伤 v n
+灰白色 结节 n n
+肠壁 坏死 n v
+垂体性 闭经 n v
+营养 障碍 n n
+反复 出血 d v
+上 臂 短 于 前臂 ， ... nd n a p n wp wp
+卵泡 囊肿 n v
+嘴唇 干裂 n v
+颈椎椎节 已 有 明... n d v n
+吞咽 困难 v a
+鼻塞 排 出 脓性 或 ... n v v n c wp
+蜘蛛指 n
+牙槽 突型 n n
+晨 起 前 额疼 ， 午后 减轻 nt v nd v wp nt v
+波动性 听力 减退 n n v
+右 胸痛 nd n
+腹部 “ 柔韧感 ” 体征 n wp n wp n
+咳 出 棕色 痰栓 v v n n
+食指 感觉 消失 n v v
+苟飞 nh
+右下 腹痛 伴 呕吐 nd v v v
+迁移性 脓肿 n v
+颞骨 隆起 nh v
+胃壁 肌层 缺损 n n v
+女性 周期性 鼻塞 和 鼻衄 n n n c n
+颈椎 生理 曲度 变直 n n n v
+短缩舌 nh
+腹膜 刺激 征 n v v
+手 小形方 n n
+长期 使用 糖皮 质... d v n wp
+胸大 肌痛 j n
+并 指 （ 趾 ） 畸形 c v wp n wp n
+植物 血凝素 的 淋... n n u n
+上腹 不适 v a
+胸窝 疼痛 n a
+疱疹 后 神经痛 n nd n
+食管 对 称性 膨大 n p n v
+不 排胎 便 d v d
+胃肠 感冒 n v
+体内 水钠 潴留 nl n v
+梁长岭 nh
+上唇 肥厚 v a
+颈 动脉 硬化 n n v
+外阴 起 疙瘩 v v n
+咽喉炎 n
+食积口臭 nh
+内踝 下 区域 疼痛 肿胀 n nd n a v
+直肠 与 肛门 狭窄 n p n a
+梁惠梅 nh
+骶尾部 急性 脓肿 n b n
+前臂 有 旋前 畸形 n v nt n
+尿道 痒感 n n
+外阴 萎缩 n v
+直肠 疼痛 n a
+腱 或 腱止点处 增... v c n wp
+鼻分泌物 增多 n v
+婴儿 出牙 延迟 n v v
+手 与 手指 胀 满感 n p n v n
+癫痫 的 复杂 部分 性发作 n u a m n
+大腿 局部 肿胀 变形 n n v v
+舌体 大 且 表面 有 沟纹 n a c n v n
+新生儿 手足 徐动 n n nh
+急性 下肢 缺血 b n v
+血管 搏动 或 波形 的 改变 n v c n u v
+内分泌 功能 减退 n n v
+小 步态 a n
+不 完全 性房 内 阻滞 d a n nd v
+胸膜 肥厚 n a
+精子 存活率 低 n n a
+老年人 小 腿 浮肿 n a n v
+肾后性 肾衰 n n
+剧烈 运动 后 头痛 a v nd a
+肛管 息肉 n n
+肖攀攀 nh
+呼气 时 两 颊 鼓 起 和 缩唇 v n m n v v c n
+液体 平衡 失调 n a v
+淀粉 样蛋白 沉积 n n v
+乳突炎 nh
+颈部 酸痛 n a
+吸收 不良 综合征 v a n
+粒细胞 增多 n v
+晶状体 混浊 n a
+绝 经过 渡期 及 绝... d p n c wp
+大腿 酸痛 n a
+疤痕 形成 n v
+髌 后 捻 发音 v nd v n
+运动 后 尿血 v nd v
+胃窦 动力 低下 n n a
+指甲 与 肉 分离 n p n v
+女性 性早熟 n n
+小儿 维生素 D 缺乏 n n ws v
+睑结膜 泪阜区 灰... n n wp
+小儿 生理性 贫血 n n v
+角膜 上 点 状 暗 灰色 混浊 n nd q n a n a
+纤毛 结构 缺陷 n n n
+颈髓 脱髓 鞘性 病变 n v n v
+假性 宫缩 n v
+手脚 痒 n a
+慢性 肾 功能 不 全 b n n d a
+痉挛性 便秘 n v
+紧张性 头晕 n v
+无故 发笑 d v
+腭部 有 黑色 焦痂 n v n n
+酒精性 心肌 n n
+自杀 行为 v n
+尿酸代 谢亢进 n nh
+牙列 拥挤 n a
+赫晓 nh
+体象 障碍 n n
+肺部化 脓性 感染 v n v
+婴幼儿 抽风 n v
+牙 有 伸长感 及 触痛 n v n c n
+产后 恶露 不 净 有 臭味 nt v d a v n
+口腔 黏膜 呈现 青紫色 n n v n
+臀中 肌损伤 nh n
+咳嗽 v
+椎间隙 变化 n v
+耳源性 破伤风 n n
+非血性 腹水 b n
+消化 道憩室 v n
+腺样 体面容 n n
+月经 时 多 时 少 且 ... n n a n a c wp
+颅神经 损害 n v
+贫血貌 n
+脑神经 麻痹 n a
+小三阳 nh
+点头征 nh
+手足 多 汗 n a n
+梁鹏英 nh
+吞咽 干 食物 时 胸... v v n n wp
+闪回 nh
+股 四头 肌损伤 n n n
+消化道 穿孔 n n
+上额 窦囊肿 n nh
+弥漫性 腹部 骨化 n n v
+失水 多于 失钠 且 ... v v v c wp
+赔偿 神经症 v n
+外踝 前 下方 肿胀 和 疼痛 n nd nd v c a
+烧伤 创面 暗灰 或 ... v n n c wp
+环状 肉芽 肿 n n v
+粘膜 充血 n v
+带 血 粘脓 鼻涕 v n v n
+脱肛 v
+躁狂 与 昏睡 交替 a c v v
+耳垂 缺损 n v
+耳 后 乳突 水肿 n nd v n
+类癌 综合征 n n
+体毛 脱落 n v
+肾衰竭 n
+肖莹莹 nh
+尿外 渗 nl v
+软骨 内骨化 n v
+病理性 钙化 n v
+急腹症 n
+旋转性 眩晕 n v
+脓液 为 巧克力 色 ... n p n n wp
+指甲 很 短 n d a
+后脑勺 疼 n a
+运动性 忽略症 n n
+年轻人 的 眼袋 n u n
+肢体 忽冷忽热 ， ... n i wp wp
+颈 强直 n a
+实脉 n
+妊娠 痒疹 v n
+上 颈髓区 病变 v n v
+心跳 过速 v a
+反复 肺炎 d v
+雀斑 nh
+气腹征 nh
+颌骨 发育 过度 n v v
+膝关节 肿胀 积血 n v v
+肾脏 受累 n v
+舌齿龈 疼痛性 粟... v n wp
+耳蜗性 耳聋 n v
+进行性 痴呆 n z
+耳顶线 以下 至 发... n nd d v
+被迫 体位 d v
+小儿 发烧 后 身上 起 红点 n v nd nl v n
+碱性 磷酸 酶 增高 n n n v
+雄激素 过 多 n d a
+肝 大 而 硬 n a c a
+静脉 血流 滞缓 n n a
+痉挛性 截瘫 步态 n v n
+肾 间 质 纤维化 n nd n v
+甲状腺 机能 亢进 n n v
+粘膜增生 性炎症 v n
+黏稠 或 脓性 痰伴 ... v c n n wp
+风丘疹 n
+主动 脉弓 迂曲 a v n
+足 背 及 胫 后 动脉 ... d v c n nd n wp
+结小 a
+鼻孔 闭锁 n n
+剧烈 运动 后 呕吐 a v nd v
+胫骨 疼痛 n a
+不断 眨眼 d v
+耳壳 的 干性 坏死 n u n v
+心肌梗死 n
+毒性 表现 n v
+面 、 头 、 颈 、 肩... n wp n wp n wp n
+胸前区 疼痛 n a
+睡眠 障碍 v n
+产褥 感染 n v
+肾区 压痛 n v
+足趾 发凉 怕 冷 ， ... n v v a wp wp
+呕吐 v
+下肢感 应 痛 或 放... n v a c v
+角弓 反张 n v
+一侧腰 腹 突发 “ ... m n v wp wp
+龟 头疼 n a
+钩骨 附近 的 压痛 n nd u v
+甲身 凹沟 n n
+脐疮 nh
+腱鞘 变干 nh v
+膝盖 长 骨刺 n a n
+婴儿 臀部 红 n n a
+颈交 感链 受累 v n v
+淋巴结 穿刺 有 草... n v v n
+呼吸 不 规则 v d a
+手掌 呈 黑色 n v n
+脾肿大 nh
+睾丸 静脉曲张 n i
+中性 粒 细胞 增高 b n n v
+毒血症 n
+口腔 难愈 的 白色 片状物 n v u n n
+运动 或 情绪 激动 ... v c n a wp
+髋关节 发育 不良 n v a
+露阴癖 nh
+手内肌 萎缩 n v
+烧伤 创面 粪 臭味 分泌物 v n n n n
+大脑 发育 障碍 n v n
+梦幻觉 n
+血浆 胆固醇 水平 高 n n n a
+运动 传导束 受累 v v v
+肝 郁脾虚 n nh
+口酸 n
+搏动性肿块 nh
+心脏 停搏 n v
+妊娠 蛋白尿 v n
+燥狂 相 a n
+器质性 精神 障碍 n n n
+腰大肌肿胀 nh
+肾区 叩击痛 n v
+睾丸 下垂 n v
+呼吸 中 可 有 烂 苹果 味 v nd v v a n n
+肺 容量 减小 n n v
+精神 变态 n n
+梁锦予 nh
+血压 偏 低 n d a
+脉搏 加速 n v
+腿 前 内侧 出现 感觉 异常 n nd nd v n a
+尿糖 n
+情感 高涨 n a
+胸骨 后 烧灼 样痛 n nd v n
+尿道 局部 肿胀 n n v
+肝 - 颈 静脉 回流 征 阳性 n wp n n v v n
+败血症 n
+新生儿 脓漏眼 n n
+口腔 黏膜 白斑 n n n
+胃壁 增 厚 n v a
+乳头 侵蚀 n v
+三 尖瓣 脱 垂 m q v v
+牙龈 出血 n v
+脏腑 功能 失调 n n v
+肺纹理 增 粗 n v a
+中度 吸入性 损伤 b n v
+巨登伟 nh
+粘性 渗出性 薄膜 n n n
+头皮 撕脱 伤 n v n
+头皮 不规则 裂口 n a n
+外貌 苍老 n a
+肢体 僵硬感 n n
+读 小字 和 辨色 困难 v n c n a
+骨 增 粗 n v a
+子宫 呈 葫芦状 n v n
+掌骨 指数 及 指骨 ... n n c n wp
+眼球 不 能 随意 动 n d v a v
+湿气 重 n a
+腰 软 不 能 直 起 n a d v v v
+指甲 翘 起 n v v
+大量 皮肤 脱屑 m n v
+灼痛 nh
+侵蚀 性骨 破坏 v n v
+下肢 发凉 n v
+面部 脱皮 n v
+鼻端 弥漫性 潮红 n n nh
+雄激素 过 少 n d a
+骨外团 块 n n
+肿瘤 钙化 n v
+迟明华 nh
+散脉 nh
+脸色 发 黄 n v a
+肾部 积水 现象 n n n
+泪腺 肿大 n v
+心理 年龄 大于 生理 年龄 n n v n n
+苔黄腻 nh
+呼吸气 为 蒜 臭味 n v n n
+逼尿肌 反射 亢进 v v v
+衣 雪源 n n
+头昏 眼花 v v
+胎 动 过 频 n v u a
+肛 乳头 肥大 v n a
+咽部 苹果 酱 样结节 n n n n
+肩胛 放射性 疼痛 n n a
+癌性 输尿管 狭窄 n v a
+牙齿 结构 异常 n n a
+血压 为 零 n v m
+脑室 出血 n v
+气 急 v a
+饮水 呛咳 n v
+疥疮 nh
+轻瘫 nh
+胆囊 收缩 功能 不良 n v n a
+噎 痛感 v n
+烧伤 创面 浅 咖啡 ... v n a n wp
+婴儿 褐色 或 暗绿 ... n n c b wp
+肾 小 球 有 病理 形态 改变 n a n v n n v
+乳房 组织 大块 坏死 n v n v
+鼻子 糜烂 n v
+凹陷性 疤痕 n n
+膝关节 软弱无力 n i
+伸 指 无力 v v v
+蛛网 膜 增 厚 n n v a
+手掌 疤痕 畸形 n n n
+纵膈 淋巴结 肿大 v n v
+指 或 趾甲 下 裂片 状 出血 v c n nd n n v
+眼睛 刺 痛 n v a
+骨髓象 左移 现象 n v n
+横膈 低平 v a
+粪便量 少 n a
+四肢 呈 对称性 下 ... n v n nd wp
+孤独症 n
+肩 臂 外侧 的 感觉 ... n n nd u n wp
+肌痛 n
+牙举欢 nh
+脐周 腹壁 缺损 n n v
+腰椎退化 v
+附睾 结石 v n
+付 美燕 v n
+戒断 反应 v v
+肠道 张力 减低 n nh v
+所 淑芳 u nh
+眶 上 裂 综合征 n nd v n
+蚁走感 n
+局灶 症状 n n
+婴儿 头皮 结血痂 n n v
+尿崩 nh
+舌下垂 nh
+气 上 沖心 n nd v
+曲棍球 棒手 n n
+肢端 湿 冷 n a a
+上 腹及腰 背部 有 ... v n n v wp
+尿流 变 细 或 中断 n v a c v
+胸闷气短 i
+大便 干结 呈 算盘 珠状 n v v n n
+四肢 电击感 n n
+前庭 反射 消失 n v v
+猩红 热样 皮疹 b n nh
+椎间盘 脱出 n v
+栓状齿 nh
+扁平骨盆 nh
+自动症 n
+急性肠 扭转 i v
+眼前 黑影 nt n
+死产 nh
+剧烈 眩晕 ， 站立 不 稳 a v wp v d a
+健忘 nh
+咬伤 愈合 的 伤口 ... v v u n wp
+SM 累积量 升高 ws n v
+神经伤 i
+逸搏 出现 v v
+血热 n
+上半身代 偿性 多汗症 nt n n
+淋巴结 疼痛 v a
+妙 存 帅 a v a
+网络 依赖 n v
+尿分叉 nh
+头 沉 n v
+巨脾症 n
+角膜 干燥斑 n n
+四肢 抽搐 n v
+溃疡 外观 呈 火山口样 n n v n
+肥厚 瘢痕 a n
+五 心烦热 m n
+玻璃 体内 可见 球形 囊体 n nl v n n
+两 臂 不 能 上 举 而 成 垂肩 m n d v v v c v n
+中心 静脉 压 偏 高 n n v d a
+萌牙 延迟 v v
+阵发性 狂笑 n v
+胸闷 nh
+胃痛 n
+完全性 遗忘症 n n
+肝气 不足 n a
+多 囊 卵巢 a n n
+新生儿 眼 屎 多 n n n a
+声音 变 低 n v a
+骶髂部 剧烈 疼痛 n a a
+发炎 v
+梁文秀 nh
+青年 白内障 n n
+子宫 移位 n v
+足背部 肿胀 n v
+扁桃体 肥大 n a
+思维 缓慢 n a
+下 腰部 疼痛 nd n a
+良性 溃疡 改变 b n v
+中枢性 发热 n v
+热痰 口臭 v n
+二 尖瓣 返流 m n v
+吞咽痛 nh
+脊髓 压迫 n v
+死骨 nh
+大 疱 （ 含 脓性 液体 ） a n wp v n n wp
+功能性 头痛 n a
+指 ( 趾 ) 甲 脆软 萎缩 v wp n wp n a v
+肥胖 前期 a nd
+凹甲 nh
+“ 咳嗽 水 ” 上瘾 wp v n wp v
+心肌 细胞 的 浊肿 n n u n
+移行 病变 v v
+子宫 呈 横椭圆形 n v n
+膝关节 不 能 完全 伸直 n d v a v
+放屁 过 臭 v u a
+纤毛 上 皮细胞 损伤 脱落 n nd n v v
+颈 软 不 能 抬头 n a d v v
+角膜 反射 迟钝 n v a
+进行性 肝 缩小 n n v
+婴儿 湿疹 n n
+乳头 湿疹 n n
+眼白 发 黄 n v a
+眼球 偏 斜 n d a
+鼻子 上火 n v
+失声 v
+肛门 外 翻 n nd v
+休克 nh
+子宫颈 扩张 n v
+体重 增加 n v
+情志 内伤 n n
+岳素荣 nh
+呼吸音 低 n a
+医师 n
+咳嗽 伴 胸痛 v v n
+十二指肠 高度 扩张 i d v
+胆囊壁厚 nh
+齿轮样 强直 n a
+腰脊椎 疼痛 n a
+产后 小腹 坠痛 nt n v
+惊恐 发作 a v
+声带 萎缩 n v
+直立性 尿蛋白 n n
+眼睑 浮肿 n v
+脊髓 内空洞 形成 n n v
+肖志 nh
+频繁 呕吐 及 便秘 a v c v
+饥饿 时 上 腹痛 n n v v
+脊神经 压迫 n v
+肝 功能 不 全 n n d a
+累及 整个 腹腔 的 腹膜炎 v b n u n
+看 东西 有 重影 v n v n
+直腿 伸踝 试验 阳性 n v v n
+餐 后 血糖 高 v nd n a
+青少年 白发 n n
+指 ( 趾 ) 甲 横 断 v wp n wp n d v
+幻听 nh
+消瘦 严重 者 呈 ” ... a a k v wp wp
+梁红运 nh
+肠系膜 囊肿 n v
+心源性 呼吸 困难 n v a
+鼻腔 中后部 出血 n nd v
+骨痒 nh
+长骨骨骺端 钙化 不 全 n v d a
+舌肌 萎缩 n v
+不良 建筑 综合征 a n n
+代脉 n
+胃 扩张 n v
+肺部 感染 n v
+排 痰 无力 v n v
+口齿 含糊 n a
+逼尿肌 不 稳定 v d a
+指甲 细长 n z
+口腔 唇 系 带 粗大 n n v v a
+目痛 n
+心音 异常 n a
+柠檬色痰 nh
+肺 含水量 增加 n n v
+粪便 脓血 n n
+组胺性 面红 n nh
+弥漫性 下 腰 痛 n v n a
+葡萄 膜炎 n n
+过早 丧失 咀嚼 功能 d v v n
+颧骨斑 nh
+脸部 汗毛 明显 n n a
+缴 健菲 v nh
+地图 样骨 缺损 n n v
+枕叶 受损 n v
+死 精子 过 多 v n d a
+耀光感 nh
+膀胱 憩室 ... n n wp
+骨骼 变形 缩短 n v v
+髋关节 痛 n a
+局部 游走性 红斑 n n n
+肾小管 坏死 n v
+听力 减退 n v
+肺部 疼痛 n a
+绝经期 面红 b n
+构音 障碍 n n
+付瑜 nh
+克汀病 面容 v n
+腰部 的 不 稳 交锁 现象 n u d a v n
+心电图 异常 n a
+口酸 伴 有 口苦烧心 n v v n
+指 ( 趾 ) 肿胀 v wp n wp v
+小儿 夜啼 n n
+婴儿 说话 晚 n v nt
+咽部 灼热 疼痛 n z a
+风团 n
+颈 静脉 充盈 n n v
+语音 震颤 增强 n v v
+先天性 无 虹膜 n v n
+眼球 浮动 现象 n v n
+肩胛带 的 肌肉 不 发达 n u n d a
+盗 汗 v n
+间歇性 头晕 n v
+停经 v
+气 不 摄 血 v d v n
+呼吸性 酸中毒 n n
+格子样 变性 nh v
+上 焦火 v n
+苑长青 nh
+气 短 n a
+青春期 胸部 发育 缓慢 nt n v a
+光 过敏 d v
+髋外 侧 可见 皮 下 瘀 血斑 nl nd v n nd n n
+面颊 明显 内陷 n a n
+软腭 有 疤痕 n v n
+脉搏 细弱 甚至 不 ... n a d d wp
+眶周 瘀斑 nh n
+产后 头痛 nt a
+三峰热型 b
+听力 下降 n v
+子宫 穿孔 n n
+咬 嘴唇 或 舌 v n c n
+胰腺 纤维化 n v
+鼻咽腔 狭窄 n a
+弥漫性 脐周 疼痛 n n a
+额叶 癫痫 的 运动 ... n n u v wp
+对 称性 肌无力 p n n
+近曲 小管 受累 n nh v
+老人 便 秘 n d v
+骨 及 软组织 肥大 n c n a
+外阴鳞状 上 皮疣 状 增生 n nd n n v
+上 腹部 包块 nd n n
+肺栓塞 nh
+拔牙 后 出血 不止 v nd v v
+品行 障碍 n n
+意识 障碍 n n
+上 呼吸道卡 他 症状 nd v r n
+胆道 闭锁 n n
+抗 感染 能力 下降 v v n v
+门齿 间距 增 宽 n n v a
+肌张力 过 高 n d a
+超雌 nh
+糖代谢 紊乱 v a
+胎心率 改变 n v
+沟裂 增 宽 v v a
+维生素 E 缺乏 n ws v
+栓塞性 肾炎 n n
+代偿 作用 v n
+腰背 的 持续 隐痛 n u v n
+尿道 分泌 粘液 或 ... n v n c wp
+灾难 反应 n v
+肾 乳头 及 肾盂 出血 n n c n v
+中毒性 巨结肠 n n
+泪液 、 唾液 及 汗... n wp n c n
+出 汗 异常 v n a
+动脉 呈 多 处 伸长 扭曲状 n v a n v n
+中心性 钙化 n v
+发作间 精神 障碍 v n n
+尿失禁 与 遗尿 v c n
+心包 积 液体征 n v n
+分离性 遗忘 n v
+肌肉 发育 不良 n v a
+舌口 及 咽部 烧灼感 n c n n
+瞳孔 中 能 见到 白色 反光 n nd v v n n
+代谢性 碱 中毒 n n v
+始 于 眼部 ， 扩张 ... v p n wp v wp
+生理性 厌食 n v
+睁眼 昏迷 v v
+右上 腹痛 nd v
+胃阴虚 nh
+心率 增 快 n v a
+智力 减低 n v
+妊娠性 黄褐斑 n nh
+鼻腔 不能 关闭 引... n v v wp
+腹式 反常 呼吸 n d v
+恶病性 痤疮 n n
+挖 耳 出血 v n v
+痛性 脸 抽搐 n n v
+呼吸 异常 v a
+智能 障碍 n n
+鼻 中 隔 穿孔 n nd v n
+胸椎 疼痛 n a
+肺纹理 增多 n v
+肢体 过度 肥大 n d a
+抗 内膜 抗体 阳性 v n n n
+长脉 nh
+弱脉 nh
+咳嗽 伴 呼吸 困难 v v v a
+巨肠症 n
+主动脉 和 肺动 脉影 偏 小 n c v n d a
+头皮 撕裂 伤 n v v
+学习 障碍 v n
+脓血 便 n d
+肝细胞 脂肪性 变 n n v
+肥胖 a
+便秘 伴 剧烈 腹痛 v v a v
+牙关 紧 闭 n d v
+糖尿 n
+线状 骨折 n v
+遗传性 肥胖 n a
+兰彪 nh
+肌肉 完全 断裂 n a v
+梦游症 n
+齿龈 铅线 n n
+光 反射 消失 d v v
+肾 小 球 内 “ 三 高 ” n a n nd wp m a wp
+渗出性 胸水 n n
+头颈部 剧痛 n n
+尿 不尽 n d
+牙 疼 n a
+黏膜 损害 n v
+梁奎召 nh
+尿暗 黑色 v n
+脊髓 马尾 受累 n nh v
+睑结 膜 充血 露出 ... v n v v wp
+南康立 nh
+气体 弥散 障碍 n v n
+肛门括 约 肌松弛 v d v
+发作性 嗜睡 和 食欲 亢进 n v c n v
+肝 外 胆管 结石 n nd n n
+甲状腺 功能 低下 n n a
+频发房性 早 搏 n a v
+消瘦 a
+晶状体 膨胀 增大 n v v
+胃 排空 延缓 n v v
+肢体 远侧 常 有 麻痛 n nd d v n
+腹痛 v
+青春期 肥胖 nt a
+发绀 v
+心 肺 栓塞 n n v
+鼻衄 nh
+睡眠 时 睑闭 合 不 全 v n v v d a
+生长 过 快 v d a
+节段性肌 张力 障碍 n n n
+言语 增多 n v
+瓣膜 小叶 增 厚 n n v a
+说话 带 鼻音 v v n
+伴 高血压 v n
+脑血管 痉挛 n v
+斜视 v
+晕厥 nh
+舌咽 神经 损伤 v n v
+头部 及 眼后部 疼... n c n wp
+溶血性 贫血 n v
+发作性 傻笑 n v
+脐周 脓性 分泌物 较 多 n n n d a
+肛管 括约 肌 横 断 j j n d v
+心肌 肥厚 n a
+脓 鼻涕 增多 且 不易 擤 尽 n n v c a v v
+医生 n
+咽反射 消失 v v
+免疫 功能 障碍 v n n
+脸颊 出现 红血丝 n v n
+肛门 瘙痒 n a
+巨痕症 n
+凝血 障碍 v n
+颅骨 骨折 n v
+肺阴虚 nh
+下肢 呈 剪刀 步态 n v n n
+脉 沉缓 或 沉细 n a c a
+臭汗 nh
+脑疝 n
+粪便 中 排 出 的 粪... n nd v v u n
+睡 后 手指 出现 麻... v nd n v m
+缺血性 挛缩 n v
+颈椎 退化 n v
+孕妇 腿 抽筋 n n v
+新生儿 母乳 喂养 ... n n v wp
+低烧 n
+投掷 动作 ( 颤搐 ) v n wp nh wp
+对 女性 物品 的 非... p n n u b
+脑膜 刺激 症状 n v n
+胸椎腰化 v
+冬季 皮肤 瘙痒 nt n a
+睑结膜 出现 灰白色膜 n v n
+乳糖 耐受 不良 n v a
+乳晕痒 nh
+指甲 呈现 黑色 n v n
+异性 蛋白 反应 n n v
+耳漏 nh
+活动 后 气促 v nd a
+鼻干 nh
+鳞屑 nh
+注意力 缺乏 多动症 n v n
+婴幼儿 外阴 疼痛 n n a
+唇干裂 nh
+头发 分叉 n v
+上肢 麻木 n a
+肝 转移 n v
+呼吸气 为 酒味 n v n
+腹壁 不 自主 轴动 n d v v
+长段 升 主动脉 发育 不 全 n v n v d a
+孕妇 小腿痒 n nh
+肠鸣音 亢进 n v
+血压 波动 大 n v a
+瘤体 牵拉 n v
+肾性 糖尿 n n
+微血栓 形成 n v
+室颤 nh
+胸椎 侧弯 n v
+眼球 斑点 n n
+产褥期 谵妄 状态 n n n
+软组织 感染 n v
+尿液 有 油 n v n
+大腿 外侧 痛 n nd a
+尿 中 雌激素 增高 n nd n v
+脊髓 丘脑束 受压 n n v
+臀沟 下 垂状 跛行 步态 n nd n v n
+岳军 nh
+外阴 溃疡 n n
+心火 n
+Korsako ... ws wp
+醒 后 不解 乏 v nd v a
+酒精 中毒性 偏执 状态 n n a n
+浅表 淋巴结 进行 性肿大 b n v j
+腱反射 消失 v v
+产后 下腹 坠痛 或 ... nt v v c wp
+学习 困难 v a
+妊娠 期间 小便 不通 v nd v a
+长骨肿胀 疼痛 v a
+停经 并 溢乳 v c v
+颈部 囊性 病变 n n v
+神经元 移行 异常 n v a
+第二 性征 改变 m n v
+近视弧 nh
+牙龈 深红 或 暗红色 n b c n
+心包 纤维 增 厚 n n v a
+小儿 嘴角 溃疡 n n n
+注视 快速 运动 的 ... v d v u wp
+前臂 旋转 痛 n v a
+衰弱 a
+甲状腺 结节 n n
+手 的 搓丸样 动作 n u n n
+脑占位性 病变 n v
+第２ 肋 软骨痛 m n n
+膀胱 结石 n n
+促 甲状腺 激素 偏 高 v n n d a
+肚脐痒 nh
+视神经 萎缩 n v
+巨舌 n
+电 机械 分离 现象 n n v n
+复杂性 醉 酒 n v n
+心脏 肥大 n a
+细小 黄色 瘤状 皮疹 a n n n
+被 窃 或 疑病 妄想 p v c n v
+门诊 高血压 n n
+胆绞痛 n
+丛伊 可 nh v
+肝 淤血 n n
+门 静脉 血流 郁滞 n n n a
+晕厥 反复 发作 v d v
+食管 出血 n v
+脑 实质 出血 n n v
+禚炬 nh
+吸吮 反射 消失 v v v
+营养 代谢 缺乏 n v v
+弥漫性 骨质 疏松 n n v
+子宫颈 变 大 n v a
+肌张力 减低 n v
+腭部 可见 小 出血点 n v a n
+结肠袋 半 月 襞 消失 n m n d v
+垂体 功能 减退 n n v
+正常 免疫 球蛋白 减少 a v n v
+社交 恐惧 n a
+夸大 狂 v a
+黏液 囊肿 n v
+Asperge ... ws wp
+泌尿系 感染 n v
+感觉 分离 v v
+尿频 nh
+腕银 叉状 畸形 n n n
+髌 周指 压痛 n nh v
+大动脉 错位 n v
+胃热 疼痛 n a
+胸廓 畸形 n n
+婴儿 睡觉 惊跳 n v v
+前列腺 痛 n a
+肛旁 脓肿 nh v
+猫 喘音 n n
+血管 萎缩性 白斑 n n n
+妊娠期 高血压 n n
+胸腺 缺 如 n v v
+脊柱 退变 n v
+疤痕 体质 n n
+决断 困难感 v n
+伤口 形成 一个 搏... n v m wp
+雌激素 不足 n a
+下腔 静脉 血栓 形成 v n n v
+上行性 皮肤 麻木 n n a
+手 下垂 时 皮肤 呈 灰蓝色 n v n n v n
+膝关节 疼痛 n a
+骶骨 囊肿 n v
+脸颊 发灰 n v
+唇水疱 nh
+眼角膜 反射 消失 n v v
+淋巴液 流出 n v
+胃石 形成 n v
+儿童 偏食 n v
+外斐氏 试验 阴性 n v n
+反应性 细胞 改变 n n v
+胶冻状 便 n d
+腹围 增大 n v
+头昏 想 睡觉 nt v v
+耳道 堵塞 n v
+拥抱 反射 减弱 或 消失 v v v c v
+点状 出血 n v
+婴儿 黑头 粉刺 n n n
+脊髓 出血 n v
+咽炎 、 舌炎 、 龈炎 n wp n wp n
+甲周炎 nh
+趾端 干枯 发 黑 n v v a
+出血 倾向 v n
+脐尿管 残余 n n
+肘部 剧烈 疼痛 ， ... n a a wp wp
+晶状体 青光眼斑 n n
+免疫性 溶血 n v
+唇皱褶 增多 畸形 n v n
+术后 急性 精神 障碍 nt b n n
+牙齿 呈 黄色 浅灰 ... n v n n wp
+内 斜 V 征 nd a ws v
+眼压 突然 迅速 升高 n a a v
+蛙形腹 nh
+舌干 苔厚 v a
+持续 颅内 杂音 v nl n
+牵涉 痛 v a
+耳堵 nh
+捕蝇 舌征 v v
+体肺 循环栓塞 n v
+月经 血块 过 多 n n d a
+梁桂新 nh
+营养 不 良性 水肿 n d b n
+内脏 梗阻 n n
+耻区 肿块 n n
+胃肠 粘膜 的 通透性 增高 n n u n v
+踝关节 肿胀 n v
+癫痫 持续 发作 n v v
+脊神经根 受损 n v
+口腔 起泡 n v
+外展型 骨折 n v
+乳头 皲裂 n v
+口角 下垂 n v
+睡眠 麻痹 v a
+颈椎间盘 退变 n v
+黏膜 出现 出血点 n v n
+粉红色 泡沫 样痰 n n n
+呼气 困难 v a
+跖纹 nh
+肝 缩小 n v
+环甲肌 失去 收缩 ... n v v wp
+齿龈 有 蓝线 n v n
+踝部 及 足 背 水肿 n c d v n
+永久性 秃 发 n nh v
+脾胃 湿 热 n a a
+夜盲 nh
+肾 小 球滤过率 下降 n a n v
+颈部 疼痛 n a
+认知 功能 障碍 v n n
+尿液 中 有 稠厚 胶样物 n nd v a n
+绝经 v
+真菌 感染 n v
+肌肉 撞 伤 n v v
+新生儿 气促 n n
+商鲁翔 nh
+粪便 嵌塞 n v
+心功能 失代 偿 n v v
+肛门 坠 胀 n v a
+大腿 肌肉 萎缩 n n v
+上肢 无力 v v
+自觉 汗 臭 a n a
+知觉 消失 n v
+肾动脉 狭窄 n a
+外阴 下 坠感 n nd n
+舌咽 神经痛 或 其 ... v n c r wp
+乳汁 郁结 n v
+产后 腹痛 nt v
+匙状指 （ 趾 ） n wp nh wp
+脱水热 nh
+慈彦华 nh
+子宫 破裂 征象 n v n
+母婴 ABO 血型 不合 n ws n v
+集合管 或 乳头 弥... n c n wp
+儿童 大便 失禁 n n v
+凝肩 nh
+胆汁 淤滞 n v
+婴儿 睡觉 出 汗 n v v n
+胆汁 返流 n v
+回吸性 涕血 n n
+转肽 酶 偏 高 v n d a
+化脓性 腮腺炎 n n
+唇腭裂 nh
+上 腹弥漫性 压痛 v n v
+血小板 减少性 紫癜 n n n
+腹泻 为 水样 带 黏... v p n v n
+混浊 尿 a n
+梁海英 nh
+免疫力 降低 n v
+夜间 肩痛 nt n
+钩蚴性 皮炎 n n
+定位 体征 v n
+眼部 烧 伤感 n v a
+喉肌 无力 n v
+交叉腿 n
+精神 萎靡 n a
+孕妇 小 腹痛 n a n
+流感 样 症状 n n n
+儿童 联想 和 情感 障碍 n nz c n n
+肾 异位 伴随 输尿管 异位 n n v v n
+血管 硬化 n v
+濡脉 nh
+继发性 视神经 萎缩 n n v
+齿龈 肿胀 n v
+下 腹部 钝痛 和 酸胀感 nd n v c n
+生理性 肥胖 n a
+肾前性 肾 功能 不 全 n n n d a
+乳房 硬化 n v
+视网膜 出血 n v
+缺 碘 v n
+川 字纹 j n
+骨骼 表面 向 外 突出 n n p nd a
+侧 腹壁 或 后 腰部 有 压痛 v n c nd n v n
+小儿 前囟 凹陷 n nd v
+逆行性 遗忘 n v
+趾蹼 间隙 麻木 v n a
+胃肠道 淤血 n n
+下肢 放射 痛 n v a
+心肌冬眠 现象 v n
+脊髓 病变 n v
+衰老 加快 a v
+头 或 颈部 发胀 及 跳 动感 n c n v c v n
+血管 伤 n v
+上 腹囊性肿块 v n
+胎盘 老化 n v
+咽喉 及 口内 刺痒 n c nl a
+临产 后 阵痛 剧烈 v nd v a
+变应性 咳嗽 n v
+低温性 昏迷 n v
+耳后 淋巴结 肿大 nt n v
+痛阈 降低 i v
+尿闭 nh
+神经症性 反应 n v
+足 跟 淤血 d v n
+瞳子 高 n a
+额部 疼痛 n a
+手指 冻肿 n v
+臀部 可 触及 上移 ... n v v v wp
+结膜 干燥斑 n n
+剧痒 nh
+疤痕 增生 n v
+持续 低烧 v n
+饭后心悸 nh
+间歇性 尿蛋白 n n
+脐部 有 一半 球形 肿块 n v m n n
+桡骨 茎 突部 局限性 疼痛 n n n n a
+背部 长痘 n v
+莦锵新 nh
+占 思乔 v nh
+口腔 粘膜 上 白色 ... n n nd n wp
+体癣 n
+梁思乡 nh
+喉 弥漫性 黏膜 肥... n n n wp
+肠囊性 积气 n n
+多 饮 a v
+孕妇 胃 痛 n n a
+不可 克制 的 饮酒 冲动 v v u v a
+牙龈 肿痛 n v
+电击 样痛 或 刺痛 的 头痛 v n c a u a
+胸水 n
+小胃 综合征 nh n
+眼球 会聚 功能 麻... n v n wp
+静止性 结石 n n
+神志 淡漠 n a
+下腹 疼痛 v a
+色素性 皮损 n n
+尿 隐血 n v
+儿童 头痛 n a
+气血 凝滞 n v
+桥脑 出血 n v
+小儿 睡眠 不好 n v a
+溃疡 n
+颈椎间盘 突出 n a
+一时性 便秘 n v
+酒后 便 血 nt d n
+软组织 肿胀 n v
+付红娟 nh
+气机 失调 n v
+情绪性 失眠 n v
+顽固性 疼痛 n a
+鼻粘膜 溃疡 和 萎缩 n n c v
+口腔 念 珠菌 感染 n v n v
+胸部 瘙痒 n a
+心脑血管 意外 n a
+咯血 伴 有 皮肤 粘膜 出血 v v v n n v
+妊娠 期间 甲亢 v nd n
+脆性 X 综合征 n ws n
+蝶形 骨折 n v
+肛门 湿疹 瘙痒 n n a
+缺氧 缺血性 神经 损伤 v n n v
+四肢 苔 藓样 变 n n n v
+心源性 呼吸窘迫 n v
+脑水肿 nh
+老年人 流泪 多 n v a
+鲜红 斑痣 z n
+脉搏 细速 n n
+隐球菌 囊膜 多糖 堆积 n n n v
+抽风 nh
+面痛 n
+腋毛 毛干 上 有 微小 结节 n n nd v a n
+脊髓性 间歇 破行 n n v
+逆行性 细菌 感染 n n v
+锥虫性 “ 下疳 ” n wp v wp
+视野 缩小 n v
+胃肠道 出血 n v
+软腭浅表 溃疡 n n
+足 跟 蓝黑色 或 黑色 斑点 d p n c n n
+疥疮 结节 n n
+腹壁 红斑 n n
+睑结膜 的 巨大 乳头 n u a n
+轻度 精神 发育 迟滞 b n v v
+膀胱 排空 不 全 n v d a
+挖 鼻孔 v n
+无睾丸 nh
+咽部 充血 n v
+大便 异常 n a
+味觉 异常 n a
+血小板 减少 n v
+精囊 增大 n v
+重度 贫血 b v
+四肢 酸痛 无力 n a v
+杵状指 （ 趾 ） n wp nh wp
+食物 在 胃 的 通过 障碍 n p n u v n
+小 脑 出血 a n v
+蛔虫 感染 n v
+咽喉部 充血 n v
+脸上 长斑 nl n
+革兰 阴性 杆菌 感染 ns n n v
+伤口 感染 n v
+颊部 脂肪 消失 呈 ... n n v v wp
+胸痛 伴 呼吸 困难 n v v a
+咬痛 i
+肛门 松弛 n a
+产前 征兆 nt n
+下 蹲 困难 nd v a
+眼晶体 前 房 棕色 光 反射 n nd n n d v
+昏迷 v
+亢丽芳 nh
+臀沟 展 平和 下垂 n v a v
+牙缝 增 宽 n v a
+伸 臂 握手 疼痛 v n v a
+结节 n
+喉咙 冒黏液 n v
+中耳 和 耳咽 管 纤毛 异常 n c v v n a
+传导 阻滞 v v
+梁群山 nh
+颈部 肌肉 肿胀 变 硬 n n v v a
+子宫 出血 n v
+生殖泌 尿道 危象 v n n
+幽门 肿块 n n
+药物 过敏 反应 n v v
+小儿 青盲 n n
+远端 胃窦 产生 异位 节律 b n v n n
+肾血管 畸形 n n
+尿潴 留 n v
+夕阳 综合征 n n
+颈部 皱纹 多 n n a
+吸气 困难 v a
+种 宗雷 v n
+癔症 步态 n n
+肥胖性 水肿 n n
+紧张 a
+牵引性 头痛 n a
+指甲 上 起 小 细粒 n nd v a n
+蛛网 膜腔 内 囊肿 n n nd v
+颅外 头痛 nl a
+小腿 酸痛 n a
+低 补 体血症 a v n
+额部 肿块 n n
+小腿 发胀 n v
+颅神经 麻痹 n a
+手 部 震颤 n n v
+鼻梁 平塌 n v
+脓毒性 血栓 n n
+舌质 红绛 n n
+流行性 肌痛 b n
+声门 以上 的 损伤 n nd u v
+肛门 外 括约肌 断裂 n nd n v
+唇 上 长 有 小 水泡 n nd v v a n
+急性 呼吸窘迫 综合征 b v n
+湿罗音 nh
+脘痞 nh
+中枢性 呼吸 暂停 n v v
+肠鸣 nh
+局限性肌 张力 障碍 n n n
+肾结晶 nh
+软腭 运动 不 对称 n v d a
+性感 不快 n a
+鞍鼻 nh
+叹息 样 呼吸 v n v
+面肌 无力 n v
+核上性 垂直性 眼肌 瘫痪 n n n v
+膝 、 踝 反射 减退 n wp n v v
+腹肌 强直 n a
+颈部 搏动 n v
+巨 输 尿管症 d v n
+新生儿 蛋白尿 n n
+胫骨结节处 的 酸... n u n
+输尿管 囊肿 v n
+消化道 狭窄 n a
+脑膜炎 n
+气道 陷闭 n v
+龟头 出血 n v
+喘息 v
+歪斜指 nh
+脾气 变 坏 n v a
+雾视 nh
+尿道瓣 nh
+神经 肌肉 症状 n n n
+眦部 缺损 或 眦缺损 n v c v
+饭后 困倦 nt a
+脚 后 跟裂 n nd v
+鼻子 颜色 苍白 n n a
+精液 稠 n a
+不 能 露齿 及 突唇 d v v c n
+肌肉 硬结 n v
+烫伤 后 汗腺 受损 v nd n v
+胸膈 间 烧灼 嘈杂感 n nd v n
+钙化影 nh
+疝区 的 疼痛 或 坠胀感 n u a c n
+甲状腺肿 nh
+继发性 纤溶 功能 增强 n n n v
+指甲 特大 有 纵纹 ... n b v n wp
+视网膜 静脉 纡曲 怒张 n n n v
+色素 脱失 n v
+异常 高大 d a
+哭泣 晕厥 v v
+胸 腰椎 压缩性 骨折 n n n v
+静脉 血栓 n n
+上肢 及 面部 血管 ... n c n n wp
+齿龈炎 nh
+胃肠 扩张 与 脱肛 n v c v
+维生素 B1 缺乏 n ws v
+继发性 便秘 n v
+雄激素 依赖 n v
+欧阳海 nh
+小 指 指甲 有 凹陷 a v n v n
+头皮 触痛 n n
+反射性 腰痛 n n
+频吐 白沫 v n
+上 半身热 刺激性 多 汗 v n n a n
+嗅觉 过敏 n v
+小指 不明 原因 痛 n v n a
+顽固性 肥胖 n a
+透明 血管型 a n
+口角 皲裂 n v
+视 乳头 水肿 v n n
+横纹 肌溶解 n v
+梁佳佳 nh
+尿道 变 粗 变 硬 n v a v a
+臀中 肌麻 痹步态 nl n n
+骶尾部 窦道 形成 n n v
+产后 脱发 nt v
+痰鸣音 n
+视网膜 动脉 阻塞 n n v
+付丽 nh
+结肠 内 形成 坚硬 的 粪石 n nd v a u n
+儿童 性别 偏差 n n n
+痰黏稠 或 脓性 可 ... i c n v wp
+出现 喉结 v n
+甲亢 面容 n n
+掌趾 皮肤 黄色 角化物 n n n n
+尿内 出现 蛋白 及 管型 nl v n c n
+假期 综合症 nt n
+膈下 感染 nl v
+药物 依赖 n v
+轻压 指甲 ， 指头 ... v n wp n wp
+粘液性 水肿 面容 n n n
+气 血 不足 n n v
+脱皮 v
+肖爱军 nh
+肺动脉 楔压 （ P ... n n wp ws wp
+乳腺 发育 不良 n v a
+腹痛 ， 发热 及 黄疸 v wp v c nh
+听觉 过敏 n v
+腹泻 与 便秘 交替 v c v v
+睑缘 呈 横 “ S ” 形 下垂 n v v wp ws wp n v
+虚脱 v
+肝 肾 综合征 n n n
+指 、 趾甲 显现 苍... v wp n v wp
+四肢 近端 肌肉 和 ... n n n c wp
+尿道口 疼 n a
+足底 溃疡 nl n
+胰源性 腹痛 n v
+小儿夜 惊咬指 n v
+药物 中毒 n v
+脊柱 骨质 改变 n n v
+颈肩 疲劳 和 软组织 疼痛 n a c n a
+掌颏 反射 v v
+孕妇 气喘 n n
+肠蠕动 减少 v v
+椎动脉 迂曲 痉挛 n n v
+头痛 为 搏动性 a v n
+耳前庭 听觉 失衡 n n v
+心律 失常 n a
+肝星 状 细胞 增生 n n n v
+足底 凸 起 d a v
+交替性 暴食 厌食 n v v
+直立性 脱虚 n v
+前臂 短缩 n v
+炎性 损害 n v
+肢端 发绀 n v
+自主 神经 危象 v n n
+咳 泡沫 黏液痰 v n n
+口腔 黏膜 纤维化 n n v
+呼吸 衰竭 v v
+情绪性 厌食 n v
+鼻毛 脱落 n v
+胸部 丘疹 n n
+臀部 放射 痛 n v a
+纵隔 增 宽 v v a
+肩部 牵涉 痛 n v a
+混合型 酸碱 平衡 紊乱 b n a a
+腕管 综合征 n n
+生理 盲点 扩大 n n v
+纵隔 纤维化 v v
+粪柱 变形 变 细 n v v a
+Doc ws
+增殖腺 肥大 v a
+哭泣样 尖叫 v v
+肛门 有 黑色 肿块 脱出 n v n n v
+复合性 溃疡 n n
+铁宝刚 nh
+一 咳嗽 胸口 就 疼 d v n d a
+不良 睡眠 卫生 a v a
+偏身 萎缩 v v
+角回 受损 v v
+立毛 反射 亢进 nh v v
+腹满 nh
+特殊 面痣 a n
+食管 闭锁 n n
+淋巴结节 n
+性 心理 不 成熟 n n d a
+牵涉性 头痛 n a
+腋窝 有 异味 n v n
+继发性 闭经 n v
+骨软化症 n
+心 排血量 增多 n n v
+乳腺 肥大 n a
+肺部 或 支气管 周... n c n wp
+青春期 甲亢 nt n
+内 斜 A 征 nd v ws v
+牙齿 神经痛 n n
+儿童型肌 张力 障碍 n n n
+腹部 凹陷 呈 舟状 n v v n
+模糊不定 ， 情绪性 面痛 i wp n n
+腹股 沟处 或 闭孔处 肿胀 n n c n v
+男性型 肥胖 n a
+外阴 瘙痒 n a
+脾气 虚 n a
+下肢 弥漫性 水肿 n n n
+睡行症 n
+鼻翼 两侧 脱皮 n nd v
+乳腺 小叶 增生 n n v
+颅内 钙化 nl v
+体重 减轻 n v
+第5 指 短小 弯曲 m v z a
+颈 背部 肌肉 痉挛 n n n v
+注意 障碍 v n
+骨龄 延迟 n v
+睾丸 胀痛 n v
+热痛 a
+鼻小柱 缺损 n v
+骨硬化 v
+窥淫癖 nh
+门体 侧 支 循环 n nd v v
+肝 纤维化 n v
+抱癖 nh
+绝经 年龄 过 迟 v n u a
+息 肉样 损害 n n v
+小便 恐惧 v a
+糖类 皮质 激素 分泌 过 少 n n n v d a
+藏 毛窦 j n
+大便 呈 青黑色 n v n
+后 发际 低 nd v a
+牙齿 小 而 稀疏 n a c a
+偏侧 空间 忽略症 nd n n
+手 无力 不 自觉 的 ... n v d a u wp
+炎性 外痔 n n
+肾 小 球基 底膜 蛾噬 现象 n a n n v n
+软产道 异常 n a
+性 窒息 n v
+桡骨 茎 突 剧痛 n n d v
+书写 痉挛 v v
+日晒斑 nh
+低 射 血 分数 a v n n
+腋部 掌心 出 汗 n v v n
+肾性 骨质 软化 n n v
+紧箍咒 一样 头 紧 n a q a
+咽部 肌肉 运动 障碍 n n v n
+脑缺氧 n
+排水 样血性 大便 v n n
+囊肿性 痤疮 n n
+淋巴道 转移 n v
+眉间 皱纹 n n
+儿童 离别 焦虑 n v a
+肌肉 萎缩 n v
+腮腺区 肿大 n v
+颈椎 关节 的 根性 疼痛 n n u n a
+败血症 的 征象 n u n
+分离性 恍惚 状态 ... n a n wp
+口干 nh
+眼球 挫伤 n v
+假牙 疼痛 n a
+小儿曳 足 而 行 n a c v
+烦热 a
+褐青斑 nh
+扁桃体 小 或 缺 如 n a c v v
+肾动脉 硬化 n v
+输尿管 疼痛 v a
+痛性 溃疡 和 渗出 ... n n c v wp
+肝 大 n a
+跨 阈 步态 v n n
+头痛 并 呕吐 a c v
+血性 耳漏 n n
+心房 内 形成 混合 血 n nd v v n
+多发性 针尖样 瘀 点 n n v n
+老年人 高 粘血症 n a n
+欧阳丹 nh
+胱氨酸 储积症 n n
+肘关节 脱位 n v
+分离性 漫游症 n n
+入睡 幻觉 v n
+口甜 nh
+小儿 剧烈 咳嗽 n a v
+胎儿 不 完全 臀 先 露 n d a n d v
+淤青 nh
+肩周区 弥散 的 钝... n v u n
+南朝霞 nh
+过渡区 R 波 递增 不良 n ws n v a
+浅筋膜炎 nh
+化妆品 的 毛发 损害 n u n v
+乳头 溢出 血性 或 ... n v n c wp
+角膜 烧伤 n v
+口唇 出血 n v
+复听 v
+入睡 障碍性 失眠 v n v
+视物 模糊 n a
+腰椎 疼痛 n a
+促脉 i
+睡眠 节律 紊乱 v n a
+霰粒肿 nh
+顽固性 便秘 n v
+梁学嫚 nh
+伸舌 偏 斜 n d a
+龟头 瘙痒 n a
+动脉 造影 异常 n v a
+节律性 刻板 重复 ... n a v wp
+腹腔 积 液 n v n
+颧骨额 骨 下 陷 n n nd v
+胎盘钙化 v
+老年 大便 失禁 nt n v
+嘴角 降肌 发育 不良 n v v a
+肋膜腔 积水 n n
+痢疾样 大便 n n
+心脏 功能 突然 失代 偿 n n a v v
+眼裂 细小 n a
+发作性 眩晕 n v
+言语 功能 的 部分 丧失 v n u m v
+“ 三 怕 ” ( 水声 ... wp m v wp wp n wp
+肝 内 淤胆 n nd n
+盆腔 积液 n n
+异常 矮小 d a
+卵巢性 多 毛 n a n
+胸壁 塌陷 n v
+尿急 nh
+气 过 水 声 v u n n
+看 东西 有 小黑点 v n v n
+耳围 凹陷 n v
+梁炜峰 nh
+垂腕 nh
+睡觉 时 小腿 抽筋 v n n v
+手术 后 破伤风 n nd n
+上唇 附近 ， 鼻旁 ... n nd wp n wp
+胸膜 粘连 n v
+怪笑 v
+心跳 加快 v v
+肌纤维 颤搐 n v
+夜惊 i
+眼角 长斑 n n
+输卵管 粘连 n v
+肩部 或 肩胛区 持... n c n wp
+喉结 增大 n v
+外阴 白斑 n n
+病 理性 偷窃 n n v
+鼻黏膜 溃疡 n n
+颈部 可 前 屈 ， 怕 仰 伸 n v nd v wp v v v
+剧烈 运动 后 哮喘 a v nd n
+含 铁血 黄素 沉着症 v n n n
+脓尿 nh
+尾骶部 疼痛 n a
+豆纹 动脉 闭塞 n n a
+抬 肩 以 助 呼吸 v n p v v
+库欣 综合征 nh n
+凸甲 nh
+心肌 缺血 n v
+无宫 缩 间歇 ns v n
+肩部 劳损 n v
+反复 发作 抑郁症 d v n
+酩酊感 n
+流 鼻涕 v n
+反复 舔吮 口唇 d v n
+结肠梗阻 nh
+下肢 肌肉 瘫痪 n n v
+排 尿 异物感 v n n
+社交 敏感性 障碍 n n n
+鼻粘膜 干燥 发痒 n a v
+外伤性 遗忘症 n n
+胆红素钙 结石 n n
+核心 抗体 （ 抗 H ... n n wp v ws wp
+情绪性 哮喘 n n
+血偏酸 n
+脸部 大小 不一 n n v
+对 声音 敏感 p n a
+血管 堵塞 n v
+小腿 肌肉 萎缩 n n v
+睑结膜 沙粒 外观 n n n
+舌肌 麻痹 n a
+大 转子 叩痛 a n v
+阵发性 子宫 收缩 n n v
+尿道 黏膜 外 翻 n n nd v
+主动 脉弓 右位 a v n
+恶息 、 多 泡味 的 ... n wp a n u wp
+口角 生疮 n n
+室颤 阈值 降低 v n v
+肖武宇 nh
+痘疮 nh
+膝前 疼痛 nt a
+气管 间隙 形成 肿块 n n v n
+骶骨 发育 不良 n v a
+腹股沟 疼痛 n a
+过 荣华 v nh
+耳 后 长包 n nd n
+反复 高热 d a
+睑裂 狭小 v a
+疤痕 萎缩 凹陷 n v v
+手 的 歪扭 畸形 n u v n
+外耳道 狭窄 n a
+手机 依赖症 n n
+胆囊 结石 n n
+情绪 低落 n a
+门体 侧 支循环 的 形成 n nd v u v
+上腔 静脉 回流 受阻 v n v v
+肢体 运动 不 协调 n v d a
+眉毛变白 nh
+膝腱 反射 消失 n v v
+唾液臭 nh
+拇食指 捏物 功能 障碍 n n n n
+病理性 黄疸 n nh
+嗜盐 nh
+瞳孔 变 白 n v a
+绿色盲 n
+腹痛 伴 腹泻 v v v
+妊娠 高血压 征 v n v
+汗闭 现象 v n
+妊娠 毒血症 v n
+震荡性 神经 受累 n n v
+机械性 压迫 n v
+表皮 角化 n v
+眼球 运动 偏 斜 扭转 n n d v v
+脾胃 不 和 n d c
+食管壁 纤维化 n v
+Howship ... ws wp
+颈 静脉 怒张 n n v
+三 尖 瓣 狭窄 m a n a
+吸吮 反射 阳性 v v n
+心脏 失代 偿 n v v
+尿后 滴 沥 nt v n
+烟酸 缺乏 n v
+呼气 中 有 甜 臭味 n nd v a n
+足部 坏疽 n n
+肌肉 酸痛 n a
+噩梦 n
+脊髓性 肌 萎缩 n n v
+缩窄性 心包炎 n n
+肺 纤维化 n v
+指甲 呈 扁平形 n v n
+顽固性 失眠 n v
+久 不 消退 的 红色 皮肤 疤 a d v u n n n
+低 热消疲 a n
+二 羧基 氨基 酸尿 m q n n
+舌头 溃疡 n n
+上 唇 变 薄 v n v a
+嗜睡 v
+妊娠期 急性 脂肪肝 n b n
+丘疹性 痤疮 n n
+腕关节 桡侧 部位 的 疼痛 n nd n u a
+潮 红潮热 n n
+口腔 出血 n v
+胸痛 伴 冷汗 n v n
+小腿腓部 肌肉 疼 ... n n a wp
+胸闷 憋气 v a
+官爵 银 n n
+心 肾阳虚 n n
+手 变 短 n v a
+肌张力 降低 n v
+背痛 nh
+四肢 对 称性 软瘫 n p n n
+疑病症 n
+气胸 n
+烦渴 多 饮 a a v
+HBV 与 HCV ... ws p ws wp
+两性 畸形 n n
+眼球 垂直 运动 障碍 n v v n
+眼球 移位 n v
+代树芳 nh
+神经性 呕吐 n v
+情感 淡漠 n a
+胸壁 浸润 n v
+前列腺 结石 n n
+小儿 尿血 n v
+细胞酶 活性 异常 n b a
+青光眼斑 nh
+阵挛 - 强直型 n wp n
+压缩型 骨折 n v
+淋巴管 淤积 n v
+太阳穴 胀痛 n v
+脐带 过 短 n d a
+胸口 紧 绷 n d v
+目垢 增多 n v
+血沉 增速 n n
+鼻咽癌 的 远处 转移 n u nl v
+肝 肾阴虚 n n
+新生儿 中性 粒 细胞 增多 n n n n v
+产道 血肿 n n
+乳头 发炎 n v
+女性 乳房表 浅质 ... n n n wp
+智力 发育 迟缓 n v a
+乙肝 表面 抗体 （ ... n n n wp wp
+眼眶 异物 n n
+室 上 性心律 失常 n nd n a
+新生儿 抽搐 n v
+虹膜 缺损 n v
+头颅 向上 生长 呈 塔形 n v v v n
+自发性 骨折 n v
+短颈 n
+黏膜 白斑 n n
+脑沟 变 宽 n v a
+神经痛 n
+轻度 中毒 d v
+脑 死亡 n v
+耳廓 变 大 n v a
+前房色素 沉积 n v
+肾上腺 皮质 激素 不足 n n n a
+结肠憩室 n
+食管 扩张 n v
+手 足 长 水泡 n d v n
+角质化 v
+蛛网膜 粘连 n v
+睡瘫症 n
+眼皮 下垂 n v
+口痛 n
+缩瞳 、 眼睑 下 垂... v wp n nd wp
+剧烈 神经根性 痛 a n a
+排 便 不尽感 v d v
+咽喉 干燥 及 灼热感 n a c n
+盆腔 脓肿 n v
+背部 酸痛 n a
+酸烧伤 nh
+迎风 流泪 v v
+喜怒无常 i
+乳晕 发 黑 n v a
+芤脉 nh
+二氧化碳 潴留 n v
+滤泡 增大 v v
+子宫 附件 肿块 n n n
+食物 误 入 气道 n d v n
+腿脚 浮肿 n v
+头皮痒 nh
+心胃 的 奇怪 感觉 n u a n
+性欲 亢进 n v
+去 首 高血压 v m n
+分娩 后 甲状腺 肿大 v nd n v
+尖头 并 指 n c v
+口咽部 水 疱状 损害 n n n v
+过 强反向性 鼻炎 v n n
+不 典型 胸痛 d a n
+中上 腹痛 nd v
+大便色 深 n a
+糖类 皮质 激素 分泌 过 多 n n n v d a
+多 疑 a v
+粟粒样 丘疹 n n
+吞咽 障碍 v n
+颌小 nh
+对 光 反应 消失 p n v v
+腰骶部 酸痛 n a
+膝及 小 腿部 有 广... v a n v n
+青春期 后 无精液 nt nd i
+脚趾 关节 痛 n n a
+小儿 爱 咬 指甲 n v v n
+乙肝 e 抗 原 （ H ... n ws v b wp ws wp
+南 建 广 j v a
+大腿 长 红疙瘩 n a n
+下肢 麻木 n a
+凉结节 n
+梁凡福 nh
+面 、 颈部 味觉性 多 汗 n wp n n a n
+视神经 的 原发性 萎缩 n u n v
+抽筋 v
+结核杆菌 血行 播散 n n v
+粘膜 乳突状 生长 n n v
+梁文龙 nh
+腘窝 囊肿 n v
+持续性 胸部 疼痛 ... n n a wp
+青春 危险期 n nt
+胃酸 过 多 n d a
+肢体 发凉 n v
+呃逆 nh
+食指 和 中指 僵硬 痛麻 n c n a n
+血小板 寿命 缩短 n n v
+年轻 女性 心悸 胸闷 a n v n
+情绪性 多汗症 n n
+鼠疫样 皮损 n n
+挤压 伤 v v
+指甲 变 软 或 发生 变形 n v a c v v
+角结膜 干燥症 n n
+牙齿 裂纹 n n
+肛门 夜间 奇痒 n nt n
+女性 体毛 多 n n a
+尿道 刺痒 n a
+腋毛 变 稀少 n v a
+嗅觉 障碍 n n
+女性 小腹 疼痛 n n a
+难免 早产 v v
+弛 张热 v nh
+瘀血 积聚 v v
+眼睑 外 翻 n nd v
+舌 乳头 增生 n n v
+脚 后 跟 长 骨刺 n nd p a n
+鼻前庭部 发痒 n v
+胰腺 内钙化 n v
+婴儿 睡觉 摇头 n v v
+口唇 发绀 n v
+呼吸 功能 衰竭 v n v
+血栓 外痔 n n
+输卵管 迂曲 n n
+胃痉挛 nh
+脑脊液 蛋白量 增高 n n v
+看不到 脚尖 步行 困难 v n v a
+腹痛 伴 便 血 v v d n
+口腔 粘膜 弥漫 充血 n n v v
+口唇 苍白 n a
+产后 肥胖 nt a
+长期 使用 皮质 类 ... d v n n wp
+肩胛 带 “ 模拟 瘫痪 ” n v wp v v wp
+婴儿 睡觉 打鼾 n v v
+肝 被 膜 紧张 n p n a
+小颌 nh
+乳房 和 生殖器 萎缩 n c n v
+腹部 不适 n a
+血痂 n
+口舌生疮 n
+子宫 内膜 异位 n n n
+胎动 改变 n v
+纵隔 病变 v v
+一 过 性脑 缺血 d v n v
+运动 失调 v v
+凝血因子 功能 的 障碍 n n u n
+外踝 呈现 凹陷 n v v
+癫痫 发作 n v
+一 过 性红 斑狼疮样 d v n n
+肘关节 畸形 n n
+颈椎分节 异常 n a
+孕妇 腹部 硬块 n n n
+呼吸 抑制 v v
+脐周 皮肤 青紫 色斑 n n a n
+婴儿 头皮 有 黄色 结痂 n n v n n
+梁秋华 nh
+腰 痛 n a
+肾 无 功能 n v n
+肝虚 nh
+胸骨 压 痛 n v a
+心脏 压塞 征象 n v n
+有机 磷 中毒 b n v
+尿黄 似 浓茶 n v n
+胃窦 狭窄 n a
+瘤细胞 浸润 n v
+眼干 nh
+杯状 耳 n n
+生理性 腹泻 n v
+X- 现象 wp n
+牙齿臭 nh
+舌 两侧 边缘 毛状 白斑 n nd n n n
+乳房 内 光滑 质韧 ... n nd a a wp
+脸色 发 黑 n v a
+颌下腺 肿大 n v
+胫前 和 足部 坚硬 ... nt c n a wp
+言语 凌乱 v a
+增殖体 肥大 n a
+卵 圆窝 未 闭 n n d v
+烧伤 后 尿量 减少 v nd n v
+增生性 骨膜炎 n n
+剑突 压痛 n v
+颈动 脉痛 v n
+脱髓 nh
+食管 重复 n v
+囟门 跳动 n v
+浑身 忽冷忽热 n i
+心脏 转移 n v
+脂溶性 维生素 缺乏 n n v
+顽固性 心功能 不 全 n n d a
+顽固性 呃逆 n n
+付爱娟 nh
+血 中 钙离子 过 高 n nd n d a
+失水 v
+早饱 nh
+腰背部 有 皮毛窦 n v n
+头痛 a
+后 心疼 nd v
+乳房 巨大 n a
+肺源性 呼吸 困难 n v a
+腹腔 种植 n v
+身体 “ 福态 ” n wp n wp
+肝 脾 肿大 n n v
+粪便 带 绿色 n v n
+产后 血气痛 nt n
+淋巴 结结核 n n
+象限性 偏盲 n v
+食管 痉挛 n v
+钙 沉积 n v
+腰骶部 皮肤 多 毛... n n a wp
+胚胎 停止 发育 n v v
+升 主动 脉根部 环状 缩窄 v a n n v
+爪状趾 nh
+冲动 毁物 a n
+老年性 震颤 n v
+眼底 无红光反射 n v
+消化 不良 v a
+侵蚀性 水疱 n n
+不 能 眨眼 d v v
+“ E ” 字 征 wp ws wp n v
+低血糖性 昏迷 n v
+脐窝 湿润 有 臭味 n a v n
+色素 异常 n a
+脓性 分泌物 增多 n n v
+蜂窝 组织炎 n n
+耳廓 放射性 痛 n n a
+大量 饮 酒后 突然 ... m v nt a wp
+心动 过速 v a
+腊肠趾 nh
+脑脊液 白细胞 增加 n n v
+反射性 呕吐 n v
+继发性 肥胖 n a
+脏器 变 小 n v a
+小儿 哭闹不安 n i
+先天性 乳糖酶 缺乏 b n v
+两 眼 上 视 障碍 m n nd v n
+溃疡 穿孔 或 出血 n n c v
+喉部 刺痛 n v
+头皮 松垂 n v
+肝 昏迷 n v
+四叠体 受压 n v
+尿痛 n
+鼻子 黄色 或 棕色 n n c n
+小儿 进食 易 呕吐 n v a v
+腹痛 伴 恶心 、 呕吐 v v a wp v
+足部 肿胀 压痛 n v v
+排尿 时 外 阴灼 热... v n nd n wp
+急性 胃痛 b n
+动静脉 短路 现象 n v n
+运动 气喘 v n
+先兆 子痫 n n
+糙皮病 样皮疹 n n
+锁骨 上 的 搏动性肿块 n nd u n
+“ 冻僵 ” 现象 wp v wp n
+粘膜 有 粘着性 白斑 n v n n
+伤寒 面容 n n
+浆液 脓性 分泌物 n n n
+反拗 危象 v n
+心音 微弱 n a
+南慧 nh
+餐 后 发作性 腹痛 v nd n v
+颈性 高血压 n n
+大小便 潴留 n v
+性欲 减退 n v
+菌血症 n
+脂膜炎 nh
+肖明翠 nh
+右背 部痛 n n
+牙冠 呈 半 透明 乳光色 n v m a n
+虹膜 新生血管 与 ... n n c wp
+营养 不良 n a
+肌体 张力 异常 n n a
+频繁 发笑 a v
+食量 增加 n v
+宝宝 缺乏 安全感 n v n
+尿 淀粉 酶 升高 n n n v
+恐惧 a
+开放性 神经管 缺陷 n n n
+肠穿孔 n
+足癣 n
+距 骨坏死 v n
+肌阵挛 nh
+龟头 珍珠疹 n n
+圆形 或 卵圆形 丘... n c n wp
+慢性 面容 b n
+肾 盏 变 钝 n v v a
+QRS 波宽大 畸形 ws j n
+老年 男性 乳房 无... nt n n wp
+手唇 震颤 n v
+骨骼 停止 发育 n v v
+肢体 障碍 n n
+晨 起 肥皮肿 nt v n
+牙齿 数目 不足 n n a
+神志 模糊 n a
+脐周 疼痛 n a
+烫伤 起泡 v v
+付小凯 nh
+腹部 血管 杂音 n n n
+下肢 神经性 疼痛 n n a
+静脉 出血 n v
+异常 子宫 出血 d n v
+肝浊音界 缩小 或 消失 n v c v
+牙龈 萎缩 n v
+耳朵 位置 低 n n a
+黑痣 nh
+多发性 神经炎 n n
+手 、 足 部 厚壁 水疱 n wp n n n n
+腰椎间盘 突出 n a
+偏瘫 nh
+临产 后 俯屈 不良 v nd v a
+微循环 障碍 n n
+舞蹈 样步态 n n
+乳晕 深部 可扪 及 肿块 v n a c n
+便秘 伴 腹部 包块 v v n v
+鼻溢液 n
+手 震颤 n v
+鼻酸 n
+恶 病质 a n
+子宫 下垂 n v
+心率 过 缓 n u a
+“ 红光满面 ” wp i wp
+恶 寒 a a
+肾 盏 结石 n v n
+弥漫性 鼓音 n n
+肝 内 形成 嗜酸性 肉芽肿 n nd v n n
+唇红 干燥 nh a
+肾 功能 衰竭 n n v
+眼裂 歪斜 n v
+疼痛性 股 青肿 n n n
+肢体 疼痛 n a
+外阴 呈 幼稚型 无 阴毛 n v n v n
+剧烈 运动 或 强体 ... a v c n wp
+血性 腹水 n n
+丘疹 nh
+餐 后 综合征 v nd n
+舌体 深裂 n v
+畏热 nh
+心房 游走性 节律 n n n
+精液 带 血 n v n
+上肢 半 屈状 v m n
+尿 泡沫 n n
+脊柱 破坏 n v
+颅内 头痛 nl a
+分离性 身份 障碍 n n n
+进行性 肌麻痹 n n
+牙龈 痒胀 n v
+低 磷血症 a n
+肾 小管 重 吸收 障碍 n n d v n
+吸气 时 有 蝉鸣音 v n v n
+四肢 震颤 n v
+小 支气管 平滑肌 挛缩 a n n v
+拒食 v
+表皮 发生 钙化 n v v
+凝血 功能 障碍 v n n
+小儿 明显 瘦小 n a a
+梁学炜 nh
+霉菌 感染 n v
+大腿 刺 痛 n v a
+核黄疸 nh
+胃 排空 过 快 n v d a
+指甲 - 骨 四 联 征 n wp n m n v
+气滞 血瘀 v n
+眶周 青紫 nh nh
+维生素 C 缺乏 n ws v
+体温 过 低 n d a
+放屁 频频 v d
+脊柱 的 成角 畸形 n u n n
+胃 粘膜 充血 n n v
+难 治性 溃疡 a v n
+被害妄想 v
+腹股 沟区 可复性肿块 n n n
+尿流 呈 波动状 n v n
+产后 胸部 下垂 nt n v
+腹壁 反射 减弱 或 消失 n v v c v
+肝气 郁结 n v
+紫斑 nh
+咽部 有 异物感 n v n
+超量 饮 酒后 两 下 ... v v nt m q wp
+肛周 软瘊 nh n
+额 横纹 增 深 n n v a
+晶状体 突出 n a
+偏盲 nh
+前房 下方 有 红色 血平面 n nd v n n
+曲修齐 nh
+产后口渴 nh
+驼背 n
+肝掌 n
+泌尿道 破裂 n v
+冠状动脉 供 血 不足 n v n v
+上尿路 结构 和 功能 损害 v n c n v
+角弓 反 张位 n v nh
+心室 扑动 n v
+胎盘 前置 n v
+角膜 异物 n n
+骨间肌 和 鱼际肌 萎缩 n c n v
+尺动脉 或 桡动脉 ... n c n wp
+声门 水肿 n n
+呼吸道 狭窄 n a
+逆向型 房室 折返 ... b n v wp
+尿道口 有 白膜 形成 n v n v
+颅内 出血 nl v
+缺乏 自控 能力 v v n
+指甲 有 黄色 细点 n v n n
+梁宏宇 nh
+食管 下 段 静脉曲张 n nd n i
+躯体 或 颜面 某 一 ... n c n r m wp
+臂痛 nh
+淋巴 阻塞 n v
+小肠 细菌 过度 生长 n n d v
+面色 灰暗 n z
+肛门 会 阴区 潮湿 不 洁 n v n a d a
+穿 凿样 改变 颅骨 破坏 v n v n v
+胸廓 异常 n a
+肩胛带 和 上肢 疼痛 n c v a
+玻璃 体经 瞳孔 向 ... n n n p wp
+行走 后 小腿 肌肉 痉挛 v nd n n v
+恶心 与 呕吐 a c v
+弥漫性 头痛 n a
+颈动脉 窦性 晕厥 n n v
+胸骨 下端 压痛 n nd v
+低 热 a n
+面容 呈 灰色 n v n
+心包 压 塞 n v j
+肠 外 结核 n nd n
+外周 静脉 充勇 n n v
+肢端 溃疡 n n
+小 指 单一 褶纹 a v a n
+胎盘 植入 n v
+心 排血量 减少 n n v
+颈椎反弓 nh
+精索 增 粗 肿胀 n v d v
+新生儿 便秘 n v
+输乳管 阻塞 v v
+偏身肌 张力 障碍 n n n
+听觉 障碍 n n
+无 胡须 腋毛 和 阴毛 v n n c n
+股 神经 损害 n n v
+肠管 变形 n v
+虹膜 异色 n n
+下睑 外 翻 n nd v
+对 铋盐 过敏 p n v
+呆滞 a
+帅 冬怡 nh nh
+鳞状 上 皮 n v n
+口吃 nh
+牙体 损伤 n v
+踝 膝关节 积液 n n n
+环咽部 运动 障碍 n v n
+子宫 后 位 n nd n
+头枕部 慢性 疼痛 n b a
+淋巴 发育 不 全 n v d a
+肢体 局部 的 皮肤 ... n n u n wp
+急性 溶血性 尿毒 综合征 b n n n
+疲劳 a
+心脏 “ 偷停 ” 感 n wp v wp n
+脑器 质性 精神 障碍 n n n n
+阿罗瞳孔 nh
+发烧 v
+外 斜 V 征 nd a ws v
+面部 叩击征 n v
+南晓 nh
+坐立不安 i
+声带 麻痹 n a
+表情 淡漠 n a
+挛缩性 瘢痕 n n
+脑干 出血 n v
+贫血 nh
+日光 照射 引起 皮肤 过敏 n v v n v
+输卵管 肿大 n v
+智能 减退 n v
+病理性 纵火 n v
+下腹 坠 胀 n v a
+肺 内 圆形 实质性 ... n nd n n wp
+慢性 胃痛 b n
+眼睑 呈 紫红色 n v n
+频繁 遗精 a n
+卵巢 积液 n n
+苯丙氨酸 代谢 障碍 n v n
+行为 无计划性 n n
+面色 青灰 n n
+足底 和 足背 浮肿 nl c n v
+胎盘 血液 灌注 不良 n n v a
+眼睛 上火 n v
+新生儿 绿牙 或 棕褐 色牙 n n c n n
+肋骨 及 胸骨 下 吸 ... n c n nd v wp
+漏斗骨盆 nh
+呼气 时 胸口 痛 v n n a
+小儿声 带 损伤 n v n
+血胸 n
+肠道 转运 障碍 n v n
+痰 中 带 血丝 n nd v n
+胃寒 疼痛 n a
+腮腺 肿大 n v
+处女膜 无孔 n i
+肺纹理 减少 n v
+下肢 的 感觉 ， 肌... n u n wp wp
+呈 泡沫样 有 腥 臭味 稀便 v n v n n a
+哮鸣音 nh
+肘部 外 翻角 增大 n nd v v
+扭转 痉挛 v v
+胎儿 水肿 n n
+右下 腹痛 nd v
+泻药性 便 秘 n d v
+晨僵 nh
+低血糖性 低温症 n n
+肌性 肌无力 n n
+静脉曲张 i
+肺动 静脉瘘 v n
+肘关节 伸直 位 内 ... n v n nd wp
+腿 外侧 质 软半球 形 包块 n nd n n n v
+瘫痪 v
+先天性 X 因子 缺乏 b ws n v
+肾钙化 v
+戒断性痫性 发作 n v
+产道 裂伤 n n
+重度 精神 发育 迟滞 b n v v
+细胞 外液 减少 n n v
+排粪 时 肛门 灼痛 v n n v
+手掌 和 足底 角化 伴 多 汗 n c nl v v a n
+韧带 拉伤 n v
+颈短 nh
+急性 面容 b n
+肺 功能 失常 n n a
+不 协调性 兴奋 d n v
+肠道 血管 畸形 n n n
+甲状 旁腺 功能 亢进 n n n v
+无用感 n
+内脏 痛 n a
+下肢 水肿 n n
+掌跖 多 汗 v a n
+弯腰 时 腰 痛 v n n a
+外阴 压 痛 n v a
+浅表性 疤痕 n n
+卵巢性 闭经 n v
+肝源性 水肿 n n
+手 指甲 周围 起皮 n n nd v
+前列腺 钙化 n v
+摩擦型性 变态 n n
+食管 下 括约肌 张力 下降 n nd n n v
+腹泻 v
+酒精 中毒性 嫉妒妄想 n n v
+眼睑 下垂 n v
+肺 血 流量 很多 n n n m
+缺乏 深 睡眠 v a v
+心源性 胸痛 n n
+两 条 腿 不 一样 长 m q n d a a
+腹直 肌触 及 边界 ... j j c n wp
+稽留热 nh
+肘痛 nh
+下半身 消瘦型 n n
+对 红 绿 颜色 分辨 不 清 p a a n v d a
+拇指 和 食指 不 能 ... n c n d v wp
+摸空症 n
+硬肿症 n
+血瘀 体质 n n
+甲状 旁腺 机能 减退 n n n v
+懒 胆囊 a n
+心慌 nh
+尿胆 原 排泻 增加 n d v v
+眼睛 痒 n a
+眼睑 震颤 n v
+肺泡 灌洗液 可见 ... n n v wp
+腰椎椎管 狭窄 n a
+清晨 或 上午 头痛 nt c nt a
+持续 发烧 v v
+指甲 可见 横沟纺 n v i
+脓血性 白带 n n
+脱发 v
+拇指 不明 原因 疼痛 n v n a
+气体 弥散 功能 下降 n a n v
+肖于英 nh
+心窝部 隐痛 n n
+妊娠 时 出现 的 多 毛 v n v u a n
+乳房 红肿 热痛 n v a
+盆腔 包块 n n
+胃 重复 畸形 n v n
+氨基酸 尿症 n n
+惊跳 i
+肾病 综合征 n n
+狂笑 v
+痔块 脱垂 n v
+粪类 圆线虫 病 n n n
+维生素 B 族 缺乏 n ws n v
+肛门 畸形 n n
+痉挛性 咳嗽 n v
+睡眠 - 觉醒 时间 ... v wp v n wp
+头部 撞 伤 n v v
+肝气 犯胃 n v
+恶 病质 面容 a n n
+肝叶 萎缩 n v
+口眼 歪斜 n v
+口唇 麻木 n a
+嗳腐 nh
+心境 高涨 n a
+纵隔 囊肿 v n
+子宫 小 n a
+局部 头痛 n a
+过敏性 皮炎 n n
+髓质增生 nh
+内 收型 骨折 nd n v
+肩 背部 肌肉 痛 n n n a
+肝淀 粉样 变性 n n v
+血管性 水肿 n n
+运动性 兴奋 或 抑制 n v c v
+产后 便血 nt v
+躁 郁样 a n
+口唇 刺 痛 n v a
+孕妇 小腿 浮肿 n n v
+眼白 出现 红点 n v n
+心悸 伴 乏力 、 面色 苍白 v v a wp n a
+脚气 n
+立毛 反射 减弱 nh v v
+咽反射 亢进 v v
+热痱 nh
+血 脑 屏障 通透性 高 n n n n a
+神经性 耳鸣 n v
+髋部 酸胀 不适 n a a
+盆腔 脊膜 膨出 n n v
+脑白质 偏 少 n d a
+指甲 冻伤 n v
+肛裂 nh
+眉毛 外侧 脱落 稀疏 而 细 n nd v a c a
+乳头 肥大 n a
+肾上腺 皮质 良性 ... n n b wp
+咽部 溃疡 n n
+疤痕处 破损 后 出现 溃疡 n v nd v n
+失眠 v
+言语 中断 n v
+思维 控制 异常 n v a
+对 光 反射 迟钝 p d v a
+胸肌 萎缩 n v
+肢端 角化 n v
+脓肿 nh
+躯干 畸形 弯曲 n n a
+造血 功能 障碍 v n n
+肠 粘膜 有 坏死 溃疡 n n v v n
+粪便 量 多 n n a
+肝衰竭 nh
+一侧 下腹 坠痛 nd v v
+面肌 强直 n a
+病理性 近视 n a
+腠理 不 固 v d v
+排尿 过程 中 发生 晕厥 v n nd v v
+扁桃体 充血 肥大 n v a
+卵泡 黄素化 n v
+呈 马蜂螫型 游走性 水肿 v n n n
+异嗜 酸癖 n n
+耳垂 小 n a
+肌腱 扭伤 n v
+种植 播散 v v
+扁平 苔癣 nh n
+眼 缺陷 n n
+阵挛 nh
+褐色尿 nh
+临产 后胎 头 衔接 较 晚 v n nd v d a
+动脉 粥样 硬化 n a v
+呼吸 困难 v a
+颅脑 损伤 后 头痛 n v nd a
+脑膜 刺激 征 n v v
+口腔 幻触 n v
+乳头 瘙痒 n a
+肺泡 破裂 n v
+食管壁 增 厚 n v a
+突肤 挺胸 n v
+心理 老化 n v
+小便 刺痛 nh v
+指 节垫 v n
+忧郁 a
+层状 鱼鳞癣 n n
+盲肠 阿米巴 肉芽肿 n nh n
+呕血 nh
+眼睑 闭 合 不 全 n v v d a
+颅内 感染 nl v
+巨大 的 结肠 a u n
+心肌灰白 而 松弛 a c a
+接触性 出血 n v
+喜 讲 秽语 v v n
+基因 融合 n v
+螺旋形 骨折 n v
+粪内 或 直肠 乙状 ... nl c v n wp
+颈椎 变形 n v
+前列腺 快感 n n
+网络 综合症 n n
+血骨髓 或 痰 涂片 ... n c n n wp
+冲动型 人格 障碍 n n n
+视觉 失认 n v
+眨眼 不止 v v
+淋巴增生 nh
+膀胱 容量 的 减少 n n u v
+鼻窦 气压 伤 n n v
+颅底 畸形 nl n
+脊髓 缺血 n v
+肢端 易 发生 不易 ... n a v a wp
+不明 原因 发热 v n v
+不 全 流产 d d v
+胸膜 休克 n v
+急性 腹痛 b v
+虹膜 蓝色 n n
+肘管 综合征 n n
+汗毛 过 多 n d a
+蝶鞍 空泡 n n
+眼底 樱桃 红斑 n n n
+胰腺 外分泌 功能 不良 n v n a
+肾 小 球 硬化 n a n v
+拇指 三 节 n m q
+听力 缺陷 n n
+肥大 结节 纤维 组织 增生 a n n n v
+上吐下泻 i
+膀胱 膨隆 n nh
+重症 肌无力 n nz
+稀便 a
+心脏 毒性 作用 n n n
+婴儿 需要 较 大量 ... n v d m wp
+门脉 高压 n n
+主动 脉瓣 上 膈膜型 狭窄 a n nd n a
+膈 穹窿 变为 扁平 v n v nh
+颅内 占位性 病变 nl n v
+阑尾脓肿 nh
+行为 动作 幼稚 愚蠢 n n a a
+肿瘤性 脱发 n v
+口干渴 难 忍 n a v
+角膜 上 皮糜烂 n nd n
+眼外 转移 nl v
+肢端 缺血 n v
+产后 月经 不再 来潮 nt n d v
+染色体 畸形 n n
+脑叶 出血 n v
+自我 残伤 行为 r v n
+泪腺 囊肿 n v
+心悸 伴 消瘦 、 腹泻 v v a wp v
+梳头 或 洗头 时 头... v c v n wp
+胸口 闪电 疼痛 n n a
+儿童期 消化性 溃疡 n n n
+肛门 短 时间 阵发性 钝痛 n a n n a
+前额 头痛 n a
+头 颈 分离感 n n n
+血清 免疫 球蛋白 可 升高 n v n v v
+中 指 指甲 凹陷 nd v n v
+言语 紊乱 v a
+盆腔 下 垂感 n nd n
+病理性 醉 酒 n v n
+肠道 吸收 水分 增加 n v n v
+脑桥 小 脑角 综合征 n a n n
+牟连芳 nh
+结石 nh
+肋 间隙 变 窄 n n v a
+牙痛 nh
+肾 小管 酸化 功能 障碍 n nh v n n
+子宫 前 位 n nd n
+小 阴唇 及 前庭 也 ... a n c n d wp
+肩 胛 骨痛 n v n
+面部 皮肤 过敏 n n v
+二 碱基 氨基 酸尿症 m n n n
+心室 肥大 n a
+急性 呼吸 困难 b v a
+额叶 癫痫 的 扣 带 回 发作 n n u v v v v
+颌骨 呈 “ 扇形 ” ... n v wp n wp wp
+蛙状鼻 nh
+前额 及 颧骨 突出 n c n a
+胆囊 积水 n n
+脑血管动 静脉 畸形 v n n
+附睾 囊肿 v n
+腹水 n
+第1 跖趾 关节 疼 ... m q n a wp
+骨斑点 n
+右下 腹压 痛 nd v a
+顽固性 头痛 n a
+复视 v
+手足 麻木 n a
+肖红梅 nh
+女性 性器官 反应 缺乏 n n v v
+尿道 烧灼感 n n
+口唇 疱疹 n n
+胎儿 酒精 综合征 n n n
+血栓 脱落 n v
+牙齿 数目 过剩 n n v
+大便 不成形 n n
+牙齿 呈 棕黑色 n v n
+板状腹 nh
+顺行性 遗忘 n v
+口淡 无味 n a
+肖永庆 nh
+表情 恐惧症 n n
+脂肪 浸润 n v
+下肢 红 斑结节 n a n
+低血磷 n
+无晶状体 眼 b n
+情绪性 癌症 n n
+粪便 中 见到 褐红 ... n nd v nh wp
+手掌 及 足趾 皮肤 ... n c n n wp
+间歇性 胃痛 n n
+纤毛 清除 功能 障碍 n v n n
+下颌 后 缩 v nd v
+腺性 或 囊性 膀胱炎 n c n n
+外周 血管 减少 n n v
+鼻裂 nh
+风湿性 血管炎 n n
+手指 扭伤 n v
+甲皱 毛细血管 袢数 减少 n n n v
+婴儿 睡觉 不 踏实 n v d a
+月经期 长痘 n v
+低 钙血症 a n
+下肢 血压 偏 低 n n d a
+血糖 升高 n v
+弥漫性 出血 n v
+继发性 癫痫 n n
+眉下垂 或 位置 低 v c n a
+间歇性 失忆 n v
+胸锁乳突肌 附着 处 压痛 n v n v
+粪便 中 查见 虫卵 ... n nd v n wp
+苑玉梅 nh
+脂肪泻 nh
+付雷 一 v m
+胸腹壁浅 在 条索 ... n p n wp
+夜间 头痛 nt a
+血脂 异常 n a
+咽颊部 烧伤 n v
+梁林昌 nh
+鞘膜 积水 n n
+肝 肾 亏虚 n n a
+梗噎 nh
+精神 运动性 活动 变 坏 n n v v a
+髋外 侧 肿胀 压痛 nl nd v v
+会 厌炎 v v
+气 阴 两 虚 n a m q
+气 血 不 通 n n d v
+食欲不振 i
+青少年 膝痛 n n
+儿童 退缩 行为 n v n
+排气 多 v a
+粪便 硬结 如 羊粪状 n v v n
+胸椎 畸形 n n
+C ws
+口淡 黏腻 n n
+乳腺 胀痛 n v
+脉搏 短绌 n n
+排卵期 腹胀 n v
+耳 内 发胀 n nd v
+不 能 转 颈 d v v n
+脊髓 的 浸润 n u v
+泪腺 脱垂 n v
+便秘 v
+胎心率 异常 n a
+咯血伴 黄疸 n nh
+胸骨 后 异物 阻塞 ... n nd n v wp
+胆囊 增大 n v
