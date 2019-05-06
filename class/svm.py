@@ -2,6 +2,7 @@ import json
 import numpy as np
 from sklearn import svm
 from sklearn.model_selection import train_test_split as ts
+from sklearn.externals import joblib
 f = open("result_vector.json",'r')
 f_test = open("test_result_vector.json",'r')
 
@@ -44,4 +45,4 @@ clf_rbf.fit(train, label)
 score_rbf = clf_rbf.score(test_train, test_label)
 print(score_rbf)
 
-
+joblib.dump(clf_rbf, "svm.m")

@@ -16,8 +16,8 @@ f_out = open('symptom_split.txt','w')
 for each in f.readlines():
     each = each.strip('\n')
     words = list(segmentor.segment(each))
-    postags = list(postagger.postag(words))
-    f_out.write(" ".join(words+postags))
+    #postags = list(postagger.postag(words))
+    f_out.write(" ".join(words))
     f_out.write("\n")
 
 #words=segmentor.segment('我骨质疏松怎么办?')
